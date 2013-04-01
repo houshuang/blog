@@ -1,0 +1,10 @@
+---
+title: Archive
+---
+
+<% grouped_articles.each do |yearmonth, articles_this_month| %>
+    <h2><%= "#{month(yearmonth.last)}, #{yearmonth.first}" %></h2>
+    <% articles_this_month.each do |article| %>
+        <li><%= link_to article[:title], article.path %>, <%= get_pretty_date(article) %></li>
+    <% end %>
+<% end %>

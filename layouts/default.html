@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>My blog - <%= @item[:title] %></title>
+    <link rel="stylesheet" type="text/css"
+      href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css"
+      media="screen">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+  <body>
+    <div class='navbar'>
+      <div class='navbar-inner'>
+        <div class='container'>
+          <a class='brand' href='/'>My Blog</a>
+          <ul class='nav'>
+            <li class='active'><a href='/'>Home</a></li>
+            <li><a href='/archive'>Archive</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+<div class="span8">
+    <section class='content'>
+      <%= yield %>
+    </section>
+</div>
+<div class="span4">
+Sidebar
+</div>
+
+
+  </body>
+</html>

@@ -1,4 +1,3 @@
-blog
-====
+# My new blog
 
-Attempt at a nanoc blog
+This will eventually become my new [blog](http://reganmian.net/blog), based on [nanoc](http://nanoc.ws).
