@@ -7,7 +7,6 @@ tags:
 - personal
 - tech
 ---
-
 Last week I wrote about how [I began resurrecting a three-year old time
 tracker
 project](http://reganmian.net/blog/2013/03/16/unobtrusive-time-tracker-visualizing-time-spent-with-ruby-and-r)
@@ -94,7 +93,7 @@ on it to expand), you can see that I have not been spending enough time
 on my PhD lately, and hopefully this "nudge" will help me improve on
 that!
 
-![](http://reganmian.net/blog/wp-content/uploads/2013/03/time-use.png)
+![](http://reganmian.net/blog/wp-content/uploads/2013/03/time-use-small.png)
 
 **Future**
 
@@ -113,5 +112,3 @@ I've got two 10-hour bus trips coming up next week, on the way to and
 from[the Coursera conference](http://conference.coursera.org/), so maybe
 I'll get some more work done it then. In the meantime, I'm going to
 focus on my PhD, and try to turn those traffic lights green!
-
-Stian

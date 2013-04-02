@@ -13,7 +13,7 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet/' do
+compile '/stylesheet/*' do
   # don’t filter or layout
 end
 
@@ -36,12 +36,12 @@ compile '*' do
     # don’t filter binary items
   else
     filter :erb
-    layout 'default'
+    layout 'page'
   end
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/stylesheet/*' do
+  "/css/#{item.identifier.split("/").last}.css"
 end
 
 route '/posts/*', :rep => :default do

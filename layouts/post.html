@@ -1,9 +1,16 @@
 <% render 'default' do %>
-  <div class='post'>
-    <h1><%= item[:title] %></h1>
-    <aside>Posted at: <%= get_pretty_date(item) %> <%= link_to "[md]", (item.path + "/index.md") %></aside>
-    <article>
-      <%= yield %>
-    </article>
-  </div>
+
+<div id="page">
+
+  <h1 class="emphnext"><%= item[:title] %></h1>
+  <%= yield %>
+
+  <address class="signature">
+    <a class="author" href="{{ HOME_PATH }}">Stian Håklev</a>
+    <span class="date"><%= get_pretty_date(item) %></span>
+    <span class="location">Toronto, Canada</span>
+  </address>
+
+
+</div><!-- End Page -->
 <% end %>

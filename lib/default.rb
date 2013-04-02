@@ -7,14 +7,42 @@ include Nanoc3::Helpers::LinkTo
 require 'date'
 
 def grouped_articles
-  sorted_articles.group_by do |a|
+  art = sorted_articles.group_by do |a|
     [ Time.parse(a[:created_at]).year, Time.parse(a[:created_at]).month ]
   end.sort.reverse
+
+  years = []
+  sorted_articles.each do |a|
+    time = Time.parse(a[:created_at])
+    years << time.year
+  end
+
+  return [art, years.sort.reverse.uniq]
+end
+
+def day(post)
+  return number_to_ordinal(Time.parse(post[:created_at]).day)
+end
+
+def year(post)
+  return number_to_ordinal(Time.parse(post[:created_at]).day)
 end
 
 def month(which)
   months = %w(January February  March April May June  July  August  September October November  December)
   return months[which-1]
+end
+
+def number_to_ordinal(num)
+  num = num.to_i
+  if (10...20)===num
+    "#{num}th"
+  else
+    g = %w{ th st nd rd th th th th th th }
+    a = num.to_s
+    c=a[-1..-1].to_i
+    a + g[c]
+  end
 end
 
 module PostHelper

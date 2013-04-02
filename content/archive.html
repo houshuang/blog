@@ -1,10 +1,21 @@
 ---
 title: Archive
 ---
-
-<% grouped_articles.each do |yearmonth, articles_this_month| %>
-    <h2><%= "#{month(yearmonth.last)}, #{yearmonth.first}" %></h2>
+<%
+y = 0
+art = grouped_articles
+art[1].each do |y| %>
+<a href=index.html#<%= y %>><%=y %></a>
+<% end
+art[0].each do |yearmonth, articles_this_month| %>
+    <% if yearmonth.first != y
+      y = yearmonth.first
+      %>
+      <hr>
+      <h3 id='<%= yearmonth.first %>'><%= yearmonth.first %></h3>
+      <% end %><h2><%= "#{month(yearmonth.last)}, #{yearmonth.first}" %></h2>
     <% articles_this_month.each do |article| %>
-        <li><%= link_to article[:title], article.path %>, <%= get_pretty_date(article) %></li>
+
+        <li><%= day(article) %>: <%= link_to article[:title], article.path %></li>
     <% end %>
 <% end %>

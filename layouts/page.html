@@ -1,0 +1,12 @@
+<% render 'default' do %>
+
+<div id="page">
+
+<% unless item[:title] == 'Home' %>
+<h1 class="emphnext"><%= item[:title] %></h1>
+<% end %>
+<%= yield %>
+
+</div><!-- End Page -->
+
+<% end %>
