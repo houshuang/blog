@@ -13,7 +13,7 @@ code](https://github.com/houshuang/Personal-time-tracker), cleaning it
 up a bit and adding a simple R graph of my day. The script makes it very
 easy to track intention (ie. I am the one saying what I am working on,
 it doesn't try to infer it from my activity), and over time the log
-files should prove interesting.****
+files should prove interesting.
 
 **R graphs**
 
@@ -127,9 +127,7 @@ open in the browser.
 
 Anyway, that's how far I got in my pondering.
 
-Stian
-
-PS: This blog entry took exactly 37 minutes to write, most of which I
+*PS: This blog entry took exactly 37 minutes to write, most of which I
 did on the plane, which is the early pink blob you see on the timeline,
 then my battery ran out, I arrived, spent some time finding my AirBnB
-host, etc, and then the timeline resumes :)
+host, etc, and then the timeline resumes :)*

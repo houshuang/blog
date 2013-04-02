@@ -58,31 +58,31 @@ compile '*' do
 end
 
 route '/stylesheet/*' do
-  "/nanoc/css/#{item.identifier.split("/").last}.css"
+  "/blog/css/#{item.identifier.split("/").last}.css"
 end
 
 route '/js/*' do
-  "/nanoc/js/#{item.identifier.split("/").last}.js"
+  "/blog/js/#{item.identifier.split("/").last}.js"
 end
 
 route '/posts/*', :rep => :default do
   y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
 
-  "/nanoc/#{y}/#{m}/#{d}/#{slug}/index.html"
+  "/blog/#{y}/#{m}/#{d}/#{slug}/index.html"
 end
 
 route '/posts/*', :rep => :md do
   y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
 
-  "/nanoc/#{y}/#{m}/#{d}/#{slug}/index.md"
+  "/blog/#{y}/#{m}/#{d}/#{slug}/index.md"
 end
 
 route '/pages/*', :rep => :default do
-  "/nanoc/#{item.identifier.split("/").last}/index.html"
+  "/blog/#{item.identifier.split("/").last}/index.html"
 end
 
 route '/pages/*', :rep => :md do
-  "/nanoc/#{item.identifier.split("/").last}/index.md"
+  "/blog/#{item.identifier.split("/").last}/index.md"
 end
 
 route '*' do
@@ -91,7 +91,7 @@ route '*' do
     item.identifier.chop + '.' + item[:extension]
   else
     # Write item with identifier /foo/ to /foo/index.html
-    "/nanoc/" + item.identifier + 'index.html'
+    "/blog/" + item.identifier + 'index.html'
   end
 end
 

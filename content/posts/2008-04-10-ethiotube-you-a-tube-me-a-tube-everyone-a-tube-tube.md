@@ -26,22 +26,26 @@ So far, they only seem to have 81 videos online (according to the
 statistics), which varies widely. There are some dance videos, but also
 some documentaries. Here is a scary short film about a white fire and
 brimstone preacher who gives an Ethiopian audience the whole
-tele-evangelist treatment:\
- \
- And here is a clip from what looks to be “Ethiopia’s Next Great
-Stand-up Comedian”… I cannot understand what she says, but the judges do
-*not* look amused.\
- \
- Interestingly, the most viewed clip is a talk on [Ethiopian Higher
-Education](http://www.ethiotube.net/watch/200c36f7cd9dfd0e5dea/Dr.-Berhanu-Nega),
-which is approaching 800 times viewed.
+tele-evangelist treatment:
+
+<object width="480" height="360"><param name="movie" value="http://www.ethiotube.net/nvlab/player/player.swf?config=http://www.ethiotube.net/nvlab/econfig.php?key=04aa2015bbe13622d5d7"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://www.ethiotube.net/nvlab/player/player.swf?config=http://www.ethiotube.net/nvlab/econfig.php?key=04aa2015bbe13622d5d7" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" FlashVars="skin=skins/silver" width="480" height="360"></embed></object>
+
+And here is a clip from what looks to be “Ethiopia’s Next Great
+Stand-up Comedian”… I cannot understand what she says, but it sounds interesting.
+
+<object width="480" height="360"><param name="movie" value="http://www.ethiotube.net/nvlab/player/player.swf?config=http://www.ethiotube.net/nvlab/econfig.php?key=29b1afc2c38244c97061"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://www.ethiotube.net/nvlab/player/player.swf?config=http://www.ethiotube.net/nvlab/econfig.php?key=29b1afc2c38244c97061" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" FlashVars="skin=skins/silver" width="480" height="360"></embed></object>
+
+When I wrote this blog post, the most viewed clip was a talk on Ethiopian Higher
+Education with 800 views. Today (April 2, 2013), the most viewed video is [a clip from an Ethopian film](http://www.ethiotube.net/video/221/Addis-Hiwot-Ethiopian-Film) with more than 172,000 views.
 
 What I find interesting in all this is the idea of setting up a Youtube
 clone for a country - or a cause. I know there is already
 [](http://www.teachertube.com/)Teachertube, partly started because
 Youtube is blocked in so many schools. What are the advantages and
 disadvantages to doing this? Should there be envirotube, gaytube, and
-obamatube? (Some of these exist, although with different names). There
+obamatube? (Some of these exist, although with different names).
+
+There
 are strong local video sites in China, like [Youku](http://youku.com)
 and [Ku6](http://www.ku6.com), but not only is the interface language
 completely different (and so is the language used on most of the videos

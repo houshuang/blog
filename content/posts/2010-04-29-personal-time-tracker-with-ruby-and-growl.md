@@ -12,7 +12,9 @@ tags:
 - time tracker
 ---
 
-**Introduction** I'm fascinated by the idea of measurement itself having
+**Introduction**
+
+I'm fascinated by the idea of measurement itself having
 an effect on behavior. For example, it has been show that simply letting
 people see how much electricity they are using at any given time, leads
 people to decrease their usage. Data is also necessary to experiment,
@@ -49,7 +51,9 @@ Or perhaps to try to improve on some aspect of their life, such as
 weight loss, or wasting less time, and using the visualization of
 "brutally honest" data to drive that behavior change.
 
-**How can I stay more focused online?**I work on a number of different
+**How can I stay more focused online?**
+
+I work on a number of different
 projects concurrently, they all (mostly) happen in front of the
 computer, and combined with all the distractions and interruptions (an
 e-mail just arrived, my friend paged me, let me check this thing), it
@@ -93,7 +97,9 @@ legitimate purposes – connect with a researcher on Facebook, or view a
 film clip related to my research on Youtube, and was blocked (with no
 option of turning it off).
 
-**Getting a better sense of how I spend my time**So inspired by the
+**Getting a better sense of how I spend my time**
+
+So inspired by the
 NYTimes article, I thought it would be fun to try to track my time
 online, and maybe through this, be able to focus more on the tasks that
 really matter. I put out [a
@@ -125,7 +131,9 @@ click on the category, it would never become something I integrated into
 my workflow. (Note that there are a *lot* of time trackers out there,
 it's quite possible that this exists, and I didn't find it.)
 
-**Making my own** So I could not found a tool that would do exactly what
+**Making my own**
+
+So I could not found a tool that would do exactly what
 I wanted. Then I started wondering whether it would be possible to build
 my own tool. I realize the irony in spending this much time, trying to
 save time. But it's fun! My tool of choice is Ruby, and I realized that
@@ -160,7 +168,9 @@ currently use this program, but the method above should work as well,
 and doesn't require any external programs.
 
 **Visual
-feedback**[![](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-newentry.png "tracker-newentry")](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-newentry.png)As
+feedback**
+
+![tracker ](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-newentry.png) As
 I said, the actual code for making a new time stamp is about one line
 long. I simply add a time stamp (output of Time.now.to\_i) and the
 category as a new line to a text file. However, I would really
@@ -193,7 +203,9 @@ and I ended up with
 which worked perfectly (really hope the Growl team can fix this
 permanently!).
 
-**Status**[![](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-status.png "tracker-status")](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-status.png)In
+**Status**
+
+![ill ](http://reganmian.net/blog/wp-content/uploads/2010/04/tracker-status.png)] In
 addition to generating a file of timestamps, that could then be analyzed
 in any which way – graphs of time use over time, scatter plots, when
 during the day are you most likely to get distracted, etc. – I also
@@ -216,7 +228,9 @@ I had come up with. The whole project was about 110 lines of code
 (including white space and comments), but worked perfectly, and even
 looked good.
 
-**Cleaning up the code**This morning, I sat down to clean up the code a
+**Cleaning up the code**
+
+This morning, I sat down to clean up the code a
 bit. This is how I usually develop – it starts out as a simple idea, you
 write a few lines, try them out. Then it grows, and becomes a mess of
 code with no functions, lot's of code duplication, paths and values

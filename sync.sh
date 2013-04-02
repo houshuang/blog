@@ -1,2 +1,2 @@
 !#/bin/bash
-rsync --delete --stats -aqzPe ssh output/nanoc houshuan@reganmian.net:~/public_html/
+rsync --delete --stats -avzPe ssh output/blog houshuan@reganmian.net:~/public_html/

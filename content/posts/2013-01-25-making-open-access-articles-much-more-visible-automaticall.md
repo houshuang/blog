@@ -15,7 +15,7 @@ tags:
 - zotero
 ---
 
-[![OA-padlock\_oaig-pic1](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)In
+[![OA-padlock\_oaig-pic1 ](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)In
 April, [I wrote
 about](http://reganmian.net/blog/2012/04/17/api-to-check-if-a-publication-is-open-access/ "API to check if a publication is “Open Access”")
 my desire to make OA publications much more visible on [my academic
@@ -70,8 +70,9 @@ view)](http://reganmian.net/blog/2012/05/10/using-web-clipping-and-sidewiki-to-g
 and here is how it looks on the public web:
 
 [![Screen Shot 2013-01-25 at
-23.16.11](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.16.11.png)](http://reganmian.net/wiki/ref:bergstrom2011encouraging)(I
-have not inserted any tracking code, so I have no way of knowing how
+23.16.11](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.16.11.png)](http://reganmian.net/wiki/ref:bergstrom2011encouraging)(
+
+I have not inserted any tracking code, so I have no way of knowing how
 many people actually click these buttons and download the PDFs, although
 it would be interesting.)
 
@@ -84,11 +85,15 @@ So if you go to the bibliography, you can immediately see which
 publications are OA (and download them directly through the icon):
 
 [![Screen Shot 2013-01-25 at
-23.22.01](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.22.01.png)](http://reganmian.net/wiki/bib:bibliography)similarly
+23.22.01](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.22.01.png)](http://reganmian.net/wiki/bib:bibliography)
+
+similarly
 on an author page:
 
 [![Screen Shot 2013-01-25 at
-23.23.14](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.23.14.png)](http://reganmian.net/wiki/a:simon_buckingham_shum)And
+23.23.14](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.23.14.png)](http://reganmian.net/wiki/a:simon_buckingham_shum)
+
+And
 anywhere on the wiki where you are citing an article, for example this
 extract from my (very in-progress) [draft of a literature review on open
 courses](http://reganmian.net/wiki/draft_literature_review_open_courses) ([blog
@@ -96,10 +101,14 @@ about the process of writing this literature
 review](http://reganmian.net/blog/2012/06/13/tag-extract-a-tool-to-automatically-restructure-textoutline-using-tags/ "tag-extract: A tool to automatically restructure text/outline using tags")):
 
 [![Screen Shot 2013-01-25 at
-23.26.00](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.26.00.png)](http://reganmian.net/wiki/draft_literature_review_open_courses)As
+23.26.00](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.26.00.png)](http://reganmian.net/wiki/draft_literature_review_open_courses)
+
+As
 with any citation, hovering over the link shows you the full citation:
 
-[![hovering](http://reganmian.net/blog/wp-content/uploads/2013/01/hovering.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/hovering.png)and clicking
+[![hovering](http://reganmian.net/blog/wp-content/uploads/2013/01/hovering.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/hovering.png)
+
+and clicking
 on the link brings you to my article page with the full citation,
 download link, clippings, my high level notes, etc. (For example
 [Couros, 2010](http://reganmian.net/wiki/ref:couros2010developing)).
@@ -109,7 +118,9 @@ see all the citations are simply using the citekeys, and you get
 everything else for free:
 
 [![Screen Shot 2013-01-25 at
-23.31.19](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.31.191.png)](http://reganmian.net/wiki/draft_literature_review_open_courses?do=edit&rev=1350082780)Note
+23.31.19](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.31.191.png)](http://reganmian.net/wiki/draft_literature_review_open_courses?do=edit&rev=1350082780)
+
+Note
 that this is all dynamic, so if I in the future found an open version of
 the Fini article mentioned above, and added this metadata to BibDesk,
 this page would have a PDF icon next to Fini on the next reload (the
@@ -119,13 +130,17 @@ This doesn't only work on the wiki; I also created a WordPress plugin
 which enables me to use the same citekey syntax in my blog, and type for
 example:
 
-  [@couros2010developing] is a very interesting article 
-  about open teaching.
+```
+[@couros2010developing] is a very interesting article
+about open teaching.
+```
 
 And it turns into:
 
+```
 [@couros2010developing] is a very interesting article about open
 teaching.
+```
 
 **Future work**
 
@@ -141,7 +156,8 @@ BibTex, let me know). I use a hidden tag to expose the BibTeX entry on
 article pages:
 
 ![Screen Shot 2013-01-25 at
-23.49.29](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.49.29.png)This
+23.49.29](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-23.49.29.png)
+This
 enables me to do things like automatically grab and import the citation
 from another user's Researchr wiki into my own BibDesk (and if there is
 a URL, try to download the PDF and attach it automatically), and if you
@@ -155,8 +171,6 @@ the PDF browser, on the page specified:
 [![growl](http://reganmian.net/blog/wp-content/uploads/2013/01/growl.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/growl.png)
 
 [![skim2](http://reganmian.net/blog/wp-content/uploads/2013/01/skim2.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/skim2.png)
-
- 
 
 (I made [a screencast](http://www.youtube.com/watch?v=O5LgG_K3y8A)
 showing this off).
@@ -178,5 +192,3 @@ publishing, make sure you make a version of your article publicly
 available, so that you can get a
 nice [![pdficon\_small](http://reganmian.net/blog/wp-content/uploads/2013/01/pdficon_small.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/pdficon_small.png) next
 to your name!
-
-Stian

@@ -21,7 +21,7 @@ University of the UK](http://open.ac.uk), the international pioneer of
 open universities, has been very innovative with its [OpenLearn
 project](http://openlearn.open.ac.uk/).
 
-![](http://reganmian.net/blog/wp-content/uploads/2010/05/vu_illustration_2.png)I
+![ill ](http://reganmian.net/blog/wp-content/uploads/2010/05/vu_illustration_2.png)I
 was extremely excited to find the amount of material published in India
 by both the Indian Institutes of Technology and
 [IGNOU](http://reganmian.net/blog/2008/12/05/worlds-largest-university-opens-almost-all-its-materials/).
@@ -49,7 +49,7 @@ was established in 1985 ([WP](http://en.wikipedia.org/wiki/IGNOU)), and
 was initially based mainly on correspondence (although they also used
 satellite TV actively).
 
-![](http://reganmian.net/blog/wp-content/uploads/2010/05/vu_illustration.png)What
+![ ill](http://reganmian.net/blog/wp-content/uploads/2010/05/vu_illustration.png) What
 was a positive surprise to me, when I began looking at some of the
 videos, is that they seem to all be in
 ![](http://wikipedia.org/wiki/Urdu)[Urdu](http://wikipedia.org/wiki/Urdu).
@@ -97,7 +97,7 @@ played with the YouTube API previously.
 Here’s the code that I ended up with — this downloads all the metadata,
 and spits out the [HTML file](http://reganmian.net/vu) that I now host.
 
-~~~~ {.brush:ruby}
+```ruby
 require 'rubygems'
 require 'youtube_g'
 
@@ -150,7 +150,7 @@ courses.each_pair do |desc,vids|
  puts "</ul><p>"
 end
 puts "</ul><p>"
-~~~~
+```
 
 Here's a **small** sample of the courses available:
 

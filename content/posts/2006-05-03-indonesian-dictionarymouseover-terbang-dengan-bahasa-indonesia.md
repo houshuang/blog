@@ -6,7 +6,8 @@ tags:
 - asia
 ---
 
-[![](http://reganmian.net/blog/files/Bahasa.png)](http://reganmian.net/indonesian)It
+![ bahasa](http://reganmian.net/files/uploads/Bahasa.png)
+It
 turns out that I will 99% sure be leaving for Indonesia in two weeks,
 going to work for CARE Canada for a year, in Jakarta. I am very excited,
 and now that exams are over I threw myself wholeheartedly at learning
@@ -44,8 +45,10 @@ I am still planning to improve it, amongst others by making it possible
 to enter a url and have the webpage displayed, with markup. But try it
 out already.
 
-Stian\
- PS: Thanks to NewsinChinese.com for the mouseover-code, and Northern
-Illinois University and Patricia Henry.\
- PPS: The name means Fly with Indonesian, and was thought up by Yishin -
+Stian
+
+PS: Thanks to NewsinChinese.com for the mouseover-code, and Northern
+Illinois University and Patricia Henry.
+
+PPS: The name means Fly with Indonesian, and was thought up by Yishin -
 thanks.

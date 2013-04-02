@@ -54,7 +54,7 @@ I'll post some of them here.
 
 **Unique IDs for publications**
 
-[![qrcodeblog](http://reganmian.net/blog/wp-content/uploads/2013/03/qrcodeblog.png)](http://reganmian.net/blog/wp-content/uploads/2013/03/qrcodeblog.png)There
+[![qrcodeblog ](http://reganmian.net/blog/wp-content/uploads/2013/03/qrcodeblog.png)](http://reganmian.net/blog/wp-content/uploads/2013/03/qrcodeblog.png)There
 are a lot of reasons why we'd want unique IDs for publications, making
 citation lists unambiguous and easier to parse, enabling rich citations
 in non-traditional media (wikis, blogs), etc. Right now [CrossRef

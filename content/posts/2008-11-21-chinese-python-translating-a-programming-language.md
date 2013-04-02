@@ -1,15 +1,13 @@
 ---
-title: "Chinese Python: 2809CTranslating a programming language2809D"
+title: "Chinese Python: Translating a programming language"
 created_at: 2008-11-21 00:00:00 -0500
 kind: article
 tags:
 - china
 ---
 
-[![example of Python
-language](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/202px-Python_add5_syntax.svg.png "example of Python language")](http://commons.wikipedia.org/wiki/Image:Python_add5_syntax.svg)
-
-Image via Wikipedia
+![example of Python
+language](http://musicsophist.com/wp-content/uploads/2012/12/zhpy1.bmp)
 
 *Update:
 [Round-up](http://reganmian.net/blog/2008/12/04/chinese-python-multilingual-programming-2/)
@@ -45,43 +43,47 @@ Wikipedia](http://zh.wikipedia.org/wiki/ZhPy)).
 
 **Chinese Python:**
 
-  #!/usr/bin/env zhpy
-  # 檔名: while.py
-  數字 = 23
-  運行 = 真
-  當 運行:
-      猜測 = 整數(輸入('輸入一個數字: '))
+```python
+#!/usr/bin/env zhpy
+# 檔名: while.py
+數字 = 23
+運行 = 真
+當 運行:
+    猜測 = 整數(輸入('輸入一個數字: '))
 
-      如果 猜測 == 數字:
-          印出 '恭喜, 你猜對了.'
-          運行 = 假 # 這會讓循環語句結束
-      假使 猜測 < 數字:
-          印出 '錯了, 數字再大一點.'
-      否則:
-          印出 '錯了, 數字再小一點.'
-  否則:
-      印出 '循環語句結束'
-  印出 '結束'
+    如果 猜測 == 數字:
+        印出 '恭喜, 你猜對了.'
+        運行 = 假 # 這會讓循環語句結束
+    假使 猜測 < 數字:
+        印出 '錯了, 數字再大一點.'
+    否則:
+        印出 '錯了, 數字再小一點.'
+否則:
+    印出 '循環語句結束'
+印出 '結束'
+```
 
 **English Python:**
 
-  #!/usr/bin/env python
-  # File name: while.twpy
-  number = 23
-  running = True
-  while running:
-      guess = int(raw_input('Enter an integer : '))
+```python
+#!/usr/bin/env python
+# File name: while.twpy
+number = 23
+running = True
+while running:
+    guess = int(raw_input('Enter an integer : '))
 
-      if guess == number:
-          print 'Congratulations, you guessed it.'
-          running = False # this causes the while loop to stop
-      elif guess < number:
-          print 'No, it is higher than that.'
-      else:
-          print 'No, it is lower than that.'
-  else:
-      print 'The while loop is over'
-  print 'Done'
+    if guess == number:
+        print 'Congratulations, you guessed it.'
+        running = False # this causes the while loop to stop
+    elif guess < number:
+        print 'No, it is higher than that.'
+    else:
+        print 'No, it is lower than that.'
+else:
+    print 'The while loop is over'
+print 'Done'
+```
 
 I think this is a great project. Certainly, programming is no longer the
 “walled garden” or closed loop it was when I was toying around in
@@ -115,6 +117,3 @@ Python are able to at a certain stage switch to English Python and catch
 up with a cohort that was trained in English Python from the get-go).
 
 Stian
-
-[![Reblog this post [with
-Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=2c6e5143-27e7-4fd1-876a-9b466469c97d)](http://reblog.zemanta.com/zemified/2c6e5143-27e7-4fd1-876a-9b466469c97d/ "Zemified by Zemanta")
