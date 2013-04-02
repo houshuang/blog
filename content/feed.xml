@@ -1,0 +1,1 @@
+<%= atom_feed :limit => 15, :title => 'Random Stuff that Matters', :author_name => "Stian Håklev", :base_url => 'http://reganmian.net/blog' %>

@@ -17,9 +17,22 @@ compile '/stylesheet/*' do
   # don’t filter or layout
 end
 
+compile '/feed' do
+  filter :erb
+end
+
+compile '/sitemap' do
+  filter :erb
+end
+
 compile '/js/*' do
   # don’t filter or layout
 end
+
+compile '/data/*' do
+  # don’t filter or layout
+end
+
 
 compile '/posts/*', :rep => :default do
   filter :fix_images
@@ -59,6 +72,18 @@ end
 
 route '/stylesheet/*' do
   "/blog/css/#{item.identifier.split("/").last}.css"
+end
+
+route '/feed' do
+  '/blog/feed/index.xml'
+end
+
+route '/sitemap' do
+  '/blog/sitemap.xml'
+end
+
+route '/data/*' do
+  "/blog/data/#{item.identifier.split("/").last}.txt"
 end
 
 route '/js/*' do

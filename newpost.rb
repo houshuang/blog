@@ -1,5 +1,8 @@
+# encoding: utf-8
+
 # copies template to tmp, and opens it in sublime
 require 'Appscript'
+Blogpath = '/Users/Stian/src/blog'
 
 def get_current_app
   app = Appscript.app("System Events")
@@ -26,12 +29,23 @@ def growl(title,text='',url='')
   growlapp.notify({:with_name=>'Note',:title=>title,:description=>text,:application_name=>'Researchr', :callback_URL=>url})
 end
 
-blogpath = '/Users/Stian/src/blog'
 
 
 if ARGV[0] == 'new'
-  `cp #{blogpath}/post_template.txt /tmp/nanoc_draft.md`
+  `cp #{Blogpath}/post_template.txt /tmp/nanoc_draft.md`
   `/usr/local/bin/subl /tmp/nanoc_draft.md`
+end
+
+def current_window_sublime
+  app = Appscript.app("System Events")
+  idx = app.application_processes.name.get.index("Sublime Text 2")
+  st = app.application_processes[idx+1]
+  window = st.UI_elements[0].name.get
+  return window.split(" ")[0].strip
+end
+
+def nanoc_compile
+  `export LC_ALL=en_US.UTF-8;export LANG=en_US.UTF-8;cd '#{Blogpath}';/usr/local/bin/nanoc`
 end
 
 if ARGV[0] == 'save'
@@ -40,7 +54,19 @@ if ARGV[0] == 'save'
   a.gsub!(/^created_at:(.*?)$/, "created_at: #{Time.now.to_s}")
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   date = Time.now.strftime("%Y-%m-%d")
-  path = blogpath + "/content/posts/#{date}-#{slug}.md"
+  path = Blogpath + "/content/posts/#{date}-#{slug}.md"
   File.open(path, 'w') {|f| f << a}
-  `/usr/local/bin/subl #{path}`
+  nanoc_compile
+  datepath = date.gsub("-","/")
+  `open 'http://localhost/blog/#{datepath}/#{slug}'`
+end
+
+if ARGV[0] == 'preview'
+  window = current_window_sublime
+  datepath = window[0..9].gsub('-','/')
+  slug = datepath + "/" + window[11..-4]
+
+  nanoc_compile
+  #sleep(1)
+  `open 'http://localhost/blog/#{slug}'`
 end
