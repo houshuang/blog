@@ -5,6 +5,7 @@ title: Home
 <% sorted_articles.take(10).each do |post| %>
   <div class='post'>
     <h1 class='emphnext'><%= link_to post[:title], post.path %></h1>
+  <p class='emphnext2'><%= get_pretty_date(post) %>, <%= link_to "[MD]", post.path+"/index.md" %></h1>
       <%= post.compiled_content %>
   </div>
 <% end %>

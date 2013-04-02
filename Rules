@@ -17,6 +17,10 @@ compile '/stylesheet/*' do
   # don’t filter or layout
 end
 
+compile '/js/*' do
+  # don’t filter or layout
+end
+
 compile '/posts/*', :rep => :default do
   filter :fix_images
   filter :replacements
@@ -30,7 +34,6 @@ compile '/posts/*', :rep => :md do
   layout 'markdown'
 end
 
-
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -41,19 +44,23 @@ compile '*' do
 end
 
 route '/stylesheet/*' do
-  "/css/#{item.identifier.split("/").last}.css"
+  "/nanoc/css/#{item.identifier.split("/").last}.css"
+end
+
+route '/js/*' do
+  "/nanoc/js/#{item.identifier.split("/").last}.js"
 end
 
 route '/posts/*', :rep => :default do
   y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
 
-  "/#{y}/#{m}/#{d}/#{slug}/index.html"
+  "/nanoc/#{y}/#{m}/#{d}/#{slug}/index.html"
 end
 
 route '/posts/*', :rep => :md do
   y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
 
-  "/#{y}/#{m}/#{d}/#{slug}/index.md"
+  "/nanoc/#{y}/#{m}/#{d}/#{slug}/index.md"
 end
 
 route '*' do
@@ -62,7 +69,7 @@ route '*' do
     item.identifier.chop + '.' + item[:extension]
   else
     # Write item with identifier /foo/ to /foo/index.html
-    item.identifier + 'index.html'
+    "/nanoc/" + item.identifier + 'index.html'
   end
 end
 
