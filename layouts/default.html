@@ -11,21 +11,8 @@
 
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/nanoc/css/syntax.css" type="text/css" />
-   <script src="/nanoc/js/all.js" type='text/javascript'></script>
-   <script src="/nanoc/js/lunr.js" type='text/javascript'></script>
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/nanoc/css/screen.css" type="text/css" />
-
-    <script type="text/javascript">
-      $(function() {
-        $('#search-query').lunrSearch({
-          indexUrl: '/nanoc/search-index/index.html',             // URL of the `search.json` index data for your site
-          results:  '#search-results',          // jQuery selector for the search results container
-          entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
-          template: '#search-results-template'  // jQuery selector for the Mustache.js template
-        });
-      });
-    </script>
 
 </head>
 <body id="{{ page.section }}">

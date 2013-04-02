@@ -79,6 +79,6 @@ class FixImages < Nanoc3::Filter
       end
       "<img src='#{$2}' style='#{align}'>"
     end
-  resp
+    resp.gsub(/\[((\<img).+?)\]\((.+?)\)/m, '<a href="\3">\1</a>')
   end
 end
