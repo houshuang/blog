@@ -45,17 +45,17 @@ they be small learning groups on [P2PU](http://p2pu.org), or big
 to participate in such learning experiences.
 
 I then discussed some of the issues that came up during our course, such
-as the "[[analysis\_of\_cscl-intro\#amplification|dream of
-amplification]]", [[analysis\_of\_cscl-intro\#challenge|the various
+as the "[[analysis_of_cscl-intro\#amplification|dream of
+amplification]]", [[analysis_of_cscl-intro\#challenge|the various
 dimensions of open courses]],
-[[analysis\_of\_cscl-intro\#how\_this\_played\_out\_in\_our\_course|the
+[[analysis_of_cscl-intro\#how_this_played_out_in_our_course|the
 dimensions of course organizer "authority"]] and
-[[analysis\_of\_cscl-intro\#threaded\_chat|our interesting experience
+[[analysis_of_cscl-intro\#threaded_chat|our interesting experience
 with "threaded chat"]].
 
 Finally, I discussed ways in which the course data
-[[analysis\_of\_cscl-intro\#analysis|could be analyzed]] and introduced
-[[grappling\_with\_ideas-the\_paper\#stimulus\_response|two metaphors
+[[analysis_of_cscl-intro\#analysis|could be analyzed]] and introduced
+[[grappling_with_ideas-the_paper\#stimulus_response|two metaphors
 for organizing online courses]]: stimulus/response and
 divergence/convergence, and looked at how the latter model could be
 implemented in an open course based on a multitude of Web 2.0 platforms.

@@ -40,6 +40,7 @@ compile '/posts/*', :rep => :default do
   filter :redcarpet, options: {:fenced_code_blocks => true, :tables => true, :no_intra_emphasis => true,
     :autolink => true, :strikethrough => true, :superscript => true}
   filter :colorize_syntax, :default_colorizer => :pygmentsrb
+  filter :wiki
   layout 'post'
 end
 

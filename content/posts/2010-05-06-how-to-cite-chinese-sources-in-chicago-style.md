@@ -80,6 +80,7 @@ paywall):
 > yanjiu” 清代以來三峽地區水旱災害的初步硏究 [A preliminary study of
 > floods and droughts in the Three Gorges region since the Qing
 > dynasty], Zhongguo shehui kexue 中國社會科學 1 (1999): 168–79 . . .
+>
 > Harry Harootunian and Sakai Naoki, “Nihon kenkyū to bunka kenkyū
 > 日本研究と文化研究, Shisō 思想 7 (July 1997): 4–53. That year the
 > first assembly of the national Diet was held and the Imperial Rescript
