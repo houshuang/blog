@@ -9,6 +9,13 @@ def get_current_app
   return app.application_processes[app.application_processes.frontmost.get.index(true)+1].name.get.strip
 end
 
+def get_current_url
+  chrome = Appscript.app('Google Chrome')
+  url = chrome.windows[1].active_tab.get.URL.get.strip
+  return url
+end
+
+
 # displays and error message and exits (could optionally log, not implemented right now)
 # mainly to enable one-liners instead of if...end
 def fail(message)
@@ -29,7 +36,7 @@ def growl(title,text='',url='')
   growlapp.notify({:with_name=>'Note',:title=>title,:description=>text,:application_name=>'Researchr', :callback_URL=>url})
 end
 
-
+# ----------------------------------------------------------------------------------
 
 if ARGV[0] == 'new'
   `cp #{Blogpath}/post_template.txt /tmp/nanoc_draft.md`
@@ -69,4 +76,17 @@ if ARGV[0] == 'preview'
   nanoc_compile
   #sleep(1)
   `open 'http://localhost/blog/#{slug}'`
+end
+ARGV[0] = 'edit'
+
+if ARGV[0] == 'edit'
+  url = get_current_url
+  urlpattern = /^http\:\/\/(.+?)\/blog\//
+
+  fail "Not a blog post" unless url.index(urlpattern)
+
+  page = url.gsub(urlpattern, '')
+  y,m,d,slug = /([0-9]+)\/([0-9]+)\/([0-9]+)\/([^\/]+)/.match(url).captures
+  page = Blogpath + "/content/posts/#{y}-#{m}-#{d}-#{slug}.md"
+  `/usr/local/bin/subl #{page}`
 end
