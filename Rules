@@ -21,6 +21,10 @@ compile '/feed' do
   filter :erb
 end
 
+compile '*/htaccess/' do
+  filter :erb
+end
+
 compile '/sitemap' do
   filter :erb
 end
@@ -111,10 +115,14 @@ route '/pages/*', :rep => :md do
   "/blog/#{item.identifier.split("/").last}/index.md"
 end
 
+route '*/htaccess/' do
+  "#{item.identifier.gsub('/htaccess', '')}.htaccess"
+end
+
 route '*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
-    item.identifier.chop + '.' + item[:extension]
+    "/blog" + item.identifier.chop + '.' + item[:extension]
   else
     # Write item with identifier /foo/ to /foo/index.html
     "/blog/" + item.identifier + 'index.html'

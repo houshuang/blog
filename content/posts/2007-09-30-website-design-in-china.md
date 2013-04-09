@@ -7,8 +7,8 @@ tags:
 - tech
 ---
 
-![](http://www.thumbalizr.com/app/?src=/app/thumbs/1fc6a866b0f3bf8783dc0ee1df1be388.jpg&w=320)I
-TA for a class on International Studies and International Communication,
+![image ](/blog/images/sina.png)
+I TA for a class on International Studies and International Communication,
 and this week we touched upon the concept of whether there was one
 universal standard for web aesthetics, or whether it varied according to
 cultural region. I notice very clearly when browsing Chinese websites,
@@ -62,24 +62,22 @@ Recently, a friend of mine forwarded a few links to different Web 2.0
 sites in China that closely mirror the design of similar sites in the
 West:
 
--   [http://www.yo2.cn/](http://www.yo2.cn/) (我的优博网) -
+- [http://www.yo2.cn/](http://www.yo2.cn/) (我的优博网) -
   [Wordpress](http://www.wordpress.com)
--   [http://fanfou.com/](http://fanfou.com/) (饭否) -
+- [http://fanfou.com/](http://fanfou.com/) (饭否) -
   [Twitter](http://twitter.com)
--   [http://xiaonei.com/](http://xiaonei.com/) (校内网) -
+- [http://xiaonei.com/](http://xiaonei.com/) (校内网) -
   [Facebook](http://facebook.com)
--   [http://www.56.com/](http://www.56.com) -
+- [http://www.56.com/](http://www.56.com) -
   [Youtube](http://www.youtube.com)
--   [http://www.yupoo.com/](http://www.yupoo.com) -
+- [http://www.yupoo.com/](http://www.yupoo.com) -
   [Flickr](http://flickr.com)
--   [http://www.xianguo.com/](http://www.xianguo.com) (鲜果) -
+- [http://www.xianguo.com/](http://www.xianguo.com) (鲜果) -
   [Bloglines](http://bloglines.com)
--   [http://www.diglog.com/](http://www.diglog.com) -
+- [http://www.diglog.com/](http://www.diglog.com) -
   [Digg](http://www.digg.com)
 
 So it will be interesting to see whether Chinese sites will start
 incorporating the Western clean, simple Web 2.0 aesthetics, or continue
 developing along their own path. I’d be interested in hearing of
 examples of different designs from other language/cultural groups.
-
-Stian

@@ -18,11 +18,11 @@ geographically and culturally. I will later use these examples to show
 why it was easy for foreigners to misunderstand the developments within
 China.*
 
-* * * * *
+---
 
-Japan
+## Japan
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.08-AM.png "Screen shot 2010-11-30 at 12.51.08 AM")](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.08-AM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.08-AM.png)](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.08-AM.png)
 
 Already in 2002, researchers from the National Institute of Multimedia
 Education (NIME) and Tokyo Institute of Technology (TIT) went to study
@@ -49,9 +49,9 @@ positive change among Japanese universities, including modernizing
 presentation styles among lecturers, as well as sharing learning
 material (Makoshi 2006).
 
-Taiwan
+## Taiwan
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.33-AM.png "Screen shot 2010-11-30 at 12.52.33 AM")](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.33-AM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.33-AM.png)](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.33-AM.png)
 
 In Taiwan, it all began with the translation of MIT OpenCourseWare
 courses, which was organized by Lucifer Chu. He is well known in Taiwan
@@ -65,7 +65,7 @@ countries collaborated on translating the courses to Chinese. In late
 June 2007, OOPS hosted its first international conference on OCW and
 e-learning in Taiwan (Lee, Lin and Bonk 2007).
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.33-AM.png "Screen shot 2010-11-30 at 12.51.33 AM")](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.33-AM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.33-AM.png)](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.51.33-AM.png)
 
 At the same time, universities in Taiwan were also beginning to develop
 their own open material. The National Chiaotung University in Taiwan
@@ -99,9 +99,9 @@ the classics, and National Taiwan Ocean University, National Taiwan
 University of Science and Technology and National Sun Yat-Sen University
 have all offered courses related to their specialties (TOCW 2010).
 
-South Korea
+## South Korea
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.07-AM.png "Screen shot 2010-11-30 at 12.52.07 AM")](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.07-AM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.07-AM.png)](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-30-at-12.52.07-AM.png)
 
 In South Korea, the OpenCourseWare movement started with professor
 Gyutae Kim, who was a professor of electrical engineering at Korea
@@ -151,7 +151,7 @@ contacted the universities that produced these modules under contract,
 and asked them to open up at least part of them to the public (Meena
 Hwang, personal communications).
 
-A common East-Asian model
+## A common East-Asian model
 
 Thus in all these cases, there is an initial contact between MIT and
 leading universities in the host country. Sometimes this happens through
@@ -172,17 +172,17 @@ conferences or publish in international journals, and often use the
 open-source platforms for hosting OpenCourseWare that have been
 developed by US universities.
 
-* * * * *
+---
 
 The quotes in this text is from the MA Thesis "The Chinese National Top
 Level Courses Project: Using Open Educational Resources to Promote
 Quality in Undergraduate Teaching" by Stian Håklev, University of
 Toronto 2010.
 
--   [Download the canonical PDF
+- [Download the canonical PDF
   version](http://reganmian.net/top-level-courses/Haklev_Stian_201009_MA_thesis.pdf)
--   [Central page collecting all blog posts, many different download
+- [Central page collecting all blog posts, many different download
   formats, and supplementary
   material](http://reganmian.net/top-level-courses)
 
-* * * * *
+---

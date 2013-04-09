@@ -85,11 +85,11 @@ class FixImages < Nanoc3::Filter
   def run(content, params={})
     resp = content.gsub(/\!\[(.*?)\]\((.+?)\)/m) do
       if $1[0..0] == ' ' && $1[-1..-1] == ' '
-        align = 'float:centre'
+        align = 'float:centre; margin-left: 10px; margin-right: 10px'
       elsif $1[0..0] == ' '
-        align = "float:left"
+        align = "float:left; margin-right: 10px"
       elsif $1[-1..-1] == ' '
-        align = 'float:right'
+        align = 'float:right; margin-left: 10px'
       else
         align = 'none'
       end

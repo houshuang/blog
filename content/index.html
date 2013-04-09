@@ -5,7 +5,7 @@ title: Home
 <% sorted_articles.take(10).each do |post| %>
   <div class='post'>
     <h1 class='emphnext'><%= link_to post[:title], post.path %></h1>
-  <p class='emphnext2'><%= get_pretty_date(post) %>, <%= link_to "[MD]", post.path+"index.md" %> <%= link_to post[:title], post.path + "#disqus_thread" %>
+  <p class='emphnext2'><%= get_pretty_date(post) %>, <%= link_to "[MD]", post.path+"index.md" %> <%= link_to "", post.path + "#disqus_thread" %>
     </p>
       <%= post.compiled_content %>
   <hr>
