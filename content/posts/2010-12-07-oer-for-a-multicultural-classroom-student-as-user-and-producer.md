@@ -13,7 +13,7 @@ tags:
 - plenk2010
 ---
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg "OER for multicultural UWC 2010.001")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg)
 
 I have always been interested in Open Educational Resources from around
 the world, and in my
@@ -60,7 +60,7 @@ talk, which I can record and share online, but in the meantime, I
 thought I'd try to blog around some of my slides, to share some of my
 ideas.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.002.jpg "OER for multicultural UWC 2010.002")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.002.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.002.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.002.jpg)
 
 So this was my "proof" that I did indeed attend his school, it's one of
 the pictures from the yearbook, taken ten years ago. You see me in the
@@ -89,7 +89,7 @@ ideas, he said: "Why don't you come back during the school year, and
 tell this to the students - we'd much rather have these kinds of
 initiatives come from them, rather than be initiated from the top." I
 was very impressed by this
-attitude.[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.003.jpg "OER for multicultural UWC 2010.003")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.003.jpg)
+attitude.[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.003.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.003.jpg)
 
 I began by providing some examples of the incredible richness of OERs
 and other open resources that exist in the world. The fun change from
@@ -107,7 +107,7 @@ portion of the talk in the [talk I gave in New
 Delhi](http://www.slideshare.net/houshuang/oer-and-p2pu) about openness
 and P2PU.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.056.jpg "OER for multicultural UWC 2010.056")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.056.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.056.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.056.jpg)
 
 After having introduced the fact that there is such a wealth of open
 resources in all languages, and created some awareness about the
@@ -190,7 +190,7 @@ assuming that you will want to include Chinese-language sources in your
 research?”
 
 [![Are we allowed to do
-that?](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.057.jpg "OER for multicultural UWC 2010.057")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.057.jpg)
+that?](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.057.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.057.jpg)
 
 Yes, they were shocked to hear that they were "allowed" to use sources
 in Chinese. I specified that I wanted academic sources, not blogs or
@@ -206,7 +206,7 @@ both English and Chinese sources, and I began thinking more in-depth
 about the importance of encouraging students to include material in
 their mother tongue when doing research.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.058.jpg "OER for multicultural UWC 2010.058")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.058.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.058.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.058.jpg)
 
 After this experience, I became very interested in the idea of
 encouraging undergraduate students to include resources in their own
@@ -228,12 +228,12 @@ resource. Below is the section from Jim Cummins' book that explains this
 concept (from "[Language, power, and pedagogy: bilingual children in the
 crossfire](http://books.google.ca/books?id=fM4KdFOicGcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)"):
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-28-at-12.53.03-AM.png "Screen shot 2010-11-28 at 12.53.03 AM")](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-28-at-12.53.03-AM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-28-at-12.53.03-AM.png)](http://reganmian.net/blog/wp-content/uploads/2010/11/Screen-shot-2010-11-28-at-12.53.03-AM.png)
 
 So how can our universities and colleges treat students' own languages
 as a resource?
 
-[](http://books.google.ca/books?id=fM4KdFOicGcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.059.jpg "OER for multicultural UWC 2010.059")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.059.jpg)
+[](http://books.google.ca/books?id=fM4KdFOicGcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.059.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.059.jpg)
 
 Can open resources help with this? Well, in the case of University of
 Toronto, I argued that students should be encouraged to include
@@ -251,7 +251,7 @@ at universities, as listed for example at [Registry of Open Access
 Repositories](http://roar.eprints.org/), can also be a great way of
 finding academic publications in other languages.
 
-[](http://books.google.ca/books?id=fM4KdFOicGcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.061.jpg "OER for multicultural UWC 2010.061")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.061.jpg)
+[](http://books.google.ca/books?id=fM4KdFOicGcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.061.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.061.jpg)
 
 But my primary concern at the United World College was not primarily
 research and open journals. Rather, it was the realization that [the
@@ -289,7 +289,7 @@ taking place in Europe, except for Pearl Harbour, Hiroshima and
 Nagasaki. I know this, because this is exactly what I learnt, when I
 took History Higher in Duino, ten years ago.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.060.jpg "OER for multicultural UWC 2010.060")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.060.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.060.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.060.jpg)
 
 Imagine that this Chinese student could go back to her dorm, and look up
 a course on the World War II from East China Normal University, and
@@ -315,7 +315,7 @@ great if the inside of the classroom was enriched because of all of
 these international perspectives, and language was seen as a strength
 and a source of richness?
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.062.jpg "OER for multicultural UWC 2010.062")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.062.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.062.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.062.jpg)
 
 However, I didn't come to Italy just to talk about how students could
 use the OER that exists out there. I wanted to talk about how they could
@@ -331,7 +331,7 @@ feel comfortable adding to this article. This might be part of the
 reason why there has been a decrease in participation on the English
 Wikipedia.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.063.jpg "OER for multicultural UWC 2010.063")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.063.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.063.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.063.jpg)
 
 However, this is not the case in many other languages. For example, the
 [Wikipedia in Hindi](http://hi.wikipedia.org), a language spoken by 600
@@ -348,7 +348,7 @@ to many languages, some which are big in the real world, but small on
 the Internet, like Hindi, and others that are small in both spheres,
 like [Siswati](http://ss.wikipedia.org/wiki/Likhasi_Lelikhulu).
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.064.jpg "OER for multicultural UWC 2010.064")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.064.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.064.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.064.jpg)
 
 There are many opportunities to make a contribution - editing Wikipedia;
 using [Universal Subtitles](http://universalsubtitles.org/), a tool
@@ -356,7 +356,7 @@ developed by Mozilla to enable you to subtitle a movie on any website in
 the world, to subtitle educational videos; translating existing open
 educational resources, etc.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.065.jpg "OER for multicultural UWC 2010.065")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.065.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.065.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.065.jpg)
 
 My room mate, who happens to be an ex-UWCer from Hong Kong, is currently
 studying psychology in Toronto. She decided to [start a
@@ -374,7 +374,7 @@ in Firenze and Bologna - imagine a blog in Mongolian, or Korean, with
 pictures of great arches, and explanations of the historical
 significance.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.066.jpg "OER for multicultural UWC 2010.066")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.066.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.066.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.066.jpg)
 
 I've often given talks about OER, and in addition to informing people of
 what is out there, I also hope to encourage them to change their daily
@@ -389,7 +389,7 @@ been a student at this school myself, and knew more about how it
 operated, and how engaged and committed the students are, I made some
 concrete suggestions for things they could do.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.067.jpg "OER for multicultural UWC 2010.067")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.067.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.067.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.067.jpg)
 
 In addition to the regular subjects, the IB curriculum includes
 something called CAS - Creativity, Action and Service. Every student has
@@ -405,7 +405,7 @@ This is partly because I know that the students are incredibly busy at
 the school, and if they could be able to block off one or two hours each
 week for this activity, they would be much more likely to do it.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.068.jpg "OER for multicultural UWC 2010.068")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.068.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.068.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.068.jpg)
 
 Another requirement of the IB is to write an Extended Essay. This is
 almost like an undergraduate honor's thesis, where a student chooses one
@@ -423,7 +423,7 @@ that specific organization, so I would argue that my study still has
 some value to the world. Certainly enough to warrant it not sitting on
 my shelf.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.069.jpg "OER for multicultural UWC 2010.069")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.069.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.069.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.069.jpg)
 
 My best example of how important it is to make student papers available
 comes from when I was researching the Indonesian community library
@@ -449,7 +449,7 @@ permission, and [I posted
 it](http://eprints.rclis.org/cgi/users/home?screen=EPrint%3A%3AView%3A%3AOwner&eprintid=11739&_action_null.x=7&_action_null.y=16&_action_null=View+Item)
 on E-LIS, a repository for library research.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.070.jpg "OER for multicultural UWC 2010.070")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.070.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.070.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.070.jpg)
 
 So far, the thesis has been downloaded more than two thousand times! And
 most of those downloads come from Indonesia. When I told her that, she
@@ -471,7 +471,7 @@ license to the work, and that the students were free to do what they
 wanted with the theses. So that's a great clarification to come out of
 the talk.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.072.jpg "OER for multicultural UWC 2010.072")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.072.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.072.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.072.jpg)
 
 At the time I gave the talk, I was also scheduled to attend my first TED
 Talks. [TEDxIBYORK](http://tedxibyork.com/) was an event organized by an
@@ -485,7 +485,7 @@ a variety of great institutions and people, and it would be a great
 experience for the students to reach out to these various people, and
 organize such a conference.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.073.jpg "OER for multicultural UWC 2010.073")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.073.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.073.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.073.jpg)
 
 Thus my ultimate vision would be that students come from around the
 world, to the school. But they bring the world, or their home culture
@@ -494,7 +494,7 @@ learning, but to enrich the entire school. Secondly, the school helps
 bring the world to the region Friuli-Venezia-Giulia where it is located,
 but it also helps bring the region to the world.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.074.jpg "OER for multicultural UWC 2010.074")](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.074.jpg)
+[![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.074.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.074.jpg)
 The response I received from the talk was wonderful. There was a long
 line of students wanting to talk to me after the talk (including the one
 who wanted to tell me how to say marginal rate of return in Lithuanian).

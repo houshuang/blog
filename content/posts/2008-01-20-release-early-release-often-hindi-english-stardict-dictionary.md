@@ -52,8 +52,10 @@ formats and reversed them into Hindi-English.
 Reversal is absolutely non-trivial. At the simple side, you might have a
 file listing a bunch of simple word-word concurrances:
 
-*House-Haus\
- Boy-Junge*
+```
+House-Haus
+Boy-Junge
+```
 
 etc. In this case, it’s quite easy to turn around. But more commonly, a
 simple word will have either a definition (Zulu - a people in Southern
@@ -63,22 +65,30 @@ dictionary that will actually match specific words in a text. One of the
 things I did was splitting up the listings in the target language (which
 became the source language), so that
 
-*boy - knabe; junge*
+```
+boy - knabe; junge
+```
 
-would generate two entries\
- *\
- knabe: boy\
- junge: boy*
+would generate two entries
+
+```
+knabe: boy
+junge: boy
+```
 
 since a lot of hindi verbs are complex, with the most meaningful part
 coming first, I also split all multi-word phrases at the first word, but
 included the whole in the explanation, so that
 
-*starting - shuru karna* (शुरू करना)
+```
+starting - shuru karna* (शुरू करना)
+```
 
 would become
 
+```
 shuru - (shuru karna) starting
+```
 
 this hopefully maximizes the chance that you will hit right, even if
 what’s written is for example shuru kijie (please start - शुरू कीजिये).
@@ -118,11 +128,9 @@ talking about that changing.
 Download the StarDict and the xdxf (XML-based, better for editing, etc)
 files:
 
-[Stardict Hindi-English
-dictionary](http://reganmian.net/blog/files/hindi-stardict.zip)\
- [XDXF Hindi-English
-dictionary](http://reganmian.net/blog/files/hindi.xdxf.zip)\
- [Python script to convert from ISCII to UTF8 (not written by me, BSD
-license)](http://reganmian.net/blog/files/iscii2utf8.py)
-
-Stian
+- [Stardict Hindi-English
+dictionary](http://reganmian.net/files/uploads/hindi-stardict.zip)
+- [XDXF Hindi-English
+dictionary](http://reganmian.net/files/uploads/hindi.xdxf.zip)
+- [Python script to convert from ISCII to UTF8 (not written by me, BSD
+license)](http://reganmian.net/files/uploads/iscii2utf8.py)

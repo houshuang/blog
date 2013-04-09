@@ -1,5 +1,5 @@
 ---
-title: "World28099s largest university opens almost ALL its materials!"
+title: "World's largest university opens almost ALL its materials!"
 created_at: 2008-12-05 00:00:00 -0500
 kind: article
 tags:
@@ -9,7 +9,7 @@ tags:
 
 **Background**
 
-[![](http://farm1.static.flickr.com/110/285647746_5a625f3997_m.jpg)](http://farm1.static.flickr.com/110/285647746_5a625f3997_m.jpg)India
+[![ image](http://farm1.static.flickr.com/110/285647746_5a625f3997_m.jpg)](http://farm1.static.flickr.com/110/285647746_5a625f3997_m.jpg)India
 is a country that I can never figure out. As striking as the poverty and
 mismanagement was when I visited it this summer, I am continually struck
 by the stream of innovation and wonderful initiatives coming from
@@ -41,7 +41,7 @@ they are both massive systems!
 
 **An amazing amount of rich materials - videos**
 
-[![](http://farm1.static.flickr.com/173/426578345_5f9deac8fe_m.jpg)](http://farm1.static.flickr.com/173/426578345_5f9deac8fe_m.jpg)Just
+[![ image](http://farm1.static.flickr.com/173/426578345_5f9deac8fe_m.jpg)](http://farm1.static.flickr.com/173/426578345_5f9deac8fe_m.jpg)Just
 this summer, IGNOU has launched two different portals, whose richness of
 material I believe to be unparalleled in the OER world! Similar to the
 IITs, it has [archived its videos on
@@ -110,7 +110,7 @@ There are also many great videos in Hindi, for example:
 
 **Document repository**
 
-[![](http://farm4.static.flickr.com/3247/2610688098_abf68e06b8_m.jpg)](http://farm4.static.flickr.com/3247/2610688098_abf68e06b8_m.jpg)Not
+[![ image](http://farm4.static.flickr.com/3247/2610688098_abf68e06b8_m.jpg)](http://farm4.static.flickr.com/3247/2610688098_abf68e06b8_m.jpg)Not
 only has IGNOU released a huge slew of very interesting filmed lectures,
 but they have digitalized and made open access almost all of their
 teaching materials! We are not talking about curriculum lists and some
@@ -201,7 +201,7 @@ from South Africa!
 
 **How could this be even better?**
 
-[![](http://ww1.prweb.com/prfiles/2007/01/24/500071/ByIndiaNewLogo1.JPG)](http://ww1.prweb.com/prfiles/2007/01/24/500071/ByIndiaNewLogo1.JPG)Yes,
+Yes,
 it is amazing, but it is amazing 1.0. A simple act could exponentially
 raise the amazingness (I apologize for the lack of academic language).
 Currently, all this material is in scanned PDFs (luckily OCRed) sitting

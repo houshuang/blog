@@ -95,8 +95,6 @@ dumps them into your Desktop folder.
 [![Screen Shot 2013-01-25 at
 19.32.57](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-19.32.571.png)](http://reganmian.net/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-25-at-19.32.571.png)
 
- 
-
 So I developed the following workflow for grabbing photos from PDFs.
 While reading along, highlighting and commenting, I could grab a picture
 at anytime using Shift+Cmd+3. After grabbing the screenshot, I also had
@@ -175,7 +173,7 @@ in the wrong direction), but I haven't figured this out yet).
 **It works**
 
 [![Long wiki
-page](http://reganmian.net/blog/wp-content/uploads/2013/01/Long-wiki-page.png)](http://reganmian.net/wiki/media_pedagogy_panel)
+page ](http://reganmian.net/blog/wp-content/uploads/2013/01/Long-wiki-page.png)](http://reganmian.net/wiki/media_pedagogy_panel)
 
 In the end, I got it all working, and I showed it to some friends as a
 very neat hack. It wasn't until yesterday that I finally had a chance to
@@ -207,5 +205,3 @@ Since this is based on PhotoStream, it can only be used with Apple
 devices, but it should be trivial to modify the solution to work with
 for example DropBox, if there are any good Android photo apps which
 immediately sync to DropBox.
-
-Stian

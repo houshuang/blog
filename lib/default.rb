@@ -21,6 +21,10 @@ def grouped_articles
   return [art, years.sort.reverse.uniq]
 end
 
+def location
+  item[:location] || 'Toronto, Canada'
+end
+
 def day(post)
   return number_to_ordinal(Time.parse(post[:created_at]).day)
 end

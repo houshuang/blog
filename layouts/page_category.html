@@ -1,0 +1,11 @@
+<% render 'default' do %>
+
+<div id="page">
+
+  <h1 class="emphnext"><%= item[:title] %></h1>
+  <p class='emphnext2'> <%= link_to "[MD]", item.path+"/index.md" %></h1>
+  <%= yield %>
+
+
+</div><!-- End Page -->
+<% end %>

@@ -63,9 +63,7 @@ if ARGV[0] == 'save'
   date = Time.now.strftime("%Y-%m-%d")
   path = Blogpath + "/content/posts/#{date}-#{slug}.md"
   File.open(path, 'w') {|f| f << a}
-  nanoc_compile
-  datepath = date.gsub("-","/")
-  `open 'http://localhost/blog/#{datepath}/#{slug}'`
+  `/usr/local/bin/subl #{path}`
 end
 
 if ARGV[0] == 'preview'
@@ -77,7 +75,6 @@ if ARGV[0] == 'preview'
   #sleep(1)
   `open 'http://localhost/blog/#{slug}'`
 end
-ARGV[0] = 'edit'
 
 if ARGV[0] == 'edit'
   url = get_current_url
