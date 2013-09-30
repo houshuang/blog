@@ -136,18 +136,16 @@ Tanzania or the introduction of mono-crop farming, all serves to create
 the “docile minds” of people once autonomous, now dependent on experts’
 advice.
 
-Stian\
- **
+Stian
 
--   *[](http://www.clubtroppo.com.au/2006/01/21/green-all-the-way-through)Club
-  Troppo discusses the “conservative approach” favored in Seeing Like
+-   *[Club
+  Troppo](http://www.clubtroppo.com.au/2006/01/21/green-all-the-way-through) discusses the “conservative approach” favored in Seeing Like
   a State and whether environmental conservation is a “conservative”
   cause*
--   *[](http://www.nehrlich.com/blog/2005/12/28/incomplete-realities)Eric
-  Nehrlich asks the question “Can we show that one reality is better
+-   *[Eric
+  Nehrlich](http://www.nehrlich.com/blog/2005/12/28/incomplete-realities) [asks the question](http://www.nytimes.com/books/first/s/scott-state.html) “Can we show that one reality is better
   than another? I hope so!”
-  [online](http://www.nytimes.com/books/first/s/scott-state.html). I
-  also like his point “So what makes one reality “better” than
+  I also like his point “So what makes one reality “better” than
   another? Realities that accept the fact that there are other
   realities are “better” because they recognize that they are merely
   tools.”*

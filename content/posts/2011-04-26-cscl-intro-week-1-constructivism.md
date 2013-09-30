@@ -101,7 +101,7 @@ groups, with advisors, etc).
 
 **Assessment**
 
-****Assessment is a topic that comes up very frequently when discussing
+Assessment is a topic that comes up very frequently when discussing
 new ways of teaching and learning. I already wrote [one blog
 post](http://reganmian.net/blog/2011/04/26/grading-evaluative-or-coercive/)
 today about grading, although it was focused on a different topic.

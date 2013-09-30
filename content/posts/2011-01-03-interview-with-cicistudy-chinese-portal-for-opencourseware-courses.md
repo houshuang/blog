@@ -14,7 +14,7 @@ tags:
 - The Top Level Courses Project
 ---
 
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/taoke-300x185.png "taoke")](http://reganmian.net/blog/wp-content/uploads/2011/01/taoke.png)I
+![taoke ](http://reganmian.net/blog/wp-content/uploads/2011/01/taoke.png)I
 first became aware of the explosion in interest around foreign open
 courses in China when I was asked for an interview by a Chinese reporter
 writing about this phenomenon ([interview in
@@ -32,7 +32,7 @@ gongkai: "V. make public; make known to the public. S.V. open; overt;
 public".*
 
 --- ---
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/photo2-200x300.png "photo(2)")](http://reganmian.net/blog/wp-content/uploads/2011/01/photo2.png)   [![](http://reganmian.net/blog/wp-content/uploads/2011/01/photo-200x300.png "photo")](http://reganmian.net/blog/wp-content/uploads/2011/01/photo.png)
+![](http://reganmian.net/blog/wp-content/uploads/2011/01/photo2.png)   
 --- ---
 
 *In addition to the above, my initial associations with the two words
@@ -50,7 +50,9 @@ Either way, there is now a very strong public interest in these courses,
 with this new catchy name, and a number of website portals have been
 created, which feature the video lectures from Yale, Stanford, MIT, etc.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/cicistudy-300x199.png "cicistudy")](http://reganmian.net/blog/wp-content/uploads/2011/01/cicistudy.png)While
+![](http://reganmian.net/blog/wp-content/uploads/2011/01/cicistudy-300x199.png)
+
+While
 browsing, I came across [**CICIStudy**](http://cicistudy.com), and found
 it to be a site with very clean design, and nice functionality. I was
 very curious as to who had started it, what their purpose was, etc., and
@@ -82,7 +84,10 @@ guarantees that we are able to effectively develop CICIStudy.
 **2. How did you first hear about, or get interested in open courses
 courses? Why do you think they are useful and important to Chinese
 students?**
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/mitocw-300x202.png "mitocw")](http://reganmian.net/blog/wp-content/uploads/2011/01/mitocw.png)At
+
+![](http://reganmian.net/blog/wp-content/uploads/2011/01/mitocw-300x202.png)
+
+At
 the beginning of 2010, I had only barely heard about open courses, and
 watched a few course recordings. I though it was great, but didn’t pay
 that much attention. I had no idea that the phenomenon of open courses
@@ -148,7 +153,9 @@ phenomenon to explode this year – it wasn’t random.
 **5. There are other websites that do very similar things to you, for
 example NetEase Open Courses. What is special about your site, how can
 you compete with these other sites?**
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/wangyi-300x144.png "wangyi")](http://reganmian.net/blog/wp-content/uploads/2011/01/wangyi.png)The
+
+![](http://reganmian.net/blog/wp-content/uploads/2011/01/wangyi-300x144.png)
+
 NetEase Open Courses site is a part of the NetEase video site.
 Currently, they are focusing on how to overcome the linguistic
 obstacles, by hiring translation agencies to subtitle videos. CICIStudy
@@ -205,7 +212,10 @@ open licenses.
 Project? Are there excellent resources there as well? Will you consider
 including resources from Top Level Courses on your website in the
 future?**
-[![](http://reganmian.net/blog/wp-content/uploads/2011/01/jingpinke-300x202.png "jingpinke")](http://reganmian.net/blog/wp-content/uploads/2011/01/jingpinke.png)It’s
+
+![](http://reganmian.net/blog/wp-content/uploads/2011/01/jingpinke-300x202.png)
+
+It’s
 very difficult for me to give an accurate assessment of the Top Level
 Courses, since I have not reviewed these resources systematically,
 although I am sure that the courses contain many excellent resources. I

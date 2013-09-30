@@ -42,12 +42,16 @@ The first one, strip, removes all leading and trailing white space
 users Perl. I could have used Perl for this one as well, but I feel more
 comfortable in Ruby):
 
-  File.read(ARGV[0]).each {|l| puts l.strip}
+```ruby
+File.read(ARGV[0]).each {|l| puts l.strip}
+```
 
 And a quick program that reverses the order of the lines (so that we get
 the first tweets first, instead of last):
 
-  puts File.read(ARGV[0]).split("\n").reverse.join("\n")
+```ruby
+puts File.read(ARGV[0]).split("\n").reverse.join("\n")
+```
 
 I've created a screencast to show how it all comes together (note, there
 are many other ways of accomplishing this task, but I wanted to show an
@@ -57,5 +61,3 @@ screencast](http://reganmian.net/files/Textmate-tweets.mov) (eleven
 minutes, QuickTime). And see [the
 post](http://reganmian.net/blog/2010/04/12/tweets-from-hewletts-oer-grantees-meeting-at-yale-2/)
 that was the result of this process.
-
-Stian

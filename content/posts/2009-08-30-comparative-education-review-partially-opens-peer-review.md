@@ -51,7 +51,7 @@ rejections: in all cases, the editor or the peer-reviewers had engaged
 deeply with my material, and gave insightful and (mostly) useful
 comments.
 
-[![](http://www.journals.uchicago.edu/na101/home/literatum/publisher/uchicago/journals/covergifs/cer/cover.jpg)Comparative
+[Comparative
 Education Review](http://www.journals.uchicago.edu/toc/cer/current) is
 the flagship journal of the [Comparative International Education
 Society](http://cies.us/) (CIES), an organization that also holds a
@@ -121,7 +121,3 @@ each others work, and I think using this document can be very valuable
 for that project.
 
 Thank you, CER!
-
-Stian
-
-

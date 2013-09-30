@@ -27,6 +27,8 @@ world to both benefit from them (for example in Malaysia, where their
 language is very similar to Indonesian), but also crucially to improve
 upon them.
 
+![ School children in
+Indonesia](http://reganmian.net/blog/wp-content/uploads/2009/03/picture-20-300x204.png)
 I later wrote about [the official announcement of this
 plan](http://reganmian.net/blog/2008/02/08/indonesian-government-wants-to-buy-text-book-copyrights/),
 about [the first copyrights being
@@ -41,10 +43,10 @@ I found out that the first batch of books had [already been made
 available](http://reganmian.net/blog/2009/03/16/open-education-around-the-world-presentation-at-oise/)
 - 407 of them.
 
-![School children in
-Indonesia](http://reganmian.net/blog/wp-content/uploads/2009/03/picture-20-300x204.png "School children in Indonesia")
 
-**Available!** At the website "Buku Sekolah Elektronik" (electronic
+**Available!**
+
+At the website "Buku Sekolah Elektronik" (electronic
 school books) under the Indonesian Ministry of Education, they have all
 407 books available for download. The books range from primary school to
 high school, and seem to cover all subjects. There is a system for
@@ -56,18 +58,18 @@ translation):
 The user can download or print files from Buku Sekolah Elektronik, as
 well as copy and sell, as long as:
 
-*1. The copier and/or seller is of Indonesian nationality or is legally
-settled in Indonesia (it could also mean, is a legal enterprise in
-Indonesia, I'm not quite sure) 2. You have to mention your identity on
-the first page of the books that are sold/distributed. 3. The
-specifications of the text book for sale has to be according to the
-directions given by the National Minister of Education. 4. The sales
-price for books that are allowed to be copied for sale must not be
-higher than the maximum sales price which has been determined by the
-National Minister of Education. 5. The text book which is copied for
-sale has to note the sales price on the back cover of the book. 6. The
-user has to follow the regulations above and any other relevant
-regulations.*
+> The copier and/or seller is of Indonesian nationality or is legally
+> settled in Indonesia (it could also mean, is a legal enterprise in
+> Indonesia, I'm not quite sure) 2. You have to mention your identity on
+> the first page of the books that are sold/distributed. 3. The
+> specifications of the text book for sale has to be according to the
+> directions given by the National Minister of Education. 4. The sales
+> price for books that are allowed to be copied for sale must not be
+> higher than the maximum sales price which has been determined by the
+> National Minister of Education. 5. The text book which is copied for
+> sale has to note the sales price on the back cover of the book. 6. The
+> user has to follow the regulations above and any other relevant
+> regulations.
 
 It seems that these conditions only apply to copying and selling the
 books, not personal use, so I am still allowed to download these, even
@@ -79,7 +81,9 @@ site](http://www.diknas.info/), run by private individuals, you can
 download all the books without having to register, or agree to the
 conditions above, one pdf per book rather than per chapter.
 
-**Analysis**It is wonderful that these books are now available. I find
+**Analysis**
+
+It is wonderful that these books are now available. I find
 it very interesting how textbooks in different countries deliver
 information, both in terms of content and design/pedagogics, and now I
 can see how Indonesian textbooks teach about history, math, economics,
@@ -104,7 +108,9 @@ a Wiki, where people could work together on collaboratively improving
 them (with quality assurance functions, reviews etc). Then, the
 Indonesian government could really leverage the opening of these books.
 
-**Research questions**I sometimes say that I wish I had a lab full of
+**Research questions**
+
+I sometimes say that I wish I had a lab full of
 grad students... as a 1st year MA, that's a weird statement to make, but
 I come up with so many possible interesting research questions, but I
 can't research them all myself. For example, it would be a great example
