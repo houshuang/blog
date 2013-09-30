@@ -1,5 +1,5 @@
 ---
-title: "CSCL-intro the Bi-Weekly \#10"
+title: "CSCL-intro the Bi-Weekly #10"
 created_at: Mon, 06 Jun 2011 13:19:05 +0000
 kind: article
 tags:

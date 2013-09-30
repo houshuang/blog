@@ -49,10 +49,9 @@ I gave about these topics was for a group of high-level bureaucrats at
 the Indian Institute of Public Administration in Delhi, in 2008.
 
 The talk
-**["](http://www.slideshare.net/houshuang/open-research-open-educational-resources-and-open-learning-presentation-at-iipa-delhi-554807)*****[Open
+**["Open
 Research, Open Educational Resources, and Open Learning – Experiments
-and
-Ideas"](http://www.slideshare.net/houshuang/open-research-open-educational-resources-and-open-learning-presentation-at-iipa-delhi-554807)** *was
+and Ideas"](http://www.slideshare.net/houshuang/open-research-open-educational-resources-and-open-learning-presentation-at-iipa-delhi-554807)** was
 my first chance to begin to organize my ideas about open licenses,
 different kinds of OER and open learning, and it's also the first
 presentation that I have the audio for as well. It's also a presentation
@@ -69,10 +68,7 @@ the slides to the audio. In the four years that the presentation has
 been available, it has been viewed by more than 6,400 people, favorited
 by 11 people, and downloaded 130 times.
 
-**[Open Research, Open Educational Resources and Open Learning -
-presentation at IIPA
-Delhi](http://www.slideshare.net/houshuang/open-research-open-educational-resources-and-open-learning-presentation-at-iipa-delhi-554807 "Open Research, Open Educational Resources and Open Learning - presentation at IIPA Delhi")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/554807" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/open-research-open-educational-resources-and-open-learning-presentation-at-iipa-delhi-554807" title="Open Research, Open Educational Resources and Open Learning - presentation at IIPA Delhi" target="_blank">Open Research, Open Educational Resources and Open Learning - presentation at IIPA Delhi</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 I spent the summer in India, and in fall, I began studying my MA at
 [OISE](http://www.oise.utoronto.ca/oise/Home/index.html). I there
@@ -90,9 +86,7 @@ not work on all machines), and also has
 and
 [links](http://reganmian.net/blog/2009/03/12/links-from-the-talk-open-education-around-the-world/).
 
-**[Open Education Around The
-World](http://www.slideshare.net/houshuang/open-education-around-the-world "Open Education Around The World")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/1137428" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/open-education-around-the-world" title="Open Education Around The World" target="_blank">Open Education Around The World</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 I spent some time in China, and gave a number of presentations there
 (all listed in [my central
@@ -107,13 +101,11 @@ and you can also download [the
 audio](http://www.archive.org/details/InnovativeProjectsInThePublishingOfOpenEducationalResources),
 or see the slides below.
 
-**[Innovative Projects in the Publishing of Open Educational
-Resources](http://www.slideshare.net/houshuang/innovative-projects-in-the-publishing-of-open-educational-resources "Innovative Projects in the Publishing of Open Educational Resources")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/2282193" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/innovative-projects-in-the-publishing-of-open-educational-resources" title="Innovative Projects in the Publishing of Open Educational Resources" target="_blank">Innovative Projects in the Publishing of Open Educational Resources</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 That year I had a chance to return to the Indian Institute of Public
 Administration, and I gave a talk about the importance of openness in
-administration: ***Openness: For your research and for**India****,*where
+administration: **Openness: For your research and for India**, where
 I tried to explain the transformative potential of openness through some
 stories around Wikipedia, how I began an article on
 [podsol](http://wikipedia.org/wiki/Podsol), a topic I was not an expert
@@ -126,17 +118,15 @@ You can download [the
 audio](http://reganmian.net/file/Talk%20IIPA%20Jan%204%202010.mp3), and
 the slides are below.
 
-**[Openness: for your research and for
-India](http://www.slideshare.net/houshuang/openness-for-your-research-and-for-india "Openness: for your research and for India")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/2830265" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/openness-for-your-research-and-for-india" title="Openness: for your research and for India" target="_blank">Openness: for your research and for India</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 The next year's Open Access Week was very busy. I did a workshop for
 teacher candidates with Clare Brett on ***What can Open Access offer me
 as a teacher?: A guide to Open Access and to education resources you can
 use for teaching and professional
-development *****[(slides)](http://www.slideshare.net/houshuang/what-can-open-access-offer-me-as-a-teacher-a-guide-to-open-access-and-to-education-resources-you-can-use-for-teaching-and-professional-development),
-and gave two substantial presentations. In ***What It Means to be an
-Open Scholar, and the Future of Scholarly Publishing, *****I tried to go
+development **[(slides)](http://www.slideshare.net/houshuang/what-can-open-access-offer-me-as-a-teacher-a-guide-to-open-access-and-to-education-resources-you-can-use-for-teaching-and-professional-development)**,
+and gave two substantial presentations. In **What It Means to be an
+Open Scholar, and the Future of Scholarly Publishing**, I tried to go
 beyond the traditional "green and gold OA, put your publications on the
 institutional repository, etc", and look at expanding the definition -
 publishing in many different formats and channels, and sharing data and
@@ -168,29 +158,24 @@ blog
 post](http://reganmian.net/blog/2010/10/24/how-to-be-an-open-scholar-oa-week-2010/),
 and slides below.
 
-**[What it Means to be an Open Scholar and the Future of Scholarly
-Publishing](http://www.slideshare.net/houshuang/what-it-means-to-be-an-open-scholar-and-the-future-of-scholarly-publishing "What it Means to be an Open Scholar and the Future of Scholarly Publishing")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5517823" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/what-it-means-to-be-an-open-scholar-and-the-future-of-scholarly-publishing" title="What it Means to be an Open Scholar and the Future of Scholarly Publishing" target="_blank">What it Means to be an Open Scholar and the Future of Scholarly Publishing</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 I also developed a presentation about another topic near to my heart,
 multicultural and multilingual resources for the international student
 body at the University of Toronto, which I gave at both UTSC and UTM,
-with the title ***Global Open Educational Resources and the University
-of Toronto as a Multicultural** **Institution***, talking about
+with the title **Global Open Educational Resources and the University
+of Toronto as a Multicultural Institution**, talking about
 multilingual students both as consumers and as creators of multilingual
-open resources.*** ***A bit later, I had a chance to return to my
+open resources. A bit later, I had a chance to return to my
 international high school in Italy, [the United World College of the
 Adriatic](http://www.uwcad.it/), and give a version of the presentation
 to the incredibly international (and passionate) student body there,
 called ***Multilingual Open Educational Resources for a Multilingual and
-Multicultural UWC. ***Unfortunately I never got a recording, but the
+Multicultural UWC. **Unfortunately I never got a recording, but the
 slides are below, and I have [a very detailed write-up in a blog
-post](http://reganmian.net/blog/2010/12/07/oer-for-a-multicultural-classroom-student-as-user-and-producer/).
+post](http://reganmian.net/blog/2010/12/07/oer-for-a-multicultural-classroom-student-as-user-and-producer/).**
 
-**[Multilingual Open Educational Resources for a Multilingual and
-Multicultural
-UWC](http://www.slideshare.net/houshuang/oer-for-multicultural-uwc-2010 "Multilingual Open Educational Resources for a Multilingual and Multicultural UWC")**
-from **[Stian Håklev](http://www.slideshare.net/houshuang)**
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5728298" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/houshuang/oer-for-multicultural-uwc-2010" title="Multilingual Open Educational Resources for a Multilingual and Multicultural UWC" target="_blank">Multilingual Open Educational Resources for a Multilingual and Multicultural UWC</a> </strong> from <strong><a href="http://www.slideshare.net/houshuang" target="_blank">Stian Håklev</a></strong> </div>
 
 Later that year gave an impassioned three minute speech about why OISE
 should adopt an open access mandate at a town-hall (the mandate was
@@ -221,9 +206,7 @@ ideas](http://reganmian.net/wiki/grappling_with_ideas-the_paper). Also
 [see the slides on
 Slideshare.](http://www.slideshare.net/houshuang/visual-discourse-cck11)
 
-[Grappling with ideas: divergence and
-convergence](http://vimeo.com/22403448) from [Stian
-Haklev](http://vimeo.com/houshuang) on [Vimeo](http://vimeo.com).
+<iframe src="http://player.vimeo.com/video/22403448" width="420" height="318" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/22403448">Grappling with ideas: divergence and convergence</a> from <a href="http://vimeo.com/houshuang">Stian Haklev</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 My own work on Open Access during the last one and a half year has been
 focused on developing an academic workflow for PhD students that enables

@@ -5,17 +5,18 @@ include Nanoc3::Helpers::Tagging
 include Nanoc3::Helpers::Rendering
 include Nanoc3::Helpers::LinkTo
 include Nanoc3::Helpers::XMLSitemap
-require 'date'
+require 'time'
 
 def grouped_articles
   art = sorted_articles.group_by do |a|
-    [ Time.parse(a[:created_at]).year, Time.parse(a[:created_at]).month ]
+    create_date = Time.parse(a[:created_at].to_s)
+    [ create_date.year, create_date.month ]
   end.sort.reverse
 
   years = []
   sorted_articles.each do |a|
-    time = Time.parse(a[:created_at])
-    years << time.year
+    create_date = Time.parse(a[:created_at].to_s)
+    years << create_date.year
   end
 
   return [art, years.sort.reverse.uniq]
@@ -26,11 +27,11 @@ def location
 end
 
 def day(post)
-  return number_to_ordinal(Time.parse(post[:created_at]).day)
+  return number_to_ordinal(Time.parse(post[:created_at].to_s).day)
 end
 
 def year(post)
-  return number_to_ordinal(Time.parse(post[:created_at]).day)
+  return number_to_ordinal(Time.parse(post[:created_at].to_s).day)
 end
 
 def month(which)
@@ -53,7 +54,7 @@ end
 module PostHelper
   def get_pretty_date(post)
     if post[:created_at]
-      Date.parse(post[:created_at]).strftime('%B %-d, %Y')
+      Date.parse(post[:created_at].to_s).strftime('%B %-d, %Y')
     else
       ""
     end

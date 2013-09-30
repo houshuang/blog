@@ -72,9 +72,7 @@ popularize Open Access at University of Toronto and at OISE, including
 [2009](http://discover.library.utoronto.ca/open-access-week/open-access-events-2009), [2010](http://discover.library.utoronto.ca/open-access-week/open-access-events)
 and [2011](http://onesearch.library.utoronto.ca/oaweek).
 
-[caption id="attachment\_1355" align="alignnone" width="360"
-caption="Open Access week display in OISE
-lobby"]![](http://reganmian.net/blog/wp-content/uploads/2012/04/4098198609_a9d5872645.jpg "4098198609_a9d5872645")[/caption]
+![](http://reganmian.net/blog/wp-content/uploads/2012/04/4098198609_a9d5872645.jpg "4098198609_a9d5872645")[/caption]
 
 There has also been much practical work done with making T-Space easier
 to use (although we have a long way to go there), exposing statistics,

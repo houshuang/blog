@@ -3,7 +3,7 @@ title: Unique publication IDs in open scholar search
 created_at: Sun, 24 Mar 2013 10:22:54 +0000
 kind: article
 tags:
-- "\#scholrev"
+- "#scholrev"
 - academia/research
 - FORCE11
 - open access
@@ -16,7 +16,7 @@ Vision talk about ["An open alternative to Google
 Scholar"](http://www.slideshare.net/houshuang/stian-haklev-vision), and
 since then a group of us have begun discussing how we can make this
 happen. There isn't yet a fixed place for this discussion to take place,
-but we can use the broader hashtag \#scholrev (see [Peter Murray-Rust's
+but we can use the broader hashtag #scholrev (see [Peter Murray-Rust's
 blog
 post](http://blogs.ch.cam.ac.uk/pmr/2013/03/20/btpdf2-scholrev-planning-the-scholarly-revolution/))
 to coordinate.

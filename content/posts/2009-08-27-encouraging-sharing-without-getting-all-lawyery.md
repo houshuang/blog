@@ -7,7 +7,7 @@ tags:
 - open-education
 ---
 
-[![](http://reganmian.net/files/AgingHippiesLogo.jpg "Aging hippies")](http://k.webring.com/hub?ring=aginghippiesarts)Recently,
+[![image ](http://reganmian.net/files/AgingHippiesLogo.jpg)](http://k.webring.com/hub?ring=aginghippiesarts)Recently,
 both [Leigh
 Blackall](http://leighblackall.blogspot.com/2009/08/looking-into-sky-open-ed-oh-nine.html)
 and [Dave

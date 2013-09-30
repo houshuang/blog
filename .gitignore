@@ -5,7 +5,7 @@ output/
 
 # Temporary file directory
 tmp/
-
+index/
 sitemap.txt
 
 ping?*

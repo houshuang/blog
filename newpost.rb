@@ -4,6 +4,72 @@
 require 'Appscript'
 Blogpath = '/Users/Stian/src/blog'
 
+# given a start of a filename, and an end, looks if there are already any files existing with the filename (pre)01(post)
+# increments number with one and returns. used to generate filenames like picture01.png picture02.png etc
+def filename_in_series(pre,post)
+  existingfile =  File.last_added("#{pre}*#{post}")
+  if existingfile
+    c = existingfile.scan(/(..)#{post}/)[0][0].to_i
+    c += 1
+  else
+    c = 1
+  end
+
+  pagenum = c.to_s
+  pagenum = "0" + pagenum if pagenum.size == 1
+  return "#{pre}#{pagenum}#{post}", pagenum
+end
+
+
+# writes text to clipboard, using a pipe to avoid shell mangling
+# rewritten using osascript for better UTF8 support (from http://www.coderaptors.com/?action=browse&diff=1&id=Random_tips_for_Mac_OS_X)
+def pbcopy(text)
+  `osascript -e 'set the clipboard to "#{text}"'`
+  #IO.popen("osascript -e 'set the clipboard to do shell script \"cat\"'","w+") {|pipe| pipe << text}
+end
+
+# gets text from clipboard
+def pbpaste
+  a = IO.popen("osascript -e 'the clipboard as unicode text' | tr '\r' '\n'", 'r+').read
+  a.strip.force_encoding("UTF-8")
+end
+
+class File
+  class << self
+
+    # adds File.write - analogous to File.read, writes text to filename
+    def write(filename, text)
+      File.open(filename,"w") {|f| f << text}
+    end
+
+    # adds File.append - analogous to File.read, writes text to filename
+    def append(filename, text)
+      File.open(filename,"a") {|f| f << text + "\n"}
+    end
+
+    # find the last file added in directory
+    def last_added(path)
+      path += "*" unless path.index("*")
+      Dir.glob(path, File::FNM_CASEFOLD).select {|f| test ?f, f}.sort_by {|f|  File.mtime f}.pop
+    end
+
+    # find the last file added in directory
+    def last_added_dir(path)
+      path += "*" unless path.index("*")
+      Dir.glob(path + "/*/", File::FNM_CASEFOLD).sort_by {|f| File.mtime f}.pop
+    end
+
+
+    def replace(path, before, after, newpath = "")
+      a = File.read(path)
+      a.gsub!(before, after)
+      newpath = path if newpath == ""
+      File.write(newpath, a)
+    end
+  end
+end
+
+
 def get_current_app
   app = Appscript.app("System Events")
   return app.application_processes[app.application_processes.frontmost.get.index(true)+1].name.get.strip
@@ -29,11 +95,11 @@ def growl(title,text='',url='')
     title = ''
   end
 
-  #{Script_path}/growlnotify -t "#{title}" -m "#{text}"`
+  `growlnotify -t "#{title}" -m "#{text}"`
 
-  growlapp=Appscript.app('Growl')
-  growlapp.register({:as_application=>'Researchr', :all_notifications=>['Note'], :default_notifications=>['Note']})
-  growlapp.notify({:with_name=>'Note',:title=>title,:description=>text,:application_name=>'Researchr', :callback_URL=>url})
+  # growlapp=Appscript.app('Growl')
+  # growlapp.register({:as_application=>'Linkify', :all_notifications=>['Note'], :default_notifications=>['Note']})
+  # growlapp.notify({:with_name=>'Note',:title=>title,:description=>text,:application_name=>'Linkify', :callback_URL=>url})
 end
 
 # ----------------------------------------------------------------------------------
@@ -45,14 +111,14 @@ end
 
 def current_window_sublime
   app = Appscript.app("System Events")
-  idx = app.application_processes.name.get.index("Sublime Text 2")
+  idx = app.application_processes.name.get.index("Sublime Text")
   st = app.application_processes[idx+1]
   window = st.UI_elements[0].name.get
   return window.split(" ")[0].strip
 end
 
 def nanoc_compile
-  `export LC_ALL=en_US.UTF-8;export LANG=en_US.UTF-8;cd '#{Blogpath}';/usr/local/bin/nanoc`
+  `export LC_ALL=en_US.UTF-8;export LANG=en_US.UTF-8;cd '#{Blogpath}';/usr/local/Cellar/ruby/2.0.0-p0/bin/nanoc`
 end
 
 if ARGV[0] == 'save'
@@ -86,4 +152,42 @@ if ARGV[0] == 'edit'
   y,m,d,slug = /([0-9]+)\/([0-9]+)\/([0-9]+)\/([^\/]+)/.match(url).captures
   page = Blogpath + "/content/posts/#{y}-#{m}-#{d}-#{slug}.md"
   `/usr/local/bin/subl #{page}`
+end
+
+if ARGV[0] == 'pic'
+  if ARGV[1] == 'half'
+    width = 320
+    suffix = "half"
+  else
+    width = 640
+    suffix = "whole"
+  end
+  
+  pic_path = "/Users/Stian/src/blog/content/images/"
+  window = current_window_sublime.gsub(".md","")
+
+  curfile =  File.last_added("/Users/Stian/Desktop/Screen*.png") # this might be different between different OSX versions
+  fail "No screenshots available" if curfile == nil
+
+  newfilename, pagenum = filename_in_series("#{pic_path+window}-#{suffix}-",".png")
+  print newfilename
+  if File.exists?(newfilename)
+    pbcopy("")
+    fail "File already exists, aborting!"
+  end
+
+  `cp "#{curfile.strip}" "#{newfilename}"`
+  
+  # check if needs resizing
+  picwidth = Integer(%x{sips --getProperty pixelWidth "#{newfilename}" 2>&1}.split(":")[1])
+  if picwidth > width # only resize if pic is too large
+    `cp "#{newfilename}" "#{newfilename.gsub(".png","")}-orig.png"` # keep original size
+    `sips --resampleWidth #{width} "#{newfilename}"` 
+  end
+
+  `mv "#{curfile.strip}" /tmp/image.png`
+  `touch "#{newfilename}"`  # to make sure it comes up as newest next time we run filename_in_series
+
+  justfilename = newfilename.split("/").last
+  pbcopy("![](/blog/images/#{justfilename})")
 end

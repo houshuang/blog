@@ -2,6 +2,7 @@
 title: 
 created_at:
 kind: article
+location: Toronto, Canada
 tags:
 ---
 
