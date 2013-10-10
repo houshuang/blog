@@ -9,14 +9,17 @@ tags:
 ---
 
 ![Mastering the Machine Revisited
-frontpage](http://images.amazon.com/images/P/1853395072.01._SCLZZZZZZZ_.jpg)\
- I think I found out about this book from the [Engineers Without
+frontpage ](http://images.amazon.com/images/P/1853395072.01._SCLZZZZZZZ_.jpg)
+
+I think I found out about this book from the [Engineers Without
 Borders](http://www.ewb.ca) discussion forum. (Actually, I read
 Mastering the Machine, and then leafed through MTM Revisited to see if
 anything was new.) It is produced by a foundation set up by E. F.
 Schumacher, which works with appropriate technology in developing
 countries. The author seemed to have a good sensitivity for what
-appropriate technologies work and which do not. He gives a lot of
+appropriate technologies work and which do not. 
+
+He gives a lot of
 examples of practical problems and solutions, many of them none to
 inspiring. NGOs and official development agencies are criticized for
 being to idealistic, scorning commercial cooperation (be it local or in

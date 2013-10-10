@@ -1,14 +1,14 @@
 ---
-title: Home
+title: Home - Drafts
 ---
 
-<% sorted_articles.take(10).each do |post| 
-  next if post[:status]%>
+<% sorted_articles.take(100).each do |post| 
+  next unless post[:status] && post[:status] == "draft"%>
   <div class='post'>
     <h1 class='emphnext'><%= link_to post[:title], post.path %></h1>
   <p class='emphnext2'><%= get_pretty_date(post) %>, <%= link_to "[MD]", post.path+"index.md" %> <%= link_to "", post.path + "#disqus_thread" %>
     </p>
-      <%= get_post_start(post) %> 
+      <%= post.compiled_content %>
   <hr>
   </div>
 <% end %>

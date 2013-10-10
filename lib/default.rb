@@ -6,6 +6,7 @@ include Nanoc3::Helpers::Rendering
 include Nanoc3::Helpers::LinkTo
 include Nanoc3::Helpers::XMLSitemap
 require 'time'
+require 'fast-aleck'
 
 def grouped_articles
   art = sorted_articles.group_by do |a|
@@ -59,6 +60,22 @@ module PostHelper
       ""
     end
   end
+
+def get_post_start(post)
+  content = post.compiled_content
+  if content =~ /\s<!-- more -->\s/
+    content = content.partition('<!-- more -->').first 
+  else
+    a = content.index("</p>")
+    while content[0..a-1].scan(" ").size < 200 do
+      b = content.index("</p>", a+1)
+      break unless b
+      a = b 
+    end
+    content = content[0..a-1]
+  end
+  return content + "<div class='read-more'><a href='#{post.path}'>Continue reading &rsaquo;</a></div>"
+end
 end
 
 include PostHelper
@@ -69,6 +86,15 @@ class Replacements < Nanoc3::Filter
     content.gsub(/^```(.+?)$/, '```language-\1')  # easier to type ```ruby than ```language-ruby
   end
 end
+
+class Fast < Nanoc3::Filter
+  identifier :fast
+  def run(content, params={})
+    content
+    #content = FastAleck.process(content)
+  end
+end
+
 
 class Wiki < Nanoc3::Filter
   identifier :wiki

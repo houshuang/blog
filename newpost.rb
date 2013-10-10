@@ -169,7 +169,7 @@ if ARGV[0] == 'pic'
   curfile =  File.last_added("/Users/Stian/Desktop/Screen*.png") # this might be different between different OSX versions
   fail "No screenshots available" if curfile == nil
 
-  newfilename, pagenum = filename_in_series("#{pic_path+window}-#{suffix}-",".png")
+  newfilename, pagenum = filename_in_series("#{pic_path+window}_-_#{suffix}-",".png")
   print newfilename
   if File.exists?(newfilename)
     pbcopy("")
