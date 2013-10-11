@@ -1,5 +1,5 @@
 ---
-title: "Providing multilingual services - if the Iranian can do it2806"
+title: "Providing multilingual services - if the Iranian can do it..."
 created_at: 2008-01-10 00:00:00 -0500
 kind: article
 tags:
@@ -9,7 +9,7 @@ tags:
 
 It happened two of the three times that I crossed the Niagara/Buffalo
 border last year, so it cannot be such a rare occurrence. The first time
-I met him in the line at Toronto Bus Terminal, and elderly Chinese guy.
+I met him in the line at Toronto Bus Terminal, an elderly Chinese guy.
 I chatted with him in Chinese, and he told me he’d lived in Canada for
 three years, but spoke almost no English. He was too old he said, if he
 learnt something one day, the next it was gone. He asked me if I could
@@ -18,7 +18,7 @@ assist him later, if there would be any problem. I agreed.
 At the border, I went in together with him, and interpreted for him
 during the border interview. They asked him a number of questions, he
 answered (through me), and he was asked to go to the next “station”. I
-myself had to get a new visa waiver, which would cost me 10\$ US, and
+myself had to get a new visa waiver, which would cost me 10$ US, and
 they did not accept Canadian dollars. They told me to run across to the
 other side were there was a tax free store, and change my money there.
 When I came back, they were waiting for me, and asked “Are you the guy
@@ -74,18 +74,18 @@ They’d be very excited to talk to us, but spoke no English. Not easily
 deterred, they picked up their cell phone and called their English
 speaking cousin, and gave us the phone.
 
--   “Hello?”\
--   “Hello! This is Ali’s cousin. How can I help you?”\
+-   “Hello?”
+-   “Hello! This is Ali’s cousin. How can I help you?”
 -   “Well… we don’t really need any help, we just got randomly handed
-  this cell phone”.\
--   “OK, let me talk to my cousin again.”\
-   (Lot’s of farsi being spoken)\
--   “So, my cousin would like to invite you for lunch.”\
+  this cell phone”.
+-   “OK, let me talk to my cousin again.”
+   (Lot’s of Farsi being spoken)
+-   “So, my cousin would like to invite you for lunch.”
    (We follow after the cousin, and receive delicious food and lot’s
   of laughs).
 
   Such a simple method. I realize that the Niagara border cannot have
-  a Chinese just waiting in case there is a Chinese crossing the
+  a Chinese translator just waiting in case there is a Chinese crossing the
   border (they probably don’t even have anyone speaking French there),
   but why isn’t there some kind of central interpretation centre for
   the government, where they could call in, choose Chinese, and
@@ -106,7 +106,3 @@ speaking cousin, and gave us the phone.
   applauded, but this needs to be tested on the people who need it -
   monolingual English speakers will never be able to design efficient
   services for multilingual and multicultural access.
-
-  Stian
-
-

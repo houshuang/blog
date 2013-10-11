@@ -14,8 +14,8 @@ tags:
 
 I am trying to purchase a flight ticket, but because I am an
 international student, my credit limit is just
-1000, *a**n**d**t**h**e**t**i**c**k**e**t**c**o**s**t**s*1, 150. The
-fact that I have over 10,000\$ in my account is not important, I can't
+$1000, and the ticket is $1, 150. The
+fact that I have over 10,000$ in my account is not important, I can't
 seem to buy this ticket. Since I have been a customer of
 [CIBC](http://cibc.com)'s for four years, had my VISA card for more than
 two years, and spent a lot of money (all promptly repaid), I find it
@@ -45,8 +45,8 @@ Asian link](http://www.tdcanadatrust.com/southasian/index.jsp)? After
 all, South Asia is an area famed for it's linguistic diversity, with not
 only a large array of languages, but even a large array of scripts.
 
-[![Banking can be itna
-comfortable](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.23.11-PM.png "Banking can be itna comfortable")](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.23.11-PM.png)Turns
+![ Banking can be itna
+comfortable](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.23.11-PM.png)Turns
 out, the website is in "Hinglish" – English, interspersed with snippets
 of Hindi, written in the Latin script. So, the picture exclaims "Banking
 can be itna comfortable" (itna = so), and the following paragraph
@@ -65,14 +65,14 @@ badli – one thing has never changed (will never change?).
 The page continues like this, with lot's of information about their
 services, interspersed with short snippets of Hindi. We find out that
 "Banking with us is **behtherien aur aasaan**" (better and easy), they
-offer a list of "**Sawaal-Jawaab**" (questions and answers). And among
+offer a list of **"Sawaal-Jawaab"** (questions and answers). And among
 their services, we see that "Telephone **ya** Internet **se banking
 karne ki suvidha** – that’s the covenience of *EasyLine* telephone
 banking and *EasyWeb* Internet banking with TD Canada Trust." (the
 facility to bank with internet or telephone).
 
-[![Aapke sawaal, hamare
-jawaab](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.24.48-PM.png "Aapke sawaal, hamare jawaab")](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.24.48-PM.png)
+![Aapke sawaal, hamare
+jawaab ](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-03-at-9.24.48-PM.png)
 
 So what is the purpose of this? The words that are in Hindi are the most
 easy words, so it's clearly not to make it easier to understand for
@@ -106,7 +106,7 @@ words to appeal to a certain community. But this is the first time I've
 seen it under the sub-heading "the South Asian community" – meaning it
 purports to represent all South Asians.
 
-I know, if you addresses this to "the Nordic Community", and wrote the
+If you addressed something to "the Nordic Community", and wrote the
 whole text in Swedish, Norwegians might feel a bit miffed.
 
 Is there even such a thing as a "South Asian community"? Certainly, in
@@ -125,5 +125,3 @@ Italian](http://www12.statcan.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LA
 but they don't have their own section). Or based on which groups have
 the most problems with understanding English (clearly not the case with
 the South Asian example). Or the most wealthy/profitable customers?
-
-Stian

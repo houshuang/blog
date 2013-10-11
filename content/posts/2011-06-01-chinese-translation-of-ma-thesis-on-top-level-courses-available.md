@@ -72,5 +72,3 @@ I want to thank [Zhong Hongrui](mailto:hongrui241@qq.com) for the
 incredibly careful and thorough work he did with the translation. He has
 asked me to let you know that he is available for other projects,
 especially related to education.
-
-Stian

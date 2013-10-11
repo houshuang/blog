@@ -92,5 +92,3 @@ this exists for Indonesian. I really wish some Indonesian magnate (god
 knows there are enough of them) would fund a huge book scanning project
 to preserve this early Indonesian literary heritage, and also enable far
 more research and scholarship around them.
-
-Stian

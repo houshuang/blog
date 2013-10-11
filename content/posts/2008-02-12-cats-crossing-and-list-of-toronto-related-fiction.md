@@ -1,5 +1,5 @@
 ---
-title: "Cat28099s Crossing, and list of Toronto-related fiction"
+title: "Cat's Crossing, and list of Toronto-related fiction"
 created_at: 2008-02-12 00:00:00 -0500
 kind: article
 tags:
@@ -9,7 +9,7 @@ tags:
 - toronto
 ---
 
-![](http://static.flickr.com/92/261926630_7e9ed7dadd_m.jpg)I’ve always
+I’ve always
 loved reading literature or watching TV-series/movies about cities and
 places where I have been/are. When attending high school in Italia, it
 was a special treat reading a novel in Italian where the protagonist
@@ -36,7 +36,7 @@ huge budget to write a book, and so I am often much more easily able to
 find a book about whatever I want to read about, than I am to find a
 film.
 
-![](http://ecx.images-amazon.com/images/I/4118RGPSG6L._AA240_.jpg)I have
+![ book](http://ecx.images-amazon.com/images/I/4118RGPSG6L._AA240_.jpg)I have
 randomly come across a few books set in Toronto - [Someone Comes to
 Town, Someone Leaves Town](http://craphound.com/someone/) by Cory
 Doctorow is set in Kensington Market, one of my favorite spots in
@@ -54,8 +54,7 @@ was born. Hopefully others will add to it - especially movies would be
 great. Since I put it up a few days ago, someone has already added a
 collection of short stories, which is great. In the absence of page
 counters on Wikipedia, someone editing a page is pretty much the only
-way you know someone actually visited it
-![:)](http://reganmian.net/blog/wp-includes/images/smilies/icon_smile.gif)
+way you know someone actually visited it.
 
 I also ordered a few of the books at the UofT library, and just picked
 up three of them. I finished the first one, [Cat’s
@@ -93,6 +92,5 @@ office on Spadina. With such an incredibly diverse population, there is
 fiction written and shot about Toronto in all kinds of languages, and it
 would be great to make this more visible and accessible.
 
-Stian\
  *(thanks to [Cold Cut @ flickr](http://www.flickr.com/photos/coldcut/)
 for the Toronto skyline photo)*

@@ -7,8 +7,8 @@ tags:
 - languages
 ---
 
-[![](http://lh5.google.com/shaklev/RdFUJmbJnyI/AAAAAAAAAik/T_HH2jQeKpo/s288/P2120012.JPG)](http://picasaweb.google.com/shaklev/SenenByNight/photo#5030894782659534626)One
-of the problems I had when learning Indonesian in Jakarta was that what
+![ Pasar Senen by night](/blog/images/2008-02-17-prokem-bahasa-gaul-language-inventiveness_-_whole-01.png)
+One of the problems I had when learning Indonesian in Jakarta was that what
 people actually spoke seemed to be very distinct from what was in my
 textbooks (never mind that my textbooks were also about 20 years old,
 but most importantly they taught a very refined Indonesian. I remember
@@ -38,13 +38,13 @@ There are several elements, and I won’t try to give a full account.
 There are lot’s of words that might come from Hokkien, Javanese or
 Sundanese or other local languages, English or Dutch (but often with a
 different, related meaning), or Indonesian that is transformed. For
-example *cewek* and *cowok*for girl (Bhs Indo: *perempuan* and
+example *cewek* and *cowok* for girl (Bhs Indo: *perempuan* and
 *laki-laki*), *nyokap* and *bokap* for mum and dad (Bhs Indo: *ibu* and
 *bapak* - which are also used as honorifics). Then there is the
 different “conjugations”, where for example the suffix *-kan*, used to
 make a verb transitive, becomes *-in*, and the initial *meng/men/meny*
 (depending on the following letter), also a prefix for transitive verbs,
-become *ng-, ny-.*So *mengapakan* (the transitive form of “what” = “what
+become *ng-, ny-.* So *mengapakan* (the transitive form of “what” = “what
 are you doing”) becomes *ngapain* (a common question - what’s up?).
 
 I also noticed that Indonesians seemed to have a very playful
@@ -53,7 +53,7 @@ often based by syllable abbreviations (that remind me of Russian
 *komsomol* style abbreviations). I don’t know how far back in time this
 goes, but it is not at all confined to slang - the department of
 education has *Depdiknas* written with large letters on its building
-(***Dep**artement pendi**dik**an**nas**ional*) - a good example of how
+(*Departemen Pendidikan Nasional*) - a good example of how
 it seems quite random which syllables are chosen. (My boss in Jakarta
 complained about *gakin*- *keluar**ga** mis**kin*** - poor families).
 But this is also used a lot in youth cultures (and not just adolescent -
@@ -77,14 +77,12 @@ that are now largely accepted parts of casual speech, like *bokap* and
 Prokem”,](http://e-publishing.library.cornell.edu/DPubS?service=UI&version=1.0&verb=Display&handle=seap.indo/1107019146)
 by Henri Chambert-Loir.
 
-Stian
-
-PS: This blog post is also an example of the power of open access
+*PS: This blog post is also an example of the power of open access
 publishing - I would not have bothered blogging about this article, if
 it had not been available for free download, since presumably most
 readers either a) don’t have access to institutional article databases,
 and b) even if they had, wouldn’t bother searching up this article, but
-want a direct link.
+want a direct link.*
 
-PPS: I took the picture at night in *Pasar Senen*, which certainly has
-enough *preman* and *anak2 nongkrong*.
+*PPS: I took the picture at night in __Pasar Senen__, which certainly has
+enough __preman__ and __anak2 nongkrong__.*

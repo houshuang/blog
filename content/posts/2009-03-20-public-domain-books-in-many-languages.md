@@ -15,7 +15,7 @@ tags:
 - russian
 ---
 
-![](http://www.gutenberg.org/pics/pg-logo-002.png)I've long been
+![gutenberg ](http://www.gutenberg.org/pics/pg-logo-002.png)I've long been
 fascinated by book scanning projects, and written before about
 OpenLibrary and Universal Library, as well as Google Books. However, as
 neat as these projects are, we shouldn't forget sites like [Project
@@ -81,5 +81,3 @@ number of their books, and my friend pointed out that they've now got
 more foreign content than ever. Their [multilingual poetry
 collections](http://librivox.org/multilingual-poetry-collection-001/)
 are especially interesting.
-
-Stian

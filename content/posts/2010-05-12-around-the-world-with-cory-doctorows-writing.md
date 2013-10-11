@@ -11,8 +11,8 @@ tags:
 - personal
 ---
 
-[![](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-12-at-1.57.28-PM.png "Screen shot 2010-05-12 at 1.57.28 PM")](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-12-at-1.57.28-PM.png)I
-am a big fan of [Cory Doctorow](http://craphound.com/)'s work. Without
+![ book](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-12-at-1.57.28-PM.png)
+I am a big fan of [Cory Doctorow](http://craphound.com/)'s work. Without
 planning to, I have actually read his entire oeuvres on screen. If I
 ever came across a paper copy of one of his books, I would love to pick
 it up, but I haven't seen one at the airports I frequent. It started
@@ -111,7 +111,7 @@ rehabilitate the internet cafe (which they used themselves, and which
 was also a source of income, and encouraged interaction between all the
 kids in town, and the people living in the co-op).
 
-[![](http://craphound.com/images/someonecovermainsite.jpg "Cover Someone comes to town")](http://craphound.com/someone)We
+![ book](http://craphound.com/images/someonecovermainsite.jpg)We
 helped them set up a satellite link, so their internet wouldn't go down
 every time it rained (their phone lines were quite ... cantankerous),
 and I remember sitting in the lab, helping them work on their webpages,
@@ -400,7 +400,7 @@ message through all the loudspeakers in the village that villagers had
 to remove the wheat they were drying on the main road within noon, or
 face fines.
 
-[![](http://craphound.com/littlebrother/cover-small.jpg "Cover of Little Brother")](http://craphound.com/littlebrother)Sitting
+![ book](http://craphound.com/littlebrother/cover-small.jpg)Sitting
 in the tiny school library, I downloaded [Little
 Brother](http://craphound.com/littlebrother), and lay in bed reading it
 on my MacBook until 3AM in the morning. This book is perhaps the one
@@ -478,7 +478,7 @@ e-mail to Cory:
 > Stian
 
 [![Cover of
-Makers](http://craphound.com/images/makerscombinedsmall.jpg)](http://craphound.com/makers)He
+Makers ](http://craphound.com/images/makerscombinedsmall.jpg)](http://craphound.com/makers)He
 wrote back and said that most of them hadn't been published yet, and
 anyway it was hard to get foreign publishers to agree to license the
 translations under open licenses. I still think this is a great idea,
@@ -501,7 +501,7 @@ straight away to Stanza, and was reading the whole way home. The book
 was incredible, I devoured it on my iPod.
 
 [![Frontpage of For the
-win](http://craphound.com/images/ftw_both_smalll.jpg)](http://craphound.com/ftw)And
+win ](http://craphound.com/images/ftw_both_smalll.jpg)](http://craphound.com/ftw)And
 today, I just downloaded his newest book [For the
 win](http://craphound.com/ftw), and began reading it over lunch (on my
 iPod again). An amazing story, and it's hard to put down, because you
@@ -523,4 +523,4 @@ I look forward to many more excellent books, and I am excited to see in
 which strange places I will be reading them, and on what futuristic
 devices!
 
-Stian *Photo of Cory by Joi Ito, CC BY.*
+*Photo of Cory by Joi Ito, CC BY.*

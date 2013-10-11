@@ -6,7 +6,7 @@ tags:
 - India
 ---
 
-![](http://bachodi.files.wordpress.com/2007/07/wikipedia.jpg)Preparing
+![ wikipedia-logo](http://bachodi.files.wordpress.com/2007/07/wikipedia.jpg)Preparing
 for a talk I am hoping to give in Delhi, I decided to look up the sizes
 of the Wikipedias in the different Indic languages. There are several
 ways of assessing the size of a language Wikipedia, none perfect. The
@@ -92,30 +92,32 @@ Here is the list, with a few other languages included for comparison.
 **Size in MB of compressed files of language Wikipedias, as of June
 2008**
 
-*English 14,000\
- German 3,200\
- Chinese 626\
- Norwegian 361*\
- *Esperanto 185*\
- Telugu 52\
- Kannada 46\
- Bangla 34\
- Tamil 34\
- Bishnupriya Manipura 30\
- Hindi 30\
- Malayalam 29\
- Marathi 23\
- Nepali 21\
- Urdu 16\
- ~~Kannada 10~~\
- Sanskrit 3.2\
- Gujarati 3.1\
- Sindhi 2.6\
- Bhojpuri 2\
- Tibetan 1.9\
- Panjabi 1.7\
- Kashmiri 1.3\
- Oriya 1.3
+|Language|Size in MB|
+|:--------|-----------------------------:|
+|English| 14,000|
+|German| 3,200|
+|Chinese| 626|
+|Norwegian| 361|
+|Esperanto| 185|
+|Telugu| 52|
+|Kannada| 46|
+|Bangla| 34|
+|Tamil| 34|
+|Bishnupriya Manipura 30|
+|Hindi| 30|
+|Malayalam| 29|
+|Marathi| 23|
+|Nepali| 21|
+|Urdu| 16|
+|Kannada| 10|
+|Sanskrit| 3.2|
+|Gujarati| 3.1|
+|Sindhi| 2.6|
+|Bhojpuri| 2|
+|Tibetan| 1.9|
+|Panjabi| 1.7|
+|Kashmiri| 1.3|
+|Oriya| 1.3|
 
 Hopefully, if I repeat this exercise in a year, I will be able to see a
 lot of progress… I have plans to promote editing Wikipedia in your own
@@ -126,5 +128,3 @@ the idea of professors including Wikipedia in their assignments. The
 project](http://en.wikipedia.org/wiki/User:Jbmurray/Madness) is an
 example of articles one can only (so far) dream of seeing in Hindi and
 other Indic languages.
-
-Stian

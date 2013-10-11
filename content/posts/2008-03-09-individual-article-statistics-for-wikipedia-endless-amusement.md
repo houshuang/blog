@@ -39,7 +39,7 @@ day. And my newest creation, the [List of fiction set in
 Toronto](http://wikipedia.org/wiki/List_of_fiction_set_in_Toronto) has
 an average of at least 15 a day.
 
-![](http://lh6.google.com/shaklev/R9SgCyFSuXI/AAAAAAAABWg/OId864VKteQ/968f06a5_Picture202)Looking
+![graph ](http://lh6.google.com/shaklev/R9SgCyFSuXI/AAAAAAAABWg/OId864VKteQ/968f06a5_Picture202)Looking
 at larger articles, the article on
 [Kosovo](http://wikipedia.org/wiki/Kosovo) (which I had no hand in
 creating) clearly shows how Wikipedia has become the place to go for
@@ -76,8 +76,7 @@ possible to write a script that showed the graphs for the articles on
 any topic on for many different languages simultaneously, so that one
 could see how news spread around the world, for example.
 
-Stian\
- (PS: Also have a look at the great page [summarizing the international
+*(PS: Also have a look at the great page [summarizing the international
 reactions to Kosovo’s declaration of
 independence](http://en.wikipedia.org/wiki/International_reaction_to_the_2008_Kosovo_declaration_of_independence),
 with almost 200 sources summarized in a very clear format - this should
@@ -85,4 +84,4 @@ be a great page to show anyone who claims that Wikipedia is not
 “trustworthy”, and an example of information that you could probably not
 find in such a comprehensive form anywhere else - most of the article
 has even been translated into 12 other languages alread, including
-Arabic and Hungarian)
+Arabic and Hungarian)*
