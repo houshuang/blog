@@ -1,13 +1,14 @@
 ---
 title: "Whose Education for All: The Recolonization of the African Mind"
 created_at: 2006-03-10 00:00:00 -0500
+location: Buffalo, USA
 kind: article
 tags:
 - africa
 - books
 ---
 
-![](http://images.addall.com/Images/SHOW/0815334788.jpg)I have known
+![ book](http://images.addall.com/Images/SHOW/0815334788.jpg)I have known
 about [Brigit Brock Utne](http://folk.uio.no/bbrock), a professor in
 international education at [the University of Oslo](http://www.uio.no),
 for several months, since I came across her
@@ -96,5 +97,3 @@ the “re-Arabization of the Maghreb countries”, and lately I have been
 reading a number of books/articles on the history of Chinese and Russian
 education. All highly exciting stuff (to me), and something that
 reaffirms my desire to study international and comparative education.
-
-Stian, in Buffalo

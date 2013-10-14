@@ -115,5 +115,3 @@ kids in China who are exposed to Chinese Python pick up programming
 concepts more quickly, and B) If kids who have been trained in Chinese
 Python are able to at a certain stage switch to English Python and catch
 up with a cohort that was trained in English Python from the get-go).
-
-Stian

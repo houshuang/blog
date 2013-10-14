@@ -107,4 +107,4 @@ expanded and formatted. Very clean and nice, compared to some of the
 solutions that integrate deep within OpenOffice or Word, which I have
 had poor experiences with.
 
-So now I just have to sit down and write this thesis... Stian
+So now I just have to sit down and write this thesis... 

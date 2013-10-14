@@ -99,7 +99,7 @@ end
 class Wiki < Nanoc3::Filter
   identifier :wiki
   def run(content, params={})
-    content.gsub(/\[\[(.+?)\]\]/m) do |hit|
+    content.gsub(/ \[\[(.+?)\]\] /m) do |hit|
       hit = hit[2..-3]
       hit.index("|") ? (link, text = hit.split('|')) : (link, text = hit)
       "<a href='http://reganmian.net/wiki/#{link.gsub(" ", "%20")}'>#{text}</a>"

@@ -9,24 +9,24 @@ tags:
 - nanoc
 ---
 
-Part of the reason I decided to switch from WordPress to a static blogging system was that I had been writing more and more in my wiki, which runs on localhost and is synced to the server. I built a number of tools to speed up my workflow when editing the wiki, many based on simple Ruby-scripts that are triggered by keyboard shortcuts, and use AppleScript (through appscript-rb) to get context (which page I'm currently looking at in Chrome, etc). 
+Part of the reason I decided to switch from WordPress to a static blogging system was that I had been writing more and more in [my wiki](http://reganmian.net/wiki), which runs on `localhost` and is synced to the server. I built [a number of tools](http://reganmian.net/wiki/researchr:start) to speed up my workflow when editing the wiki, many based on simple Ruby-scripts that are triggered by [keyboard shortcuts](http://www.keyboardmaestro.com/), and use [AppleScript](http://developer.apple.com/applescript/) (through [appscript-rb](http://appscript.sourceforge.net/rb-appscript/)) to get context (which page I'm currently looking at in Chrome, etc). 
 
-Beginning to write my blog posts as Markdown files in Sublime Text (I keep thinking I should learn Vim or EMacs, and occasionally I'll get inspired, surf people's dot files, do a tutorial -- but it never seems to stick), I not only have access to all the powerful editing features of ST, but I can also begin to add features with Ruby. 
+Beginning to write my blog posts as Markdown files in [Sublime Text](http://www.sublimetext.com/) (I keep thinking I should learn [Vim](http://www.vim.org/) or [EMacs](http://www.gnu.org/s/emacs/), and occasionally I'll get inspired, surf people's dot files, do a tutorial -- but it never seems to stick), I not only have access to all the powerful editing features of ST, but I can also begin to add features with  Ruby. 
 
 <!-- more -->
 
-Actually, some of this might have been more elegantly done as Sublime Text plugins, but I write Ruby rather than Python, and I already have some very nice workflows that are easily adaptable in Ruby, so I'll continue in that direction for now. 
+*Actually, some of this might have been more elegantly done as Sublime Text plugins, but I write Ruby rather than Python, and I already have some very nice workflows that are easily adaptable in Ruby, so I'll continue in that direction for now.*
 
 ## Basic editing workflow
 
 The basic workflow when creating a new blog post is
 
-* create a new file with the appropriate file name
-* fill in the metadata
-* write the content
-* preview to check how it looks
-* compile
-* sync to server
+  * create a new file with the appropriate file name
+  * fill in the metadata
+  * write the content
+  * preview to check how it looks
+  * compile
+  * sync to server
 
 I ended up with a two-stage process for creating new blog posts. I first press `Ctrl+Alt+Cmd N` in Sublime Text, which opens a new temporary document with an empty metadata header:
 

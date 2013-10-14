@@ -136,10 +136,11 @@ if ARGV[0] == 'preview'
   window = current_window_sublime
   datepath = window[0..9].gsub('-','/')
   slug = datepath + "/" + window[11..-4]
-
+  a=File.read("/Users/Stian/src/blog/content/posts/#{window}")
+  draft = a.scan("status: draft\n") ? "draft/" : ""
   nanoc_compile
   #sleep(1)
-  `open 'http://localhost/blog/#{slug}'`
+  `open 'http://localhost/blog/#{draft}#{slug}'`
 end
 
 if ARGV[0] == 'edit'
