@@ -32,6 +32,8 @@ There are many ways of plotting this data, and one of the simplest one would pro
 
 However, a much more intuitive way of presenting the data is a diverging stacked bar chart, where you center around the neutral value (or remove the neutral altogether), with the less-than-neutral values plotted to the left, and the more-than-neutral to the right. At a glance, you can easily compare different questions, or the same question split over another variable. 
 
+![](/blog/images/2013-10-02-likert-graphs-in-r-embedding-metadata-for-easier-plotting_-_whole-01.png)
+
 Initially, I used the [likert function](http://www.inside-r.org/packages/cran/HH/docs/likert) in the [HH package](http://cran.r-project.org/package=HH), which worked, but was not ideal. It was based on Trellis-graphics, instead of GGPlot2, which provides less flexibility in manipulating the graphs afterwards. It also wanted a frequency table, which meant I had to write some functions to transform my data -- not too difficult, but adding in complexity and potential for error ([the functions I wrote](the functions I wrote)).
 
 So I was very happy to come across [Jason Bryer](http://jason.bryer.org/)'s [likert-package](https://github.com/jbryer/likert), which works directly on the kind of format I showed above, and outputs beautiful graphs. Here's a truncated example from the documentation, splitting two of the test items on a demographic variable:

@@ -123,6 +123,7 @@ end
 
 if ARGV[0] == 'save'
   a = File.read('/tmp/nanoc_draft.md')
+
   title = a.scan(/^title: (.+?)$/)[0][0]
   a.gsub!(/^created_at:(.*?)$/, "created_at: #{Time.now.to_s}")
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
@@ -137,9 +138,8 @@ if ARGV[0] == 'preview'
   datepath = window[0..9].gsub('-','/')
   slug = datepath + "/" + window[11..-4]
   a=File.read("/Users/Stian/src/blog/content/posts/#{window}")
-  draft = a.scan("status: draft\n") ? "draft/" : ""
+  draft = a =~ /status: draft\n/ ? "draft/" : ""
   nanoc_compile
-  #sleep(1)
   `open 'http://localhost/blog/#{draft}#{slug}'`
 end
 
