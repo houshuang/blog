@@ -2,9 +2,7 @@
 title: "Albuquerque Rocks! (And Poetry Slams Too)"
 created_at: 2005-08-16 00:00:00 -0400
 kind: article
-tags:
-- personal
-- US
+tags: personal, US
 ---
 
 **Albuquerque**\

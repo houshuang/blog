@@ -2,9 +2,7 @@
 title: "Los Angeles: the Zen of travelling"
 created_at: 2005-08-09 00:00:00 -0400
 kind: article
-tags:
-- personal
-- US
+tags: personal, US
 ---
 
 **Travelling**

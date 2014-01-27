@@ -2,9 +2,7 @@
 title: "Indonesian text books: First copyrights bought"
 created_at: Mon, 07 Apr 2008 15:20:00 +0000
 kind: article
-tags:
-- books
-- development
+tags: books, development
 ---
 
 (Read about the background

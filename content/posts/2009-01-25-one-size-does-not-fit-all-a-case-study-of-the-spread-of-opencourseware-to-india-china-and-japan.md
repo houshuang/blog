@@ -2,20 +2,7 @@
 title: "One size does not fit all: A case study of the spread of OpenCourseWare to India, China and Japan."
 created_at: 2009-01-25 00:00:00 -0500
 kind: article
-tags:
-- asia
-- china
-- Colleges and Universities
-- Education
-- India
-- Indian Institute of Technology
-- Ontario Institute for Studies in Education
-- open-education
-- OpenCourseWare
-- p2pU
-- personal
-- University of Toronto
-- William and Flora Hewlett Foundation
+tags: asia, china, Colleges and Universities, Education, India, Indian Institute of Technology, Ontario Institute for Studies in Education, open-education, OpenCourseWare, p2pU, personal, University of Toronto, William and Flora Hewlett Foundation
 ---
 
 I first went to the annual [Comparative and International Education

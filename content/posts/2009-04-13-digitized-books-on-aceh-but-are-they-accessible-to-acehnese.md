@@ -2,14 +2,7 @@
 title: Digitized books on Aceh - but are they accessible to Acehnese?
 created_at: 2009-04-13 00:00:00 -0400
 kind: article
-tags:
-- aceh
-- asia
-- books
-- Indonesia
-- kitlv
-- libraries
-- open access
+tags: aceh, asia, books, Indonesia, kitlv, libraries, open access
 ---
 
 [gallery columns="2"]

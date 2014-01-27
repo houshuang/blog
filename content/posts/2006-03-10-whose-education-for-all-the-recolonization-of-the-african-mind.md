@@ -3,9 +3,7 @@ title: "Whose Education for All: The Recolonization of the African Mind"
 created_at: 2006-03-10 00:00:00 -0500
 location: Buffalo, USA
 kind: article
-tags:
-- africa
-- books
+tags: africa, books
 ---
 
 ![ book](http://images.addall.com/Images/SHOW/0815334788.jpg)I have known

@@ -2,9 +2,7 @@
 title: Berita Kepada Kawan, Ebiet G. Ade
 created_at: 2008-03-12 00:00:00 -0400
 kind: article
-tags:
-- asia
-- personal
+tags: asia, personal
 ---
 
 Perjalanan ini\

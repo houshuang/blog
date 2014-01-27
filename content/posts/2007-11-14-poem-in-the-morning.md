@@ -2,9 +2,7 @@
 title: Poem in the morning
 created_at: Wed, 14 Nov 2007 17:17:00 +0000
 kind: article
-tags:
-- books
-- personal
+tags: books, personal
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Szymborska.jpg/260px-Szymborska.jpg)My

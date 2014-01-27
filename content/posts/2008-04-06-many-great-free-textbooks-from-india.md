@@ -2,9 +2,7 @@
 title: Many great free textbooks from India
 created_at: Sun, 06 Apr 2008 19:42:00 +0000
 kind: article
-tags:
-- books
-- India
+tags: books, India
 ---
 
 ![](http://lh3.google.com/shaklev/R_kYEM8pN0I/AAAAAAAABYI/rrMCPhLSOBs/s288/2504dad3_Picture2020.jpg)I

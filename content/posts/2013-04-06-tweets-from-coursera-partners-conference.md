@@ -3,7 +3,7 @@ title: Tweets from Coursera Partner's Conference
 created_at: 2013-04-06 18:39:45 -0400
 kind: article
 location: Philadelphia, USA
-tags:
+tags: 
 ---
 As many times before (most recently, [Beyond the PDF 2 in Amsterdam](http://reganmian.net/blog/2013/03/22/tweets-from-beyond-the-pdf-2.html)), I've archived my tweets from [the recent Coursera conference](http://conference.coursera.org/), cleaning them up just a little bit (I took out most retweets, but included a few). See also [my impressions from the conference](http://reganmian.net/blog/2013/04/06/impressions-from-the-first-coursera-conference/).
 
@@ -12,6 +12,8 @@ As many times before (most recently, [Beyond the PDF 2 in Amsterdam](http://rega
 - [The Coursera Partners' Conference](http://conference.coursera.org/) gets underway tomorrow, April 5th, 2013. We're stoked! #CourseraConfAtPenn
 - If you’re hashtag is 18 characters, you’re doing it wrong. Looking at you, #CourseraConfAtPenn.
 - @Akibaedx Great to see that edX and Coursera are hanging out :) Very interested in research on flipped (PhD stud from UofT)
+
+<!-- more -->
 
 # First day
 - Great name tags, able to see name and affiliation without leaning in. Makes connecting online names to faces much easier

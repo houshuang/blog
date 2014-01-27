@@ -2,12 +2,7 @@
 title: How to be an open scholar (OA week 2010)
 created_at: Sun, 24 Oct 2010 20:44:02 +0000
 kind: article
-tags:
-- academia/research
-- libraries
-- open access
-- p2pU
-- plenk2010
+tags: academia/research, libraries, open access, p2pU, plenk2010
 ---
 
 [](http://www.openaccessweek.org/)[![](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png "Screen shot 2010-10-24 at 4.42.18 PM")](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png)Open

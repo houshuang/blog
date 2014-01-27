@@ -2,11 +2,7 @@
 title: Mencerdaskan Bangsa - An Inquiry into the Phenomenon of Taman Bacaan in Indonesia
 created_at: Sat, 20 Sep 2008 14:01:00 +0000
 kind: article
-tags:
-- asia
-- development
-- libraries
-- personal
+tags: asia, development, libraries, personal
 ---
 
 During my undergraduate degree in International Development Studies, we

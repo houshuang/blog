@@ -3,10 +3,7 @@ title: Likert-graphs in R, embedding metadata for easier plotting
 created_at: 2013-10-02 14:49:05 -0400
 kind: article
 location: Toronto, Canada
-tags:
-- R
-- tech
-- statistics
+tags: R, tech, statistics
 ---
 I've been working a lot with questionnaire data in R lately. Some are large MOOC-questionnaires with up to 20,000 respondents, others are in-class surveys with 30-250 respondents, where we have to type or scan in the response sheets. However, once it comes to data cleanup and analysis, there is not much difference between 30 and 20,000 respondents. Here's an example of a section of a recent survey we distributed to around 600 undergraduates in history and religion:
 
@@ -31,8 +28,6 @@ There are many ways of plotting this data, and one of the simplest one would pro
 ## Diverging stacked bar chart
 
 However, a much more intuitive way of presenting the data is a diverging stacked bar chart, where you center around the neutral value (or remove the neutral altogether), with the less-than-neutral values plotted to the left, and the more-than-neutral to the right. At a glance, you can easily compare different questions, or the same question split over another variable. 
-
-![](/blog/images/2013-10-02-likert-graphs-in-r-embedding-metadata-for-easier-plotting_-_whole-01.png)
 
 Initially, I used the [likert function](http://www.inside-r.org/packages/cran/HH/docs/likert) in the [HH package](http://cran.r-project.org/package=HH), which worked, but was not ideal. It was based on Trellis-graphics, instead of GGPlot2, which provides less flexibility in manipulating the graphs afterwards. It also wanted a frequency table, which meant I had to write some functions to transform my data -- not too difficult, but adding in complexity and potential for error ([the functions I wrote](the functions I wrote)).
 

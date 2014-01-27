@@ -2,12 +2,7 @@
 title: Development of the selection criteria for China's Top Level Courses Project
 created_at: Thu, 14 Oct 2010 15:00:16 +0000
 kind: article
-tags:
-- academia/research
-- china
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, MA thesis, open-education, The Top Level Courses Project
 ---
 
 As the Ministry of Education has gained experience, there have been

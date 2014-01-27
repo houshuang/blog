@@ -2,9 +2,7 @@
 title: Encouraging sharing without getting all lawyery
 created_at: 2009-08-27 00:00:00 -0400
 kind: article
-tags:
-- development
-- open-education
+tags: development, open-education
 ---
 
 [![image ](http://reganmian.net/files/AgingHippiesLogo.jpg)](http://k.webring.com/hub?ring=aginghippiesarts)Recently,

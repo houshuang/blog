@@ -2,12 +2,7 @@
 title: "The impact of MIT's OpenCourseWare model on the Top Level Courses Project"
 created_at: 2010-12-01 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 In this thesis, I have tried to show that the Top Level Courses Project

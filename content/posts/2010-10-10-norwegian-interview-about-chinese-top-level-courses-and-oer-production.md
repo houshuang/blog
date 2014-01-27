@@ -2,15 +2,7 @@
 title: Norwegian interview about Chinese Top Level Courses and OER production
 created_at: Sun, 10 Oct 2010 18:40:59 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- p2pU
-- personal
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, p2pU, personal, The Top Level Courses Project
 ---
 
 I met Martin Aasbrenn, a Norwegian doctor and medical educator, through

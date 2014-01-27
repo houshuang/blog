@@ -2,27 +2,12 @@
 title: Open Scholars and Divergence/Convergence, Groups/Networks
 created_at: 2010-04-19 00:00:00 -0400
 kind: article
-tags:
-- carl bereiter
-- connectivism
-- edfuture
-- edfutures
-- Education
-- george siemens
-- knowledge building
-- knowledge forum
-- marlene scardamalia
-- oer
-- oise
-- open-education
-- openlearn
-- openscholar
-- p2pU
-- personal
-- stephen downes
+tags: carl bereiter, connectivism, edfuture, edfutures, Education, george siemens, knowledge building, knowledge forum, marlene scardamalia, oer, oise, open-education, openlearn, openscholar, p2pU, personal, stephen downes
 ---
 
-**Preparing for a course** My supervisor at OISE is co-teaching a course
+**Preparing for a course** 
+
+My supervisor at OISE is co-teaching a course
 with two of his PhD students called
 "[KMD](http://www.kmdi.utoronto.ca/): Knowledge Communities: Patterns
 and Practices", and he very graciously invited me to give a talk about
@@ -79,7 +64,9 @@ ideas](http://www.connectivism.ca/about.html)) inspired two completely
 different lines of thought, and the only thing they have in common, is
 that I'll mention them in the same blog post (no thin-slicing here :)).
 
-**Open scholars and closed ones**What's interesting is that I am both a
+**Open scholars and closed ones**
+
+What's interesting is that I am both a
 very active "self-learner", with my learning networks, Twitter, Google
 Reader, online (and offline) conferences etc. At the same time, I am a
 graduate student in what we like to think of as one of the world's best
@@ -156,7 +143,9 @@ institution. But I want to hear your big ideas. I want you to be **[open
 scholars](http://p2pfoundation.net/Open_Scholar).**
 
 **Convergence and divergence, groups and networks, common and
-decentralized**This is a point that I will need to think about more,
+decentralized**
+
+This is a point that I will need to think about more,
 write about more, read about more. But I'll give it a start here. In
 2008, as I started my studies at OISE, I was lucky enough to do a small
 seminar class with [Marlene
@@ -198,7 +187,9 @@ proposal](http://iet-public-wiki.open.ac.uk/index.php/OPLRN_proposal)
 [OU](http://www.open.ac.uk/) proposed to create a network for connecting
 research on open learning.
 
-> ***A research portal.** In more established fields such as cancer
+> ***A research portal.** 
+
+>In more established fields such as cancer
 > research, there is a consensus map of the structure of the field, the
 > major research questions, and the different sub-communities and
 > associated methodologies. It is possible to place oneself on the map,
@@ -324,5 +315,3 @@ narrowing down and broadening out.
 
 I'm going to keep thinking about these things, and I'd love to hear
 people's ideas (if anybody got to the end of this piece).
-
-Stian

@@ -2,11 +2,7 @@
 title: The beginning of course evaluations in Chinese universities
 created_at: Fri, 08 Oct 2010 15:00:59 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
+tags: academia/research, china, Education, MA thesis
 ---
 
 *Having reviewed how modern Chinese higher education began as an import

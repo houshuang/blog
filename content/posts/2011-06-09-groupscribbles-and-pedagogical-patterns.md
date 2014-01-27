@@ -2,11 +2,7 @@
 title: GroupScribbles and pedagogical patterns
 created_at: Thu, 09 Jun 2011 13:58:52 +0000
 kind: article
-tags:
-- CSCL-intro
-- Education
-- open-education
-- tech
+tags: CSCL-intro, Education, open-education, tech
 ---
 
 One of the presentations that impressed me at the recent GCCCE 2011 was

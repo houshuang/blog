@@ -2,13 +2,7 @@
 title: Many Chinese web sites on global top 1000 list
 created_at: Mon, 07 Jun 2010 22:29:09 +0000
 kind: article
-tags:
-- china
-- google
-- internet
-- languages
-- multilingual
-- tech
+tags: china, google, internet, languages, multilingual, tech
 ---
 
 I just came across a new [list of the 1000 most visited websites

@@ -2,19 +2,7 @@
 title: "Upcoming: A theoretical approach to accreditation of Open Education"
 created_at: Tue, 27 Jan 2009 23:36:00 +0000
 kind: article
-tags:
-- Connexions
-- Distance Learning
-- Education
-- Methods and Theories
-- MIT OpenCourseWare
-- Open access journal
-- Open source
-- open-education
-- p2pU
-- personal
-- toronto
-- Wikiversity
+tags: Connexions, Distance Learning, Education, Methods and Theories, MIT OpenCourseWare, Open access journal, Open source, open-education, p2pU, personal, toronto, Wikiversity
 ---
 
 I've been interested in accreditation/evaluation of Open Education for a

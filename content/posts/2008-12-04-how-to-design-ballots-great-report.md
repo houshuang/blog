@@ -2,9 +2,7 @@
 title: How to design ballots, great report
 created_at: 2008-12-04 00:00:00 -0500
 kind: article
-tags:
-- politics
-- US
+tags: politics, US
 ---
 
 [IssueLab](http://issuelab.org/), whose energetic staff member Lisa

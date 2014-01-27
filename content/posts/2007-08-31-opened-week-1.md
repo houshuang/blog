@@ -2,11 +2,7 @@
 title: "OpenEd: Week 1"
 created_at: Fri, 31 Aug 2007 19:56:00 +0000
 kind: article
-tags:
-- development
-- India
-- open-education
-- personal
+tags: development, India, open-education, personal
 ---
 
 [![](http://lh6.google.com/shaklev/RVLKx5QcABI/AAAAAAAAAUc/c1LBHsNOH1U/s288/DSC02174.JPG)](http://picasaweb.google.com/shaklev/PositiveDevianceTrainingCARE/photo#4995277895239467026)**QUESTIONS:

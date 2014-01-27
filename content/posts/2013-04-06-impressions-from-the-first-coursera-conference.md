@@ -3,7 +3,7 @@ title: Impressions from the first Coursera conference
 created_at: 2013-04-06 17:23:11 -0400
 kind: article
 location: Philadelphia, USA
-tags:
+tags: 
 ---
 
 This weekend, I attended the inaugural [Coursera Partner's Conference](http://conference.coursera.org/) at [UPenn](http://www.upenn.edu/) in Philadelphia. I attended both as a PhD student with an interest in MOOCs, open learning, and flipped classrooms, and as an institutional researcher for [Open.UToronto](http://www.utoronto.com/about-uoft/openutoronto.htm), supporting internal evaluation of the [UofT Coursera MOOCs](http://media.utoronto.ca/media-releases/university-of-toronto/university-of-toronto-to-offer-online-courses-accessible-to-anyone-anywhere/).

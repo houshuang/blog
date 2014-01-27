@@ -2,13 +2,7 @@
 title: "Notes from Learning Analytics Conference 2011: Pre-conference"
 created_at: 2011-02-27 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- Education
-- lak11
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, lak11, open-education, p2pU, plenk2010
 ---
 
 This week, I am participating in the first [Learning Analytics

@@ -2,9 +2,7 @@
 title: "Boxroom - Ruby on Rails file repository "
 created_at: Tue, 16 Oct 2007 22:05:00 +0000
 kind: article
-tags:
-- opensource
-- tech
+tags: opensource, tech
 ---
 
 ![](http://reganmian.net/blog/files/dir-boxroom.png)While working for

@@ -2,15 +2,7 @@
 title: Two metaphors for professors and course delivery, comparing North America and China
 created_at: Tue, 07 Dec 2010 13:30:44 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- europe
-- MA thesis
-- open-education
-- p2pU
-- The Top Level Courses Project
+tags: academia/research, china, Education, europe, MA thesis, open-education, p2pU, The Top Level Courses Project
 ---
 
 I have described the historical and contextual background for the Top

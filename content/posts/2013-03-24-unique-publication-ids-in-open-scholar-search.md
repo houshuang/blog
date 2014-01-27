@@ -2,13 +2,7 @@
 title: Unique publication IDs in open scholar search
 created_at: Sun, 24 Mar 2013 10:22:54 +0000
 kind: article
-tags:
-- "#scholrev"
-- academia/research
-- FORCE11
-- open access
-- Researchr
-- tech
+tags: "#scholrev", academia/research, FORCE11, open access, Researchr, tech
 ---
 
 At [Beyond the PDF 2](http://www.force11.org/beyondthepdf2), I gave a

@@ -2,9 +2,7 @@
 title: Learn Swedish
 created_at: 2007-12-07 00:00:00 -0500
 kind: article
-tags:
-- europe
-- politics
+tags: europe, politics
 ---
 
 ![](http://images.amazon.cn/m/md_bkbk621244.jpg)I don’t know why, but

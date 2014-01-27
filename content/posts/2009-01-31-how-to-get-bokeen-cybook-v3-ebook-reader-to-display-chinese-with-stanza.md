@@ -2,16 +2,7 @@
 title: How to get Bokeen Cybook v3 ebook reader to display Chinese with Stanza
 created_at: Sat, 31 Jan 2009 22:49:13 +0000
 kind: article
-tags:
-- books
-- china
-- E-book
-- languages
-- Mobipocket
-- OpenOffice.org
-- Rich Text Format
-- tech
-- TextEdit
+tags: books, china, E-book, languages, Mobipocket, OpenOffice.org, Rich Text Format, tech, TextEdit
 ---
 
 ![](http://blog-tribugourmande.com/dotclear2/public/Cybook-in-hand.jpg)I've

@@ -63,7 +63,7 @@ module PostHelper
 
 def get_post_start(post)
   content = post.compiled_content
-  if content =~ /\s<!-- more -->\s/
+  if content =~ /<!-- more -->/
     content = content.partition('<!-- more -->').first 
   else
     a = content.index("</p>")

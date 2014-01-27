@@ -2,13 +2,7 @@
 title: Tweets from Learning Analytics conference 2011
 created_at: Fri, 04 Mar 2011 07:17:11 +0000
 kind: article
-tags:
-- academia/research
-- Education
-- lak11
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, lak11, open-education, p2pU, plenk2010
 ---
 
 I've previously posted all my tweets from different conferences, and I

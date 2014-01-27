@@ -2,11 +2,7 @@
 title: Some observations and suggestions about the Rural China Education Foundation library programs at two rural sites
 created_at: 2008-06-02 00:00:00 -0400
 kind: article
-tags:
-- china
-- development
-- libraries
-- personal
+tags: china, development, libraries, personal
 ---
 
 *Below is a brief report I wrote for Rural China Education Foundation,

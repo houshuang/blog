@@ -2,8 +2,7 @@
 title: Changing concepts of universities
 created_at: Mon, 31 Oct 2005 15:36:00 +0000
 kind: article
-tags:
-- economics
+tags: economics
 ---
 
 Something that I have thought about a lot lately, is changing concepts

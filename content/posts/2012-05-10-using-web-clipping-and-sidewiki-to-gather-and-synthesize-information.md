@@ -2,11 +2,7 @@
 title: Using web clipping and sidewiki to gather and synthesize information
 created_at: 2012-05-10 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- Education
-- Researchr
-- tech
+tags: academia/research, Education, Researchr, tech
 ---
 
 One piece of functionality in

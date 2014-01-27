@@ -2,13 +2,7 @@
 title: Can one-party systems be more accountable than democracies?
 created_at: Fri, 27 Jun 2008 18:07:00 +0000
 kind: article
-tags:
-- asia
-- china
-- development
-- economics
-- India
-- politics
+tags: asia, china, development, economics, India, politics
 ---
 
 **Caveat**\

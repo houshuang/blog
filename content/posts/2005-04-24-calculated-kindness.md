@@ -2,11 +2,7 @@
 title: Calculated Kindness
 created_at: Sun, 24 Apr 2005 20:58:00 +0000
 kind: article
-tags:
-- books
-- canada
-- development
-- politics
+tags: books, canada, development, politics
 ---
 
 ![Calculated Kindness

@@ -2,11 +2,7 @@
 title: Closing down Virtual University of Pakistan index
 created_at: Fri, 10 Aug 2012 17:39:02 +0000
 kind: article
-tags:
-- academia/research
-- asia
-- Education
-- open-education
+tags: academia/research, asia, Education, open-education
 ---
 
 I came across the Virtual University of Pakistan's YouTube collection in

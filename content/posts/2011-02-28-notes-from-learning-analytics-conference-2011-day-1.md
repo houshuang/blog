@@ -2,13 +2,7 @@
 title: "Notes from Learning Analytics Conference 2011: Day 1"
 created_at: 2011-02-28 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- Education
-- lak11
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, lak11, open-education, p2pU, plenk2010
 ---
 
 Today was the first day of the conference, with a lot of very

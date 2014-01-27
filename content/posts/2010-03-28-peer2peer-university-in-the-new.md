@@ -2,11 +2,7 @@
 title: Peer2Peer University in the news
 created_at: 2010-03-28 00:00:00 -0400
 kind: article
-tags:
-- Education
-- open-education
-- p2pU
-- personal
+tags: Education, open-education, p2pU, personal
 ---
 
 I should probably have written a lot more about Peer2Peer University,

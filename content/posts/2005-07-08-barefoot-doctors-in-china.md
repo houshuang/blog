@@ -2,9 +2,7 @@
 title: Barefoot Doctors in China
 created_at: 2005-07-08 00:00:00 -0400
 kind: article
-tags:
-- asia
-- publichealth
+tags: asia, publichealth
 ---
 
 During this year, I took an amazing class in International Health Policy

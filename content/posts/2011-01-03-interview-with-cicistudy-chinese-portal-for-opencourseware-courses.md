@@ -2,16 +2,7 @@
 title: "Interview with CICIStudy: Chinese portal for OpenCourseWare courses"
 created_at: Mon, 03 Jan 2011 20:28:51 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- open access
-- open-education
-- p2pU
-- plenk2010
-- tech
-- The Top Level Courses Project
+tags: academia/research, china, Education, open access, open-education, p2pU, plenk2010, tech, The Top Level Courses Project
 ---
 
 ![taoke ](http://reganmian.net/blog/wp-content/uploads/2011/01/taoke.png)I

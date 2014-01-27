@@ -2,10 +2,7 @@
 title: Political virii in China
 created_at: Thu, 13 Oct 2004 11:03:00 +0000
 kind: article
-tags:
-- asia
-- politics
-- tech
+tags: asia, politics, tech
 ---
 
 ![](http://www.utsc.utoronto.ca/~04haklev/cover-nongmin-thumb.jpg)[A

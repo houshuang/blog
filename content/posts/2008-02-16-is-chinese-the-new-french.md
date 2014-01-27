@@ -2,11 +2,7 @@
 title: Is Chinese the new French?
 created_at: 2008-02-16 00:00:00 -0500
 kind: article
-tags:
-- asia
-- china
-- languages
-- politics
+tags: asia, china, languages, politics
 ---
 
 Although it was Eurocentric, I like to think back at the time when all

@@ -2,12 +2,7 @@
 title: Definition of Open Educational Resources
 created_at: Thu, 16 Sep 2010 23:17:10 +0000
 kind: article
-tags:
-- academia/research
-- Education
-- MA thesis
-- open-education
-- p2pU
+tags: academia/research, Education, MA thesis, open-education, p2pU
 ---
 
 Since I want to discuss the Chinese Top Level Courses Project as a form

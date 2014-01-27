@@ -2,16 +2,7 @@
 title: Open Access news from Norway
 created_at: 2009-02-17 00:00:00 -0500
 kind: article
-tags:
-- europe
-- Journal
-- open access
-- Peer review
-- Peter Suber
-- Publication
-- Publishing
-- Research Council
-- Scientific journal
+tags: europe, Journal, open access, Peer review, Peter Suber, Publication, Publishing, Research Council, Scientific journal
 ---
 
  [![A reviewer at the National Institutes of Healt...](http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ScientificReview.jpg/202px-ScientificReview.jpg "A reviewer at the National Institutes of Healt...")](http://commons.wikipedia.org/wiki/Image:ScientificReview.jpg) 

@@ -2,12 +2,7 @@
 title: Creating a "dictionary" from KDE translation files
 created_at: Sun, 01 Nov 2009 23:27:44 +0000
 kind: article
-tags:
-- languages
-- open access
-- opensource
-- personal
-- tech
+tags: languages, open access, opensource, personal, tech
 ---
 
 I've previously written about how I used interwiki links in Wikipedia to

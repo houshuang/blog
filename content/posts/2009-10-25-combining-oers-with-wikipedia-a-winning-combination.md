@@ -2,15 +2,7 @@
 title: Combining OERs with Wikipedia - a winning combination
 created_at: 2009-10-25 00:00:00 -0400
 kind: article
-tags:
-- Education
-- mit
-- ocw
-- oer
-- open access
-- open-education
-- tech
-- wikipedia
+tags: Education, mit, ocw, oer, open access, open-education, tech, wikipedia
 ---
 
 I love when different "open" movements can come together and mutually

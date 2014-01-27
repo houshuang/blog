@@ -2,9 +2,7 @@
 title: "People don't steal in Fayetteville"
 created_at: Mon, 22 Aug 2005 18:14:00 +0000
 kind: article
-tags:
-- personal
-- US
+tags: personal, US
 ---
 
 So I just got off the bus in Fayetteville, Arkansas, a little town half

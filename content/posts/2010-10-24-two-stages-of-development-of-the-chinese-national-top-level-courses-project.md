@@ -2,13 +2,7 @@
 title: Two stages of development of the Chinese National Top Level Courses Project
 created_at: Sun, 24 Oct 2010 15:40:44 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 The Top Level Courses Project’s official title was “Project for the

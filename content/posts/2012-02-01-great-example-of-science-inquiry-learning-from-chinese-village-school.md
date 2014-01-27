@@ -2,9 +2,7 @@
 title: Great example of science inquiry learning from Chinese village school
 created_at: 2012-02-01 00:00:00 -0500
 kind: article
-tags:
-- china
-- Education
+tags: china, Education
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2012/02/P5190057.jpg "Picture from my visit to Guan'ai a few years ago (same area as the school in the movie below, but not the same school)")Rural

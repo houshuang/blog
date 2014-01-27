@@ -2,13 +2,7 @@
 title: Tweets from Beyond the PDF 2
 created_at: Fri, 22 Mar 2013 19:57:15 +0000
 kind: article
-tags:
-- academia/research
-- events
-- FORCE11
-- libraries
-- open access
-- tech
+tags: academia/research, events, FORCE11, libraries, open access, tech
 ---
 
 I had an amazing time at [Beyond the PDF

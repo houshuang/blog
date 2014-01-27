@@ -2,10 +2,7 @@
 title: "Release early, release often: Hindi-English StarDict dictionary"
 created_at: Sun, 20 Jan 2008 17:27:00 +0000
 kind: article
-tags:
-- India
-- languages
-- tech
+tags: India, languages, tech
 ---
 
 I’ve always loved dictionaries, and especially the mouse-over ones - I

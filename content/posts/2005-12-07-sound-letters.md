@@ -2,9 +2,7 @@
 title: Sound letters
 created_at: 2005-12-07 00:00:00 -0500
 kind: article
-tags:
-- personal
-- tech
+tags: personal, tech
 ---
 
 My best friends are scattered all around the world, which can be very

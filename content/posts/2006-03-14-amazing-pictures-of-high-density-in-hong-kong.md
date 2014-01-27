@@ -2,10 +2,7 @@
 title: Amazing pictures of high-density in Hong Kong
 created_at: 2006-03-14 00:00:00 -0500
 kind: article
-tags:
-- asia
-- canada
-- toronto
+tags: asia, canada, toronto
 ---
 
 ![](http://www.spaceandculture.org/wolf_hongkong.jpg)I came across an

@@ -2,8 +2,7 @@
 title: Color revolutions
 created_at: Fri, 13 May 2005 17:47:00 +0000
 kind: article
-tags:
-- politics
+tags: politics
 ---
 
 I have been very fascinated by the spread of peaceful revolutions around

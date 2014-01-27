@@ -2,13 +2,7 @@
 title: The future of Chinese Top Level Courses
 created_at: Mon, 29 Nov 2010 15:23:17 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 Nobody knows what the future holds for the Top Level Courses Project,

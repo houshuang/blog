@@ -2,10 +2,7 @@
 title: Mastering the Machine Revisited
 created_at: Fri, 29 Apr 2005 17:35:00 +0000
 kind: article
-tags:
-- books
-- development
-- tech
+tags: books, development, tech
 ---
 
 ![Mastering the Machine Revisited

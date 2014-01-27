@@ -2,18 +2,7 @@
 title: Equitable Governance in Multilingual Wikipedia
 created_at: 2010-01-19 00:00:00 -0500
 kind: article
-tags:
-- bangalore
-- cis
-- cpov
-- events
-- languages
-- multilingual
-- open access
-- p2pU
-- personal
-- wikipedia
-- wikiwars
+tags: bangalore, cis, cpov, events, languages, multilingual, open access, p2pU, personal, wikipedia, wikiwars
 ---
 
 I have been thinking about the issue of "equitable access to governance

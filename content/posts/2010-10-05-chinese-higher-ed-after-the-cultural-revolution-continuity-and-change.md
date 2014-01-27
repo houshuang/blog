@@ -2,11 +2,7 @@
 title: "Chinese higher ed after the Cultural Revolution: continuity and change"
 created_at: Tue, 05 Oct 2010 14:50:13 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
+tags: academia/research, china, Education, MA thesis
 ---
 
 In discussing the reestablishment of the university system after the

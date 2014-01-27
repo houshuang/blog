@@ -2,12 +2,7 @@
 title: Innovative projects in the publishing of OER
 created_at: 2009-11-19 00:00:00 -0500
 kind: article
-tags:
-- Education
-- open access
-- open-education
-- p2pU
-- personal
+tags: Education, open access, open-education, p2pU, personal
 ---
 
 In October, University of Toronto participated in the world-wide [Open

@@ -2,9 +2,7 @@
 title: "Providing multilingual services - if the Iranian can do it..."
 created_at: 2008-01-10 00:00:00 -0500
 kind: article
-tags:
-- languages
-- personal
+tags: languages, personal
 ---
 
 It happened two of the three times that I crossed the Niagara/Buffalo

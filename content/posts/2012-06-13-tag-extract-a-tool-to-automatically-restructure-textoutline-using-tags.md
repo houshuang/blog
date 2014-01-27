@@ -2,10 +2,7 @@
 title: "tag-extract: A tool to automatically restructure text/outline using tags"
 created_at: Wed, 13 Jun 2012 15:38:42 +0000
 kind: article
-tags:
-- academia/research
-- Researchr
-- tech
+tags: academia/research, Researchr, tech
 ---
 
 ***I created a tool that can reorganize an outline in text format with
@@ -94,7 +91,7 @@ However, for someone who likes hacking, one of the challenges for me is
 that it's much easier to write tools to process straight text, than it
 is to program a graphical interface.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-09.51.11.png "Screen Shot 2012-06-13 at 09.51.11")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-09.51.11.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-09.51.11.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-09.51.11.png)
 
 I first had the idea of using tags to help us reorganize ideas, and make
 them "fungible" when thinking about
@@ -155,7 +152,7 @@ Open Educational Resources, but very few on open learning interactions).
 I began finding and adding PDFs to [my
 system](http://reganmian.net/wiki/researchr:start), reading them and
 extracting highlights, adding high-level notes using
-[sidewiki](http://reganmian.net/blog/2012/05/10/using-web-clipping-and-sidewiki-to-gather-and-synthesize-information/ "Using web clipping and sidewiki to gather and synthesize information").
+[sidewiki](http://reganmian.net/blog/2012/05/10/using-web-clipping-and-sidewiki-to-gather-and-synthesize-information/).
 But I was left with a long list of individual article notes - how to
 turn this into one document?
 
@@ -165,7 +162,7 @@ text-based outliner, to take very brief notes from each paper (also
 capturing the [citekey](http://reganmian.net/wiki/researchr:citekeys) as
 header). Part of the file ended up looking like this
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.46.59.png "Screen Shot 2012-06-13 at 10.46.59")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.46.59.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.46.59.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.46.59.png)
 
 Now I at least had all the notes in one file, as opposed to spread over
 forty wiki pages. But still, I had to do what I did when writing the
@@ -179,7 +176,7 @@ Taskpaper makes tagging even easier by automatically recognizing words
 after @ as tags, color coding them red, and enabling tag-completion
 based on the tags you've already created.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.50.59.png "Screen Shot 2012-06-13 at 10.50.59")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.50.59.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.50.59.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.50.59.png)
 
 I further realized that given the structure of this text file, there
 were two things that the script could assume. The first was that every
@@ -192,14 +189,14 @@ theories will be copied to the section called "theory", but certain
 lines in the list will also be copied to other tags, like "connectivism"
 and "andragogy".
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.53.49.png "Screen Shot 2012-06-13 at 10.53.49")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.53.49.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.53.49.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.53.49.png)
 
 When it comes to output formats, I so far added three different output
 formats (although it would be easy to add other ways of formatting the
 text). The simplest one is a new indented text file, which can be read
 by Taskpaper or even a normal text editor.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.57.31.png "Screen Shot 2012-06-13 at 10.57.31")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.57.31.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.57.31.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-10.57.31.png)
 
 Above you see two tags from the output file, @soc\_contract and
 @metalearning, underneath you see the lines tagged, and the citekeys
@@ -207,13 +204,13 @@ they came from. Below, you see the same section in a text editor
 (Taskpaper works on pure text files, it simply recognizes and
 auto-formats certain aspects).
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.00.06.png "Screen Shot 2012-06-13 at 11.00.06")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.00.06.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.00.06.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.00.06.png)
 
 In addition, you can output with Dokuwiki markup, and
 [here](http://reganmian.net/wiki/litreview_raw_sorted) you can see my
 entire literature review notes, sorted.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.02.52.png "Screen Shot 2012-06-13 at 11.02.52")](http://reganmian.net/wiki/litreview_raw_sorted)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.02.52.png)](http://reganmian.net/wiki/litreview_raw_sorted)
 
 However, to me it was really the final format that made all the
 difference. My favorite tool for authoring academic texts is
@@ -229,11 +226,11 @@ for a section you are writing, and the notes for that section, in a
 split screen window. So I created an export format that generates a
 folder with one text file for each tag.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.09.54.png "Screen Shot 2012-06-13 at 11.09.54")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.09.54.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.09.54.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.09.54.png)
 
 This can then be dragged and dropped onto a Scrivener document.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.11.14.png "Screen Shot 2012-06-13 at 11.11.14")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.11.14.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.11.14.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.11.14.png)
 
 ...and you can start writing. You've got all your notes, separated into
 sections which corresponds to the sections you are going to be writing
@@ -241,18 +238,18 @@ in the actual document, and you've got the citekeys, which you can just
 insert directly into the draft. Here's an example of my writing the
 literature review.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.16.38.png "Screen Shot 2012-06-13 at 11.16.38")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.16.38.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.16.38.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.16.38.png)
 
 Once you are finished writing, you can export the Scrivener document
 back to Dokuwiki, which formats it nicely and renders all the citekeys
 as proper citations (you can see the [current, very early
 draft](http://reganmian.net/wiki/Draft%20Literature%20Review%20Open%20Courses))
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.18.50.png "Screen Shot 2012-06-13 at 11.18.50")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.18.50.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.18.50.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.18.50.png)
 
 ...with an automatically generated bibliography...
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.19.06.png "Screen Shot 2012-06-13 at 11.19.06")](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.19.06.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.19.06.png)](http://reganmian.net/blog/wp-content/uploads/2012/06/Screen-Shot-2012-06-13-at-11.19.06.png)
 
 All in all, a very neat workflow. The [script
 itself](https://github.com/houshuang/folders2web/blob/master/tag-extract.rb) is
@@ -268,7 +265,7 @@ examples, one a literature review, and the second coding interviews
 (given my thoughts of how this overlaps with qualitative research -
 although I'm not claiming that this is a competitor to ATLAS.ti exactly)
 
-http://www.youtube.com/watch?v=NEfdPDptD5U
+<iframe width="420" height="315" src="//www.youtube.com/embed/NEfdPDptD5U" frameborder="0" allowfullscreen></iframe>
 
 The second is a longer 18 minutes, and goes through the entire process
 of creating a literature review, starting with extracting information
@@ -277,6 +274,6 @@ showcases much of the functionality of researchr, but with a much more
 task-specific focus than [my first
 screencast](https://vimeo.com/25295002), almost a year ago.
 
-http://www.youtube.com/watch?v=0OevO1hXPoU
+<iframe width="420" height="315" src="//www.youtube.com/embed/0OevO1hXPoU" frameborder="0" allowfullscreen></iframe>
 
 Stian

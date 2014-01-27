@@ -2,10 +2,7 @@
 title: "ICETC in Changchun: International conferences in China"
 created_at: Tue, 09 Aug 2011 10:23:23 +0000
 kind: article
-tags:
-- academia/research
-- china
-- events
+tags: academia/research, china, events
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2011/08/Screen-Shot-2011-08-09-at-18.20.26-.png "Screen Shot 2011-08-09 at 18.20.26")](http://reganmian.net/blog/wp-content/uploads/2011/08/Screen-Shot-2011-08-09-at-18.20.26-.png)

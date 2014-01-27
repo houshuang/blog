@@ -2,12 +2,7 @@
 title: Tune in to Campus Tech Connections today!
 created_at: 2010-06-06 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- blogtalkradio
-- open-education
-- p2pU
-- personal
+tags: academia/research, blogtalkradio, open-education, p2pU, personal
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2010/06/breakdrink.png "breakdrink")](http://reganmian.net/blog/wp-content/uploads/2010/06/breakdrink.png)I

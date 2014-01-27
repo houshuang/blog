@@ -2,9 +2,7 @@
 title: "Shadow Cities: A Billion Squatters, A New Urban World"
 created_at: Tue, 25 Apr 2005 08:46:00 +0000
 kind: article
-tags:
-- books
-- development
+tags: books, development
 ---
 
 ![A Billion Squatters

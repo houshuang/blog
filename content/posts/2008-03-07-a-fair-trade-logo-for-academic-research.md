@@ -2,8 +2,7 @@
 title: "A 2809CFair Trade2809D logo for academic research?"
 created_at: 2008-03-07 00:00:00 -0500
 kind: article
-tags:
-- development
+tags: development
 ---
 
 [![](http://farm1.static.flickr.com/208/468843631_5cc9b31d54_m.jpg)](http://www.flickr.com/photos/55305480@N00/468843631/)It’s

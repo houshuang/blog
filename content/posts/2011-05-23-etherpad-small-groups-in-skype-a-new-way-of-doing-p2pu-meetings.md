@@ -2,11 +2,7 @@
 title: Etherpad + small groups in Skype, a new way of doing P2PU meetings
 created_at: Mon, 23 May 2011 12:13:11 +0000
 kind: article
-tags:
-- CSCL-intro
-- open-education
-- p2pU
-- tech
+tags: CSCL-intro, open-education, p2pU, tech
 ---
 
 **Introduction**

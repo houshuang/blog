@@ -2,10 +2,7 @@
 title: SUV sales down!
 created_at: 2005-10-04 00:00:00 -0400
 kind: article
-tags:
-- politics
-- toronto
-- US
+tags: politics, toronto, US
 ---
 
 Two of Canada’s three leading national newspapers had the following news

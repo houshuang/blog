@@ -2,9 +2,7 @@
 title: Sleeper buses and design
 created_at: Sat, 10 Jun 2005 05:46:00 +0000
 kind: article
-tags:
-- economics
-- tech
+tags: economics, tech
 ---
 
 Finally back to Coyotitan after a very long 18 hours on a bus (it was

@@ -2,11 +2,7 @@
 title: Adopted musician, Sweden, and two kinds of open access
 created_at: 2008-11-19 00:00:00 -0500
 kind: article
-tags:
-- canada
-- europe
-- media
-- movies
+tags: canada, europe, media, movies
 ---
 
 ![](http://svt.se/content/2/c6/06/48/21/lennartzlogga.jpg)

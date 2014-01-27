@@ -2,19 +2,7 @@
 title: "Slideshare has great customer support "
 created_at: Thu, 12 Feb 2009 16:08:19 +0000
 kind: article
-tags:
-- Audacity
-- Audio file format
-- Business
-- India
-- Keynote
-- MP3
-- New Delhi
-- personal
-- politics
-- Scribd
-- SlideShare
-- tech
+tags: Audacity, Audio file format, Business, India, Keynote, MP3, New Delhi, personal, politics, Scribd, SlideShare, tech
 ---
 
 **Why use [Slideshare](http://slideshare.com "SlideShare")?**\

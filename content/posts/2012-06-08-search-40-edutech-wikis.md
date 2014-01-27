@@ -2,11 +2,7 @@
 title: Search 40+ edutech wikis
 created_at: 2012-06-08 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- Education
-- Researchr
-- tech
+tags: academia/research, Education, Researchr, tech
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2012/06/edutech-logos1.jpg "edutech logos")](http://reganmian.net/blog/wp-content/uploads/2012/06/edutech-logos1.jpg)

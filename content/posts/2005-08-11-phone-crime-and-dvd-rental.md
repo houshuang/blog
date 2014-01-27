@@ -2,9 +2,7 @@
 title: Phone crime and DVD rental
 created_at: 2005-08-11 00:00:00 -0400
 kind: article
-tags:
-- tech
-- US
+tags: tech, US
 ---
 
 Just two small things I picked up on the bus trip from Tucson to

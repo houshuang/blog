@@ -2,9 +2,7 @@
 title: Switching from WordPress to nanoc, jumping in feet first
 created_at: 2013-04-02 11:53:27 -0400
 kind: article
-tags:
-- tech
-- personal
+tags: tech, personal
 ---
 
 I've thought about switching to a [static site generator](http://www.mzlinux.org/?q=node/415) for a while, spending some time playing with [Jekyll](https://github.com/mojombo/jekyll), the poster-boy for SSGs, and learning about the different options, but I always put it on the backburner.

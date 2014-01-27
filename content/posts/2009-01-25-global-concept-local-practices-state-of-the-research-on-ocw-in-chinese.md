@@ -2,16 +2,7 @@
 title: "Global Concept, Local Practices: State of the Research on OCW in Chinese"
 created_at: 2009-01-25 00:00:00 -0500
 kind: article
-tags:
-- china
-- China Open Resources for Education
-- MIT OCW
-- North America
-- Open Educational Resources
-- open-education
-- OpenCourseWare
-- p2pU
-- personal
+tags: china, China Open Resources for Education, MIT OCW, North America, Open Educational Resources, open-education, OpenCourseWare, p2pU, personal
 ---
 
 I am giving a few different presentations this year. The first one is at

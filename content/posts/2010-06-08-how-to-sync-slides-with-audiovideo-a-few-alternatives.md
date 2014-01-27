@@ -2,14 +2,7 @@
 title: How to sync slides with audio/video, a few alternatives
 created_at: 2010-06-08 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- open access
-- screencast
-- screencasting
-- screenflow
-- SlideShare
-- tech
+tags: academia/research, open access, screencast, screencasting, screenflow, SlideShare, tech
 ---
 
 I really enjoy giving presentations and talks. They are a great way for

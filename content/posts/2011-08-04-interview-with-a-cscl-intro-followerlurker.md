@@ -2,12 +2,7 @@
 title: Interview with a CSCL Intro follower/lurker
 created_at: Thu, 04 Aug 2011 08:32:58 +0000
 kind: article
-tags:
-- academia/research
-- CSCL-intro
-- Education
-- open-education
-- p2pU
+tags: academia/research, CSCL-intro, Education, open-education, p2pU
 ---
 
 **[![](http://reganmian.net/blog/wp-content/uploads/2011/06/people.png)](http://reganmian.net/blog/wp-content/uploads/2011/08/IMG0130A1.jpg)**

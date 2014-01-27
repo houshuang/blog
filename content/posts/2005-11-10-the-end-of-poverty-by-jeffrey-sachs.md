@@ -2,11 +2,7 @@
 title: The End of Poverty, by Jeffrey Sachs
 created_at: Thu, 10 Nov 2005 23:41:00 +0000
 kind: article
-tags:
-- books
-- development
-- economics
-- politics
+tags: books, development, economics, politics
 ---
 
 I had the good fortune to listen to Sachs speak at the biannual CIDA

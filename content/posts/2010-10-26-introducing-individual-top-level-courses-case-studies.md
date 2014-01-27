@@ -2,12 +2,7 @@
 title: Introducing individual Top Level Courses case studies
 created_at: Tue, 26 Oct 2010 15:12:37 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, The Top Level Courses Project
 ---
 
 I interviewed five professors at two universities who have had their

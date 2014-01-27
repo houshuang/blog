@@ -2,8 +2,7 @@
 title: "Tools and hacks: Wikipedia redirect"
 created_at: Tue, 13 Nov 2007 19:05:00 +0000
 kind: article
-tags:
-- tech
+tags: tech
 ---
 
 ![](http://farm1.static.flickr.com/22/24938735_34aee474ae_m.jpg)I’m not

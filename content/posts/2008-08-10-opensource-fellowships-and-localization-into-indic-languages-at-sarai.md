@@ -2,12 +2,7 @@
 title: Opensource Fellowships and localization into Indic languages at SARAI
 created_at: 2008-08-10 00:00:00 -0400
 kind: article
-tags:
-- events
-- India
-- languages
-- opensource
-- tech
+tags: events, India, languages, opensource, tech
 ---
 
 **Background**

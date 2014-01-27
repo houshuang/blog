@@ -2,11 +2,7 @@
 title: Ethiopian doctors
 created_at: 2005-10-02 00:00:00 -0400
 kind: article
-tags:
-- development
-- economics
-- politics
-- publichealth
+tags: development, economics, politics, publichealth
 ---
 
 Just doing research for a short paper on brain drain. The statistics I

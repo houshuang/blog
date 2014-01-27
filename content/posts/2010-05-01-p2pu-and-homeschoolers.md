@@ -2,11 +2,7 @@
 title: "P2PU and homeschoolers? "
 created_at: 2010-05-01 00:00:00 -0400
 kind: article
-tags:
-- Education
-- homeschooling
-- open-education
-- p2pU
+tags: Education, homeschooling, open-education, p2pU
 ---
 
 One of the fun things about [P2PU](http://p2pu.org) is that we really

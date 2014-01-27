@@ -2,9 +2,7 @@
 title: On critically engaging with other people's writing
 created_at: Tue, 09 Jun 2009 09:06:04 +0000
 kind: article
-tags:
-- open-education
-- personal
+tags: open-education, personal
 ---
 
 I just finished a blog post about Sean Duncan's PhD dissertation about

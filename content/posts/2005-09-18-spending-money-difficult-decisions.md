@@ -2,11 +2,7 @@
 title: Spending money, difficult decisions
 created_at: Sun, 18 Sep 2005 19:46:00 +0000
 kind: article
-tags:
-- economics
-- personal
-- tech
-- toronto
+tags: economics, personal, tech, toronto
 ---
 
 **Back**\

@@ -2,13 +2,7 @@
 title: Conceptually explicit representations for group learning and representational guidance
 created_at: Thu, 26 May 2011 12:46:27 +0000
 kind: article
-tags:
-- academia/research
-- CSCL-intro
-- Education
-- open-education
-- p2pU
-- tech
+tags: academia/research, CSCL-intro, Education, open-education, p2pU, tech
 ---
 
 I was very excited when I first came across Dan Suther's 2008 article

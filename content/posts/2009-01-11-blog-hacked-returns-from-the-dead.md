@@ -2,12 +2,7 @@
 title: Blog hacked - returns from the dead
 created_at: 2009-01-11 00:00:00 -0500
 kind: article
-tags:
-- Backup
-- FriendFeed
-- Intense Debate
-- personal
-- WordPress
+tags: Backup, FriendFeed, Intense Debate, personal, WordPress
 ---
 
  [![A smiley by Pumbaa, drawn using a text editor.](http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/202px-Smiley.svg.png "A smiley by Pumbaa, drawn using a text editor.")](http://commons.wikipedia.org/wiki/Image:Smiley.svg) 

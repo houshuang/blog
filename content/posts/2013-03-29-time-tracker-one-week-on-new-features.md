@@ -2,10 +2,7 @@
 title: Time tracker one week on, new features
 created_at: Sat, 29 Mar 2013 03:18:51 +0000
 kind: article
-tags:
-- academia/research
-- personal
-- tech
+tags: academia/research, personal, tech
 ---
 Last week I wrote about how [I began resurrecting a three-year old time
 tracker
@@ -31,7 +28,7 @@ I have to tell it if I am doing something more productive, but that
 little popup saying "surfing" also reminds me of that. And being able to
 quickly close the lid when my wife says dinner is ready, without
 worrying about the time tracker running, and some category getting an
-extra bunch of hours added on it, is also a relief. (I also changed the
+extra bunch of hours added on it, is also a relief.<!-- more --> (I also changed the
 format of the data files to nice time codes, like this:
 
 ```

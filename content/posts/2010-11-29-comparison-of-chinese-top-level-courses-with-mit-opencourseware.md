@@ -2,13 +2,7 @@
 title: Comparison of Chinese Top Level Courses with MIT OpenCourseWare
 created_at: 2010-11-29 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 This is far from the first study to compare the Chinese Top Level

@@ -2,12 +2,7 @@
 title: Manipulating list of tweets with TextMate (with screencast)
 created_at: Mon, 12 Apr 2010 13:37:09 +0000
 kind: article
-tags:
-- regexp
-- regular expressions
-- ruby
-- tech
-- TextMate
+tags: regexp, regular expressions, ruby, tech, TextMate
 ---
 
 I have begun tweeting at conferences where it is appropriate and

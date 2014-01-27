@@ -2,11 +2,7 @@
 title: Open Access at IgniteAlberta
 created_at: Sun, 23 Feb 2013 00:34:41 +0000
 kind: article
-tags:
-- academia/research
-- canada
-- FORCE11
-- open access
+tags: academia/research, canada, FORCE11, open access
 ---
 
 I was asked last minute to fill in for [Nick

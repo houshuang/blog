@@ -2,18 +2,7 @@
 title: Interview about Peer2Peer University at P2P Foundation
 created_at: Sun, 18 Jan 2009 22:40:27 +0000
 kind: article
-tags:
-- Carnegie Mellon University
-- Distance Learning
-- Education
-- Massachusetts Institute of Technology
-- MIT OpenCourseWare
-- Open Educational Resources
-- Open University
-- open-education
-- p2pU
-- personal
-- Wikiversity
+tags: Carnegie Mellon University, Distance Learning, Education, Massachusetts Institute of Technology, MIT OpenCourseWare, Open Educational Resources, Open University, open-education, p2pU, personal, Wikiversity
 ---
 
 I while back, [Chris Watkins](http://blogs.appropedia.org/) asked me if

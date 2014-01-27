@@ -2,11 +2,7 @@
 title: Conversation with Leigh Blackall
 created_at: 2009-08-27 00:00:00 -0400
 kind: article
-tags:
-- china
-- open-education
-- p2pU
-- personal
+tags: china, open-education, p2pU, personal
 ---
 
 ![](http://wikieducator.org/images/9/90/Leigh_blackall.jpg "Leigh Blackall")I've

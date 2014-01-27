@@ -2,9 +2,7 @@
 title: Politicsofhealth.org
 created_at: Tue, 19 Jul 2005 22:57:00 +0000
 kind: article
-tags:
-- personal
-- publichealth
+tags: personal, publichealth
 ---
 
 The website that I have been working with all summer is now up -

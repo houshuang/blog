@@ -2,9 +2,7 @@
 title: Brain drain
 created_at: Thu, 08 Dec 2005 18:56:00 +0000
 kind: article
-tags:
-- development
-- economics
+tags: development, economics
 ---
 
 I have written about information I found on brain drain, during my

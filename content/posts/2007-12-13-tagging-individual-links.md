@@ -2,8 +2,7 @@
 title: Tagging individual links
 created_at: 2007-12-13 00:00:00 -0500
 kind: article
-tags:
-- tech
+tags: tech
 ---
 
 So since I finally have a laptop that is actually mobile, I can now try

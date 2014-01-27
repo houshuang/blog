@@ -2,21 +2,7 @@
 title: "Presentation: Viewing Open Education from the Perspectives of Knowledge Building and Connectivism"
 created_at: 2010-06-08 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- cck
-- connectivism
-- Education
-- george siemens
-- kmdi
-- knowledge building
-- knowledge forum
-- marlene scardamalia
-- open-education
-- p2pU
-- personal
-- stephen downes
-- terry anderson
+tags: academia/research, cck, connectivism, Education, george siemens, kmdi, knowledge building, knowledge forum, marlene scardamalia, open-education, p2pU, personal, stephen downes, terry anderson
 ---
 
 I wrote

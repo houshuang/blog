@@ -2,8 +2,7 @@
 title: OMG! Toronto *finally* has a transit route planner
 created_at: 2008-10-26 00:00:00 -0400
 kind: article
-tags:
-- canada
+tags: canada
 ---
 
 [![CC BY sillygwailo @

@@ -2,15 +2,7 @@
 title: "OER for a multicultural classroom: the student as user, and producer"
 created_at: 2010-12-07 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- Education
-- languages
-- libraries
-- open access
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, languages, libraries, open access, open-education, p2pU, plenk2010
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg)](http://reganmian.net/blog/wp-content/uploads/2010/11/OER-for-multicultural-UWC-2010.001.jpg)

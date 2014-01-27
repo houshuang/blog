@@ -54,7 +54,11 @@ system](http://reganmian.net/wiki/researchr:start).
 
 [Download CV](http://reganmian.net/files/CV-Stian-Haklev.pdf).
 
-**Contact**E-mail: [shaklev@gmail.com](mailto:shaklev@gmail.com) (also
-my GTalk and MSN account) Twitter:
-[@houshuang](http://twitter.com/houshuang)Google Plus:
-[Google](https://plus.google.com/107702703184747130690?rel=author)
+## Contact
+
+* E-mail: [shaklev@gmail.com](mailto:shaklev@gmail.com) (also
+my GTalk and MSN accounts) 
+* Twitter: [@houshuang](http://twitter.com/houshuang)
+* [Google Plus](https://plus.google.com/107702703184747130690?rel=author)
+* [Github](http://github.com/houshuang)
+* [StackOverflow](http://stackoverflow.com/users/764519/stian-haklev)

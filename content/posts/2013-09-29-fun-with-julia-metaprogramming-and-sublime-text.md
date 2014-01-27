@@ -3,9 +3,7 @@ title: Fun with Julia, metaprogramming and Sublime Text
 created_at: 2013-09-29 13:47:20 -0400
 location: Toronto, Canada
 kind: article
-tags: 
-- tech
-- julia
+tags: tech, julia
 ---
 
 ![ julia](/blog/images/2013-09-29-fun-with-julia-metaprogramming-and-sublime-text-half-01.png)[Julia](http://julialang.org/) is a newish programming language developed at [MIT](http://www.mit.edu/), targetting data analysis and scientific computing. You can read the creators of the language describe [why they created Julia](http://julialang.org/blog/2012/02/why-we-created-julia/), or [see an example of linear regressions](http://boss-level.com/?p=247). I've been spending a lot of time programming [R](http://www.r-project.org/) in [RStudio](http://www.rstudio.com/), which is a great IDE for R (although it often crashes, unfortunately), and really come to appreciate the power of the programming ecosystem. However, as many will agree (see the [R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)), the underlying language that R is built on leaves much to desire, it's got a lot of quirks, a weird object orientation system "bolted on", and is also slow (overcome by many packages including C extensions, but that makes hacking on it much harder).

@@ -2,8 +2,7 @@
 title: "Chinese Python, multilingual programming #2"
 created_at: 2008-12-04 00:00:00 -0500
 kind: article
-tags:
-- china
+tags: china
 ---
 
 **I got Reddit’ed!**

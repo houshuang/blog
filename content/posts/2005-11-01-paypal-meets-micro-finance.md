@@ -2,10 +2,7 @@
 title: Paypal meets micro finance
 created_at: Tue, 01 Nov 2005 18:14:00 +0000
 kind: article
-tags:
-- development
-- economics
-- tech
+tags: development, economics, tech
 ---
 
 This is simply awesome! I wish I had thought of that;

@@ -2,10 +2,7 @@
 title: "Cohere: A prototype for contested collective intelligence"
 created_at: Sat, 28 May 2011 15:59:20 +0000
 kind: article
-tags:
-- academia/research
-- CSCL-intro
-- tech
+tags: academia/research, CSCL-intro, tech
 ---
 
 Anna de Liddo and Simon Buckingham Shum, both of whom I met at Learning

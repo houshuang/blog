@@ -2,12 +2,7 @@
 title: Libraries in the Tech Age (ListenIllinois)
 created_at: Fri, 28 Oct 2004 11:01:00 +0000
 kind: article
-tags:
-- books
-- canada
-- libraries
-- tech
-- US
+tags: books, canada, libraries, tech, US
 ---
 
 I love libraries, and I practically grew up in one. Whenever my mother

@@ -2,11 +2,7 @@
 title: "\"Open education around the world\" presentation at OISE"
 created_at: Mon, 16 Mar 2009 22:19:56 +0000
 kind: article
-tags:
-- events
-- movies
-- open-education
-- personal
+tags: events, movies, open-education, personal
 ---
 
 I gave a talk about open education around the world, with Jim Slotta, at

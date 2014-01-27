@@ -2,10 +2,7 @@
 title: "Tools: Always find the longest Wikipedia article in a language you know"
 created_at: 2007-11-22 00:00:00 -0500
 kind: article
-tags:
-- languages
-- personal
-- tech
+tags: languages, personal, tech
 ---
 
 So I updated my tools, first adressing a silly bug in the redir script

@@ -2,17 +2,14 @@
 title: "Blogging with Nanoc: Easy workflow for embedding images"
 created_at: 2013-10-02 18:16:38 -0400
 kind: article
-status: draft
 location: Toronto, Canada
-tags:
-- tech
-- nanoc
+tags: tech, nanoc
 ---
 
-[![ nanoc](/blog/images/2013-10-02-blogging-with-nanoc-easy-workflow-for-embedding-images_-_half-02.png)](http://nanoc.ws/)
+[![nanoc ](/blog/images/2013-10-02-blogging-with-nanoc-easy-workflow-for-embedding-images_-_half-02.png)](http://nanoc.ws/)
 Part of the reason I decided to switch from WordPress to a static blogging system was that I had been writing more and more in [my wiki](http://reganmian.net/wiki), which runs on `localhost` and is synced to the server. I built [a number of tools](http://reganmian.net/wiki/researchr:start) to speed up my workflow when editing the wiki, many based on simple Ruby-scripts that are triggered by [keyboard shortcuts](http://www.keyboardmaestro.com/), and use [AppleScript](http://developer.apple.com/applescript/) (through [appscript-rb](http://appscript.sourceforge.net/rb-appscript/)) to get context (which page I'm currently looking at in Chrome, etc). 
 
-![nanoc site ](/blog/images/2013-10-02-blogging-with-nanoc-easy-workflow-for-embedding-images_-_half-03.png)Beginning to write my blog posts as Markdown files in [Sublime Text](http://www.sublimetext.com/) (I keep thinking I should learn [Vim](http://www.vim.org/) or [EMacs](http://www.gnu.org/s/emacs/), and occasionally I'll get inspired, surf people's dot files, do a tutorial -- but it never seems to stick), I not only have access to all the powerful editing features of ST, but I can also begin to add features with  Ruby. 
+![ nanoc site](/blog/images/2013-10-02-blogging-with-nanoc-easy-workflow-for-embedding-images_-_half-03.png)Beginning to write my blog posts as Markdown files in [Sublime Text](http://www.sublimetext.com/) (I keep thinking I should learn [Vim](http://www.vim.org/) or [EMacs](http://www.gnu.org/s/emacs/), and occasionally I'll get inspired, surf people's dot files, do a tutorial -- but it never seems to stick), I not only have access to all the powerful editing features of ST, but I can also begin to add features with  Ruby. 
 
 <!-- more -->
 
@@ -121,4 +118,6 @@ compile '/posts/*', :rep => :default do
 
 ...And Bob is my proverbial uncle. This, together with [linkify](http://reganmian.net/blog/2013/03/28/link-helper-for-markdown-using-google-chrome-history-and-other-sources/) to quickly insert links, and I'm very happy with my nanoc workflow.
 
-Here's a quick video showing the whole publishing process.
+Here's a quick video showing the whole publishing process. Most of the code can be found in [newpost.rb](https://github.com/houshuang/blog/blob/master/newpost.rb), and I use [Keyboard Maestro](http://www.keyboardmaestro.com/) to trigger the scripts.
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/YcLJmo3r-Ok" frameborder="0" allowfullscreen></iframe>

@@ -2,11 +2,7 @@
 title: Presentation on OpenCourseWare in China posted to Slideshare
 created_at: Thu, 12 Feb 2009 15:32:49 +0000
 kind: article
-tags:
-- china
-- events
-- open-education
-- personal
+tags: china, events, open-education, personal
 ---
 
 Last week, I attended the Connexions/OpenCourseWare Consortium

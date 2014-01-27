@@ -2,9 +2,7 @@
 title: Prokem, bahasa gaul, language inventiveness
 created_at: Sun, 17 Feb 2008 18:25:00 +0000
 kind: article
-tags:
-- asia
-- languages
+tags: asia, languages
 ---
 
 ![ Pasar Senen by night](/blog/images/2008-02-17-prokem-bahasa-gaul-language-inventiveness_-_whole-01.png)

@@ -2,8 +2,7 @@
 title: "Screencast: Wenlin helps you read Chinese"
 created_at: Tue, 02 May 2006 16:55:00 +0000
 kind: article
-tags:
-- china
+tags: china
 ---
 
 ![](http://wenlin.com/wenlin.gif)I had studied Chinese for about two and

@@ -2,10 +2,7 @@
 title: My one month Russian challenge
 created_at: Thu, 02 Feb 2012 12:39:40 +0000
 kind: article
-tags:
-- books
-- languages
-- personal
+tags: books, languages, personal
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-25-at-13.47.48-.png "Screen Shot 2011-11-25 at 13.47.48")](http://reganmian.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-25-at-13.47.48-.png)I

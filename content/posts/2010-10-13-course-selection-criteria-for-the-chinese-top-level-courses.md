@@ -2,13 +2,7 @@
 title: Course selection criteria for the Chinese Top Level Courses
 created_at: Wed, 13 Oct 2010 17:58:31 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 The initial policy defined a quality course as being a model course with

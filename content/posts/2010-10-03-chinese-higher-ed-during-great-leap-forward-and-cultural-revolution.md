@@ -2,11 +2,7 @@
 title: Chinese higher ed during Great Leap Forward and Cultural Revolution
 created_at: Sun, 03 Oct 2010 15:01:40 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
+tags: academia/research, china, Education, MA thesis
 ---
 
 **From the Great Leap Forward to 1977**

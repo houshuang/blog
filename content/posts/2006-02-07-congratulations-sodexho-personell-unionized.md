@@ -2,9 +2,7 @@
 title: "Congratulations: SODEXHO personell unionized!"
 created_at: 2006-02-07 00:00:00 -0500
 kind: article
-tags:
-- books
-- economics
+tags: books, economics
 ---
 
 ![](http://dyn.ifilm.com/resize/image/stills/films/c/2478089_i_1_c_.jpg?width=144)I

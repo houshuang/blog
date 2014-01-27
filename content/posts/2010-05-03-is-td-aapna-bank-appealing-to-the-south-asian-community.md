@@ -2,14 +2,7 @@
 title: Is TD "aapna" bank? Appealing to the South Asian community
 created_at: 2010-05-03 00:00:00 -0400
 kind: article
-tags:
-- asia
-- canada
-- hindi
-- languages
-- multilingual
-- td bank
-- toronto
+tags: asia, canada, hindi, languages, multilingual, td bank, toronto
 ---
 
 I am trying to purchase a flight ticket, but because I am an

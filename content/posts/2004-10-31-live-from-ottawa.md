@@ -2,9 +2,7 @@
 title: Live from Ottawa
 created_at: Mon, 31 Oct 2004 11:06:00 +0000
 kind: article
-tags:
-- canada
-- development
+tags: canada, development
 ---
 
 I’m coming to you live from the Ottawa Congress

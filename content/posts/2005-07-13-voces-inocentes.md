@@ -2,8 +2,7 @@
 title: Voces inocentes
 created_at: 2005-07-13 00:00:00 -0400
 kind: article
-tags:
-- development
+tags: development
 ---
 
 Today we all went over to the students from Mexico city who are working

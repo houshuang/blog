@@ -2,11 +2,7 @@
 title: Contributions to a Theoretical Framework for CSCL
 created_at: 2011-05-19 00:00:00 -0400
 kind: article
-tags:
-- academia/research
-- CSCL-intro
-- Education
-- open-education
+tags: academia/research, CSCL-intro, Education, open-education
 ---
 
 [Week

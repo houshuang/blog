@@ -2,17 +2,7 @@
 title: What is happening with Universal Library? Open letter to Dr. Raj Reddy at CMU
 created_at: 2010-05-03 00:00:00 -0400
 kind: article
-tags:
-- book scanning
-- books
-- china
-- codata
-- India
-- languages
-- open access
-- open library
-- openlibrary
-- universal library
+tags: book scanning, books, china, codata, India, languages, open access, open library, openlibrary, universal library
 ---
 
 I am very interested in book scanning projects, and especially in making

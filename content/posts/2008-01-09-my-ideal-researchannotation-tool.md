@@ -2,9 +2,7 @@
 title: My ideal research/annotation tool
 created_at: 2008-01-09 00:00:00 -0500
 kind: article
-tags:
-- personal
-- tech
+tags: personal, tech
 ---
 
 I was reading a bit about different innovative text editors on Mac

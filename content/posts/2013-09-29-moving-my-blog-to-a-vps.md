@@ -2,7 +2,7 @@
 title: Moving my blog to a VPS
 created_at: 2013-09-29 09:51:51 -0400
 kind: article
-tags:
+tags: 
 ---
 
 Some readers might have noticed that my blog, wiki, and other services were down for almost a month.

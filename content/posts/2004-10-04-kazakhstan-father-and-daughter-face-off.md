@@ -2,9 +2,7 @@
 title: "Kazakhstan: Father and Daughter face-off"
 created_at: Tue, 04 Oct 2004 10:53:00 +0000
 kind: article
-tags:
-- asia
-- politics
+tags: asia, politics
 ---
 
 ![](http://odo.karaganda.kz:8001/picture/bars.gif)

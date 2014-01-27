@@ -2,9 +2,7 @@
 title: Wikipedia Offline Server 0.2
 created_at: 2007-02-15 00:00:00 -0500
 kind: article
-tags:
-- opensource
-- tech
+tags: opensource, tech
 ---
 
 With this, I am officially releasing the Wikipedia Offline Server 0.21

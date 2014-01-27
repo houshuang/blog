@@ -2,9 +2,7 @@
 title: Trains in America? Amtrak to LA!
 created_at: Sat, 31 Dec 2005 19:30:00 +0000
 kind: article
-tags:
-- personal
-- US
+tags: personal, US
 ---
 
 ![](http://www.dot.wisconsin.gov/travel/rail/images/amtrak-engine.jpg)I

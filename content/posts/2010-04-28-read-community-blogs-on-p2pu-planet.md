@@ -2,12 +2,7 @@
 title: Read community blogs on P2PU Planet!
 created_at: Wed, 28 Apr 2010 06:07:24 +0000
 kind: article
-tags:
-- community
-- open-education
-- p2pU
-- personal
-- planet
+tags: community, open-education, p2pU, personal, planet
 ---
 
 As we are building the P2PU community, we are constantly thinking about

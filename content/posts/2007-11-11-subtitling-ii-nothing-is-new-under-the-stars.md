@@ -2,10 +2,7 @@
 title: "Subtitling II: Nothing is new under the stars"
 created_at: Sun, 11 Nov 2007 21:34:00 +0000
 kind: article
-tags:
-- languages
-- movies
-- tech
+tags: languages, movies, tech
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/thumb/e/ec/269960.1020.A.jpg/200px-269960.1020.A.jpg)My

@@ -2,10 +2,7 @@
 title: The Wisdom of Crowds
 created_at: 2005-08-16 00:00:00 -0400
 kind: article
-tags:
-- books
-- economics
-- politics
+tags: books, economics, politics
 ---
 
 ![Book

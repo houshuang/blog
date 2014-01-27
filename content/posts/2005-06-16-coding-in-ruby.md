@@ -2,9 +2,7 @@
 title: Coding in Ruby
 created_at: 2005-06-16 00:00:00 -0400
 kind: article
-tags:
-- opensource
-- tech
+tags: opensource, tech
 ---
 
 This last week I have been working unusually hard. After fighting for a

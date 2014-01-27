@@ -2,11 +2,7 @@
 title: Summer plans
 created_at: Thu, 19 Mar 2009 23:49:18 +0000
 kind: article
-tags:
-- china
-- europe
-- personal
-- travel
+tags: china, europe, personal, travel
 ---
 
 It's that time again, when the semester is drawing to a close, and

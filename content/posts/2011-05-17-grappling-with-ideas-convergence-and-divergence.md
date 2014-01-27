@@ -2,13 +2,7 @@
 title: "Grappling with ideas: convergence and divergence"
 created_at: Tue, 17 May 2011 08:59:58 +0000
 kind: article
-tags:
-- academia/research
-- CSCL-intro
-- Education
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, CSCL-intro, Education, open-education, p2pU, plenk2010
 ---
 
 Thanks to the generous recommendation by [Zaid Ali

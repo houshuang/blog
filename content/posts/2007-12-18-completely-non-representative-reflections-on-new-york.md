@@ -2,10 +2,7 @@
 title: Completely non-representative reflections on New York
 created_at: Tue, 18 Dec 2007 14:25:00 +0000
 kind: article
-tags:
-- canada
-- personal
-- US
+tags: canada, personal, US
 ---
 
 I have only visited New York once before, a few days in the summer a few

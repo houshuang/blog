@@ -2,11 +2,7 @@
 title: "Chinese politicians on the internet: Fu Rong"
 created_at: 2006-03-26 00:00:00 -0500
 kind: article
-tags:
-- asia
-- media
-- politics
-- tech
+tags: asia, media, politics, tech
 ---
 
 ![](http://houshuang.org/blog/files/china_ill.jpg)[EastSouthWestNorth](http://www.zonaeuropa.com/weblog.htm)

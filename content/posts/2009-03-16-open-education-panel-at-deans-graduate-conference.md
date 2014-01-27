@@ -2,19 +2,7 @@
 title: Open Education panel at Dean's Graduate Conference
 created_at: Mon, 16 Mar 2009 15:18:02 +0000
 kind: article
-tags:
-- china
-- cqocw
-- events
-- ignou
-- iit
-- India
-- jingpinkecheng
-- ocw
-- oer
-- oise
-- open-education
-- personal
+tags: china, cqocw, events, ignou, iit, India, jingpinkecheng, ocw, oer, oise, open-education, personal
 ---
 
 My [institution](http://www.oise.utoronto.ca) holds an annual graduate

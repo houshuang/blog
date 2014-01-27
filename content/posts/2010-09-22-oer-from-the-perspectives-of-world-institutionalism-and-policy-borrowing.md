@@ -2,14 +2,7 @@
 title: OER from the perspectives of world institutionalism and policy borrowing
 created_at: Wed, 22 Sep 2010 21:13:11 +0000
 kind: article
-tags:
-- academia/research
-- books
-- Education
-- MA thesis
-- open-education
-- p2pU
-- The Top Level Courses Project
+tags: academia/research, books, Education, MA thesis, open-education, p2pU, The Top Level Courses Project
 ---
 
 In addition to [defining the concept of

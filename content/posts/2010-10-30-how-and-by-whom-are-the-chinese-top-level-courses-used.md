@@ -2,13 +2,7 @@
 title: How and by whom are the Chinese Top Level Courses used?
 created_at: Sat, 30 Oct 2010 15:14:54 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 *This thesis does not intend to evaluate the success of the Top Level

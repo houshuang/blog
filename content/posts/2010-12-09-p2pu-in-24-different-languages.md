@@ -2,13 +2,7 @@
 title: P2PU in 24 different languages!
 created_at: Thu, 09 Dec 2010 22:53:02 +0000
 kind: article
-tags:
-- academia/research
-- Education
-- languages
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, languages, open-education, p2pU, plenk2010
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2010/12/actualite.jpg "actualite")](http://reganmian.net/blog/wp-content/uploads/2010/12/actualite.jpg)

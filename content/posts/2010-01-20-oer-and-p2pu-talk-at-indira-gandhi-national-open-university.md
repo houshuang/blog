@@ -2,22 +2,7 @@
 title: "OER and P2PU: Talk at Indira Gandhi National Open University"
 created_at: Wed, 20 Jan 2010 07:40:31 +0000
 kind: article
-tags:
-- delhi
-- Education
-- egyankosh
-- events
-- ignou
-- India
-- oa
-- ocw
-- oer
-- open access
-- open-education
-- openness
-- p2pU
-- personal
-- tech
+tags: delhi, Education, egyankosh, events, ignou, India, oa, ocw, oer, open access, open-education, openness, p2pU, personal, tech
 ---
 
 I have been very interested in the work of [Indira Gandhi National Open

@@ -2,10 +2,7 @@
 title: Unobtrusive time tracker, visualizing time spent with Ruby and R
 created_at: Sat, 16 Mar 2013 23:05:52 +0000
 kind: article
-tags:
-- academia/research
-- personal
-- tech
+tags: academia/research, personal, tech
 ---
 
 About three years ago,  I read some articles about the [quantified

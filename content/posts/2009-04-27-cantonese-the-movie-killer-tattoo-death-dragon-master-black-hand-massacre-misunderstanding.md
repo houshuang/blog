@@ -2,11 +2,7 @@
 title: "Cantonese the Movie: Killer Tattoo Death Dragon Master Black Hand Massacre Misunderstanding"
 created_at: Mon, 27 Apr 2009 08:28:48 +0000
 kind: article
-tags:
-- china
-- languages
-- movies
-- personal
+tags: china, languages, movies, personal
 ---
 
 Yes, that is the unlikely title of a short film that I collaborated in

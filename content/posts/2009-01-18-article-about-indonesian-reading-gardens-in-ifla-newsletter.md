@@ -2,19 +2,7 @@
 title: Article about Indonesian reading gardens in IFLA newsletter
 created_at: Sun, 18 Jan 2009 22:58:49 +0000
 kind: article
-tags:
-- asia
-- books
-- development
-- Fall of Suharto
-- Indonesia
-- Jakarta
-- Java
-- libraries
-- open access
-- personal
-- Punk rock
-- Yogyakarta
+tags: asia, books, development, Fall of Suharto, Indonesia, Jakarta, Java, libraries, open access, personal, Punk rock, Yogyakarta
 ---
 
 ![](http://lh6.ggpht.com/_0zhFe8pB7to/R7OsXsX8-DI/AAAAAAAABUk/qOtG07gc5tg/s288/P2120072.JPG)The

@@ -2,17 +2,7 @@
 title: 407 Indonesian textbooks openly available
 created_at: 2009-03-19 00:00:00 -0400
 kind: article
-tags:
-- asia
-- books
-- development
-- economics
-- Indonesia
-- libraries
-- oer
-- open access
-- open textbooks
-- open-education
+tags: asia, books, development, economics, Indonesia, libraries, oer, open access, open textbooks, open-education
 ---
 
 **Background**

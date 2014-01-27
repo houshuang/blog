@@ -2,13 +2,7 @@
 title: "Notes from Learning Analytics Conference 2011: Day 2"
 created_at: 2011-03-03 00:00:00 -0500
 kind: article
-tags:
-- academia/research
-- Education
-- lak11
-- open-education
-- p2pU
-- plenk2010
+tags: academia/research, Education, lak11, open-education, p2pU, plenk2010
 ---
 
 During the second day of the [Learning Analytics

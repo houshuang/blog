@@ -2,13 +2,7 @@
 title: Institutional perspectives on the Chinese National Top Level Courses Project
 created_at: Mon, 25 Oct 2010 15:05:30 +0000
 kind: article
-tags:
-- academia/research
-- china
-- Education
-- MA thesis
-- open-education
-- The Top Level Courses Project
+tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
 ---
 
 This section will provide a view of the Top Level Courses Project from

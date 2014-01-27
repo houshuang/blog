@@ -2,12 +2,7 @@
 title: "Many small improvements make a harmonious society (和谐社会)?"
 created_at: 2008-06-02 00:00:00 -0400
 kind: article
-tags:
-- china
-- development
-- libraries
-- personal
-- travel
+tags: china, development, libraries, personal, travel
 ---
 
 It was great being back in Hangzhou, where I spent half a year in 2004.

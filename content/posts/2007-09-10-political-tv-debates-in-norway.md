@@ -2,10 +2,7 @@
 title: Political TV debates in Norway
 created_at: Mon, 10 Sep 2007 16:54:00 +0000
 kind: article
-tags:
-- europe
-- media
-- politics
+tags: europe, media, politics
 ---
 
 ![](http://nrk.no/contentfile/file/1.3383510!img3383496.jpg)In a few

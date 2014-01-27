@@ -2,10 +2,7 @@
 title: Theoretical frameworks for researching OER
 created_at: Mon, 10 Nov 2008 21:50:00 +0000
 kind: article
-tags:
-- africa
-- china
-- development
+tags: africa, china, development
 ---
 
 **Why do we need theories?**

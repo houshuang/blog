@@ -2,8 +2,7 @@
 title: Open Access e-books at University of Oslo
 created_at: Fri, 16 Jan 2009 20:38:02 +0000
 kind: article
-tags:
-- Uncategorized
+tags: Uncategorized
 ---
 
 I came across a newsflash at the [University of Oslo

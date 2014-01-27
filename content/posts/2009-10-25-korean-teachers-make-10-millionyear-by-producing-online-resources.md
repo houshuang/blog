@@ -2,12 +2,7 @@
 title: Korean teachers make \$10 million/year by producing online resources
 created_at: 2009-10-25 00:00:00 -0400
 kind: article
-tags:
-- asia
-- Education
-- korea
-- ocw
-- open-education
+tags: asia, Education, korea, ocw, open-education
 ---
 
 I just came across [a
