@@ -2,7 +2,9 @@
 title: Quick links - Chinese students in the US
 created_at: 2007-09-21 00:00:00 -0400
 kind: article
-tags: asia, china
+tags:
+  - asia
+  - china
 ---
 
 I have been thinking for a while about wanting to post more quick links,

@@ -2,7 +2,13 @@
 title: "Introduction: MIT courses and Chinese open courses"
 created_at: 2010-09-14 00:00:00 -0400
 kind: article
-tags: china, Education, MA thesis, open-education, p2pU, The Top Level Courses Project
+tags:
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - p2pU
+  - The Top Level Courses Project
 ---
 
 I start my [MA thesis](http://reganmian.net/top-level-courses) with the

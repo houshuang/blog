@@ -2,7 +2,8 @@
 title: "OpenEd: Why I was distracted I"
 created_at: 2007-11-22 00:00:00 -0500
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 I know that I am egregiously late with this assignment, and I apologize

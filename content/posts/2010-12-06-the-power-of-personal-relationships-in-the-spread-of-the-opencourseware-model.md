@@ -2,7 +2,11 @@
 title: The power of personal relationships in the spread of the OpenCourseWare model
 created_at: 2010-12-06 00:00:00 -0500
 kind: article
-tags: academia/research, Education, MA thesis, open-education
+tags:
+  - academia/research
+  - Education
+  - MA thesis
+  - open-education
 ---
 
 We saw in the cases of other East Asian countries how personal

@@ -2,7 +2,13 @@
 title: Notes from AERA11 in New Orleans
 created_at: Tue, 17 May 2011 09:58:02 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education, events, open-education, plenk2010
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
+  - events
+  - open-education
+  - plenk2010
 ---
 
 ![](http://farm2.static.flickr.com/1144/1325386250_a3275818f0.jpg)AERA

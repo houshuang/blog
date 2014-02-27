@@ -2,7 +2,8 @@
 title: Republishing Links
 created_at: Tue, 04 Dec 2007 23:23:00 +0000
 kind: article
-tags: personal
+tags:
+  - personal
 ---
 
 So when I changed domain, unfortunately a number of things hosted here

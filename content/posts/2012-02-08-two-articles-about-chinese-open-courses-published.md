@@ -2,7 +2,11 @@
 title: Two articles about Chinese open courses published
 created_at: Wed, 08 Feb 2012 18:15:07 +0000
 kind: article
-tags: academia/research, china, MA thesis, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - MA thesis
+  - The Top Level Courses Project
 ---
 
 I

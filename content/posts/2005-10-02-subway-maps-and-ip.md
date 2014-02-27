@@ -2,7 +2,10 @@
 title: Subway maps and IP
 created_at: Sun, 02 Oct 2005 18:43:00 +0000
 kind: article
-tags: tech, toronto, US
+tags:
+  - tech
+  - toronto
+  - US
 ---
 
 ![](http://www.ipodsubwaymaps.com/maps/toronto/thumbnail.gif)One of the

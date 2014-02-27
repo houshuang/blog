@@ -2,7 +2,9 @@
 title: "Down, up, and move: Tales of DNS woes"
 created_at: Mon, 24 Apr 2006 15:17:00 +0000
 kind: article
-tags: personal, tech
+tags:
+  - personal
+  - tech
 ---
 
 I know this happens to people all the time, I remember my friend Leylop

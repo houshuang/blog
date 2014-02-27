@@ -2,7 +2,12 @@
 title: The English-Chinese dictionary, revisited
 created_at: Mon, 23 Feb 2009 15:59:26 +0000
 kind: article
-tags: china, Jin Ping Mei, languages, personal, tech
+tags:
+  - china
+  - Jin Ping Mei
+  - languages
+  - personal
+  - tech
 ---
 
 My previous post on extracting an English-Chinese dictionary garnered a

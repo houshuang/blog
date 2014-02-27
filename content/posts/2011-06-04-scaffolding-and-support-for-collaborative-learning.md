@@ -2,7 +2,10 @@
 title: Scaffolding and support for collaborative learning
 created_at: Sat, 04 Jun 2011 14:49:17 +0000
 kind: article
-tags: CSCL-intro, Education, p2pU
+tags:
+  - CSCL-intro
+  - Education
+  - p2pU
 ---
 
 [This

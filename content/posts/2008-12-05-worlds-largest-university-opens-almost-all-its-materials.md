@@ -2,7 +2,9 @@
 title: "World's largest university opens almost ALL its materials!"
 created_at: 2008-12-05 00:00:00 -0500
 kind: article
-tags: development, India
+tags:
+  - development
+  - India
 ---
 
 **Background**

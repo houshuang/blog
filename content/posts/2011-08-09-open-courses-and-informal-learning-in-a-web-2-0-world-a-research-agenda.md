@@ -2,7 +2,12 @@
 title: "Open Courses and Informal Learning in a Web 2.0 World: A Research Agenda"
 created_at: Tue, 09 Aug 2011 12:17:09 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education, open-education, p2pU
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
+  - open-education
+  - p2pU
 ---
 
 I recently gave a keynote presentation at [ICETC 2011 in

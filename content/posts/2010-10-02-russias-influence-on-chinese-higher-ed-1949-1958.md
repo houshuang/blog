@@ -2,7 +2,11 @@
 title: Russia's influence on Chinese higher ed - 1949-1958
 created_at: Sat, 02 Oct 2010 19:00:57 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
 ---
 
 In my thesis, I spend a lot of time discussing the history of higher

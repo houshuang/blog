@@ -2,7 +2,9 @@
 title: Teaching political science at Tsinghua University
 created_at: 2006-05-05 00:00:00 -0400
 kind: article
-tags: asia, china
+tags:
+  - asia
+  - china
 ---
 
 A [fascinating

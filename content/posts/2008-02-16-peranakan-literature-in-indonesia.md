@@ -2,7 +2,10 @@
 title: Peranakan literature in Indonesia
 created_at: 2008-02-16 00:00:00 -0500
 kind: article
-tags: asia, books, libraries
+tags:
+  - asia
+  - books
+  - libraries
 ---
 
 My problem with doing research is that I come across so many interesting

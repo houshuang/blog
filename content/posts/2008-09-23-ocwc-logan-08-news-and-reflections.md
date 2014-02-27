@@ -2,7 +2,8 @@
 title: "OCWC Logan 08: news and reflections"
 created_at: 2008-09-23 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [![USU Merrill-Cazier

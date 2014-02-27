@@ -2,7 +2,11 @@
 title: "Anatomy of a Chinese 网吧 (cybercafe)"
 created_at: 2008-04-29 00:00:00 -0400
 kind: article
-tags: china, personal, tech, travel
+tags:
+  - china
+  - personal
+  - tech
+  - travel
 ---
 
 One of the most striking things in China, and a very important feature

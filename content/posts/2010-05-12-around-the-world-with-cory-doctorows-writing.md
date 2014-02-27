@@ -2,7 +2,13 @@
 title: "Around the world with Cory Doctorow's writings "
 created_at: Wed, 12 May 2010 17:59:53 +0000
 kind: article
-tags: books, cory doctorow, languages, libraries, open access, personal
+tags:
+  - books
+  - cory doctorow
+  - languages
+  - libraries
+  - open access
+  - personal
 ---
 
 ![ book](http://reganmian.net/blog/wp-content/uploads/2010/05/Screen-shot-2010-05-12-at-1.57.28-PM.png)

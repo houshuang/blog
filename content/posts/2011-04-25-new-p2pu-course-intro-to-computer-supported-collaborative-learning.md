@@ -2,7 +2,12 @@
 title: "New P2PU course: Intro to Computer-Supported Collaborative Learning"
 created_at: Mon, 25 Apr 2011 15:00:43 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education, open-education, p2pU
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
+  - open-education
+  - p2pU
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2011/04/csclintro.jpg "#csclintro")](http://reganmian.net/blog/wp-content/uploads/2011/04/csclintro.jpg)

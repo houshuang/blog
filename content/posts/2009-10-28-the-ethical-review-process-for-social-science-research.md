@@ -2,7 +2,9 @@
 title: The ethical review process for social science research
 created_at: Wed, 28 Oct 2009 17:01:23 +0000
 kind: article
-tags: canada, Education
+tags:
+  - canada
+  - Education
 ---
 
 I just finished reading ["My freshman

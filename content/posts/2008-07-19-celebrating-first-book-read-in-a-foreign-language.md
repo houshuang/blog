@@ -2,7 +2,9 @@
 title: Celebrating first book read in a foreign language
 created_at: 2008-07-19 00:00:00 -0400
 kind: article
-tags: books, India
+tags:
+  - books
+  - India
 ---
 
 There are many different milestones when learning a new language. They

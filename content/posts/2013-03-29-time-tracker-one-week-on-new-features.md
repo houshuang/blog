@@ -2,7 +2,10 @@
 title: Time tracker one week on, new features
 created_at: Sat, 29 Mar 2013 03:18:51 +0000
 kind: article
-tags: academia/research, personal, tech
+tags:
+  - academia/research
+  - personal
+  - tech
 ---
 Last week I wrote about how [I began resurrecting a three-year old time
 tracker

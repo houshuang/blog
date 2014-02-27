@@ -2,7 +2,9 @@
 title: "Update: Harvard documentary online"
 created_at: Wed, 15 Mar 2006 15:25:00 +0000
 kind: article
-tags: media, US
+tags:
+  - media
+  - US
 ---
 
 *Update: I apologize for a) posting a broken link and b) taking so long

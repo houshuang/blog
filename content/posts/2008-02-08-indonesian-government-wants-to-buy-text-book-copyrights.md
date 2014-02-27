@@ -2,7 +2,9 @@
 title: Indonesian government wants to buy text book copyrights
 created_at: Fri, 08 Feb 2008 18:12:00 +0000
 kind: article
-tags: asia, books
+tags:
+  - asia
+  - books
 ---
 
 ![](http://swaramuslim.net/images/uploads/siyasah/buku_sejarah-02.jpg)From

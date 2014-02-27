@@ -2,7 +2,11 @@
 title: "Junior Researchr: A design proposal"
 created_at: 2011-05-18 00:00:00 -0400
 kind: article
-tags: academia/research, Education, open access, tech
+tags:
+  - academia/research
+  - Education
+  - open access
+  - tech
 ---
 
 This spring, I took a class called ["Knowledge, Media and

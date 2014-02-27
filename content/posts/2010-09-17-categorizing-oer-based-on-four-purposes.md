@@ -2,7 +2,14 @@
 title: Categorizing OER based on four purposes
 created_at: Fri, 17 Sep 2010 19:00:35 +0000
 kind: article
-tags: academia/research, Education, MA thesis, open-education, p2pU, plenk2010, The Top Level Courses Project
+tags:
+  - academia/research
+  - Education
+  - MA thesis
+  - open-education
+  - p2pU
+  - plenk2010
+  - The Top Level Courses Project
 ---
 
 This part of my thesis is based on a framework that I have gradually

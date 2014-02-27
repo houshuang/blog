@@ -2,7 +2,9 @@
 title: "Individual article statistics for Wikipedia: Endless amusement"
 created_at: 2008-03-09 00:00:00 -0500
 kind: article
-tags: languages, tech
+tags:
+  - languages
+  - tech
 ---
 
 I love Wikipedia (despite the occasional problems, unreasonableness,

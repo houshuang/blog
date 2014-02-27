@@ -2,7 +2,14 @@
 title: "The Chinese Top Level Courses Project: Conclusion and directions for further research"
 created_at: Thu, 09 Dec 2010 14:55:38 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, p2pU, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - p2pU
+  - The Top Level Courses Project
 ---
 
 In this thesis, I set out to understand how the Top Level Courses

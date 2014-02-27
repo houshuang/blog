@@ -2,7 +2,9 @@
 title: Sharing Knowledge with Developing Countries
 created_at: Mon, 26 Sep 2004 10:27:00 +0000
 kind: article
-tags: development, economics
+tags:
+  - development
+  - economics
 ---
 
 While playing with the [University of Toronto](http://www.utoronto.ca)’s

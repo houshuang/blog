@@ -2,7 +2,19 @@
 title: Integrating iPhone photography with wiki for note-taking during conference
 created_at: 2013-01-25 00:00:00 -0500
 kind: article
-tags: academia/research, conference blogging, devonthink, dokuwiki, evernote, FORCE11, iphone, open access, photostream, Researchr, researchr, tech
+tags:
+  - academia/research
+  - conference blogging
+  - devonthink
+  - dokuwiki
+  - evernote
+  - FORCE11
+  - iphone
+  - open access
+  - photostream
+  - Researchr
+  - researchr
+  - tech
 ---
 
 **Developing Researchr - two converging strands**

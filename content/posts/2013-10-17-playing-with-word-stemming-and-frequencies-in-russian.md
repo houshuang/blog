@@ -3,7 +3,10 @@ title: "Playing with word stemming and frequencies in Russian"
 created_at: 2013-10-17 18:35:20 -0400
 kind: article
 location: Toronto, Canada
-tags: russian, languages, tech
+tags:
+  - russian
+  - languages
+  - tech
 ---
 
 I've been diving back into Russian lately, after many years of neglect (and having never really learnt it in the first place). Much to say about my experiments with DIY parallel texts, my adventure at a Russian supermarket in suburban Toronto, etc, but first some geekery. 

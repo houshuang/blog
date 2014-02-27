@@ -2,7 +2,13 @@
 title: The power of models and examples, understanding the role of the Top Level Courses Project in China
 created_at: Wed, 08 Dec 2010 14:44:23 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - The Top Level Courses Project
 ---
 
 In [the previous

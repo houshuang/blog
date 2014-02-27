@@ -2,7 +2,19 @@
 title: "Upcoming Presentation: Open Education Around the World"
 created_at: 2009-01-25 00:00:00 -0500
 kind: article
-tags: canada, Education, Higher education, Ontario Institute for Studies in Education, open access, Open Educational Resources, open-education, p2pU, personal, Teacher, toronto, Virtual community
+tags:
+  - canada
+  - Education
+  - Higher education
+  - Ontario Institute for Studies in Education
+  - open access
+  - Open Educational Resources
+  - open-education
+  - p2pU
+  - personal
+  - Teacher
+  - toronto
+  - Virtual community
 ---
 
 [Education Commons](http://www.oise.utoronto.ca/ec) is the unit at

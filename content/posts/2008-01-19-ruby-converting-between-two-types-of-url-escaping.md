@@ -2,7 +2,9 @@
 title: "Ruby: Converting between two types of URL escaping "
 created_at: 2008-01-19 00:00:00 -0500
 kind: article
-tags: languages, tech
+tags:
+  - languages
+  - tech
 ---
 
 I am playing around with my old scripts for repacking Wikipedia for

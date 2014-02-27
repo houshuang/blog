@@ -2,7 +2,8 @@
 title: International students in Canada, extending student permit
 created_at: 2008-09-29 00:00:00 -0400
 kind: article
-tags: canada
+tags:
+  - canada
 ---
 
 [![Air Canada in

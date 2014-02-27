@@ -2,7 +2,8 @@
 title: Lovely University of Toronto campus, a walk-through
 created_at: 2006-05-10 00:00:00 -0400
 kind: article
-tags: canada
+tags:
+  - canada
 ---
 
 During the making of a little homevideo project, I did some shots of the

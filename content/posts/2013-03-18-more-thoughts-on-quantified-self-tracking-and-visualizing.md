@@ -2,7 +2,8 @@
 title: More thoughts on quantified self, tracking and visualizing
 created_at: Mon, 18 Mar 2013 10:27:27 +0000
 kind: article
-tags: tech
+tags:
+  - tech
 ---
 
 Yesterday, I wrote [about my tiny timetracker

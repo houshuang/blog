@@ -2,7 +2,17 @@
 title: Public domain books in many languages
 created_at: 2009-03-20 00:00:00 -0400
 kind: article
-tags: book scanning, books, china, chinese, gutenberg, japanese, languages, libraries, open access, russian
+tags:
+  - book scanning
+  - books
+  - china
+  - chinese
+  - gutenberg
+  - japanese
+  - languages
+  - libraries
+  - open access
+  - russian
 ---
 
 ![gutenberg ](http://www.gutenberg.org/pics/pg-logo-002.png)I've long been

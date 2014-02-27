@@ -2,7 +2,9 @@
 title: The Art Haus hostel in Asheville, NC
 created_at: Mon, 29 Aug 2005 18:29:00 +0000
 kind: article
-tags: personal, US
+tags:
+  - personal
+  - US
 ---
 
 ![](http://www.feelfreefarmproject.org/campinout.jpg)\

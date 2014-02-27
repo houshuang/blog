@@ -2,7 +2,10 @@
 title: "tag-extract: A tool to automatically restructure text/outline using tags"
 created_at: Wed, 13 Jun 2012 15:38:42 +0000
 kind: article
-tags: academia/research, Researchr, tech
+tags:
+  - academia/research
+  - Researchr
+  - tech
 ---
 
 ***I created a tool that can reorganize an outline in text format with

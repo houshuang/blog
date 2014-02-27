@@ -2,7 +2,10 @@
 title: Wuhan, where have you been all these years?
 created_at: 2008-04-28 00:00:00 -0400
 kind: article
-tags: china, personal, travel
+tags:
+  - china
+  - personal
+  - travel
 ---
 
 ![](http://english.cri.cn/mmsource/images/2006/11/24/reganmian.jpg)While

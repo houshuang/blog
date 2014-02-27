@@ -2,7 +2,9 @@
 title: Language representation among DOAJ Open Access journals
 created_at: 2009-04-05 00:00:00 -0400
 kind: article
-tags: languages, open access
+tags:
+  - languages
+  - open access
 ---
 
 I am writing a paper about encouraging undergraduate students to conduct

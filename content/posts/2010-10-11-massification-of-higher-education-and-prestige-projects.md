@@ -2,7 +2,11 @@
 title: Massification of higher education, and prestige projects
 created_at: Mon, 11 Oct 2010 14:28:56 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
 ---
 
 In 1993, the Ministry of Education released the “Outline for Reform and

@@ -3,7 +3,10 @@ title: "Tuesday morning hack: Rename, resize and upload image, and get Markdown 
 created_at: 2013-10-16 12:20:09 -0400
 kind: article
 location: Toronto, Canada
-tags: tech, Markdown, ruby
+tags:
+  - tech
+  - Markdown
+  - ruby
 ---
 
 ![upload-box ](/blog/images/2013-10-16-tuesday-morning-hack-rename-resize-and-upload-image-and-get-markdown-link_-_half-01.png)

@@ -2,7 +2,13 @@
 title: Critiques of the Chinese Top Level Courses Project in the Chinese literature
 created_at: Sat, 27 Nov 2010 15:19:59 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - The Top Level Courses Project
 ---
 
 Although most of the articles are written in a laudatory tradition that

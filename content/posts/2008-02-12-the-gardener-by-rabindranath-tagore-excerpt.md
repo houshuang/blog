@@ -2,7 +2,9 @@
 title: The Gardener, by Rabindranath Tagore (excerpt)
 created_at: 2008-02-12 00:00:00 -0500
 kind: article
-tags: books, India
+tags:
+  - books
+  - India
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tagore3.jpg/200px-Tagore3.jpg)2.

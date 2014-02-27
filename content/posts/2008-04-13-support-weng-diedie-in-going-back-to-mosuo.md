@@ -2,7 +2,10 @@
 title: Support Weng Diedie in going back to Mosuo
 created_at: 2008-04-13 00:00:00 -0400
 kind: article
-tags: china, movies, personal
+tags:
+  - china
+  - movies
+  - personal
 ---
 
 Weng Diedie is a Chinese filmmaker who has spent several years visiting

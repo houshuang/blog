@@ -2,7 +2,8 @@
 title: 27 female edubloggers from ZaidLearn
 created_at: 2008-10-09 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [Zaid Ali Alsagoff](http://zaidlearn.blogspot.com/), who has an

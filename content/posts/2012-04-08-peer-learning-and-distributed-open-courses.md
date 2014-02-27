@@ -2,7 +2,10 @@
 title: Peer learning and distributed open courses
 created_at: 2012-04-08 00:00:00 -0400
 kind: article
-tags: Education, open-education, p2pU
+tags:
+  - Education
+  - open-education
+  - p2pU
 ---
 
 I was a Teaching Assistant for a Knowledge Media and Design Institute

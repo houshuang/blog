@@ -2,7 +2,14 @@
 title: New Chinese blog, and translating my thesis to Chinese
 created_at: Mon, 20 Dec 2010 19:29:03 +0000
 kind: article
-tags: academia/research, china, languages, MA thesis, open access, p2pU, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - languages
+  - MA thesis
+  - open access
+  - p2pU
+  - The Top Level Courses Project
 ---
 
 Ever since I began the research on my [MA

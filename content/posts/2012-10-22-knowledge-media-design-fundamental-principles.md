@@ -2,7 +2,11 @@
 title: "Knowledge Media Design: Fundamental Principles"
 created_at: Mon, 22 Oct 2012 13:42:29 +0000
 kind: article
-tags: academia/research, Education, open access, open-education
+tags:
+  - academia/research
+  - Education
+  - open access
+  - open-education
 ---
 
 [![](https://lh3.googleusercontent.com/-Zw0GIJLh3-A/UFbxn82NXII/AAAAAAAAGb0/JNJtzSRNehI/s512/IMG_20120910_124129.jpg)](https://picasaweb.google.com/107702703184747130690/KMD1001Concepts2012)

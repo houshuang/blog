@@ -2,7 +2,10 @@
 title: "Open Access Week 2012: Looking back at five years of OA talks"
 created_at: Mon, 22 Oct 2012 15:58:45 +0000
 kind: article
-tags: academia/research, open access, open-education
+tags:
+  - academia/research
+  - open access
+  - open-education
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg "OpenAccessWeek")](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg)This

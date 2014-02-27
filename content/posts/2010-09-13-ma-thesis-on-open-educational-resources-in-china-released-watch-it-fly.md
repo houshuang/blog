@@ -2,7 +2,16 @@
 title: MA thesis on Open Educational Resources in China released, watch it fly
 created_at: Mon, 13 Sep 2010 21:41:35 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, p2pU, personal, plenk2010, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - p2pU
+  - personal
+  - plenk2010
+  - The Top Level Courses Project
 ---
 
 **The research** I have detailed my trajectory into the Open Educational

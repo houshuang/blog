@@ -2,7 +2,10 @@
 title: African Journals Online - wonderful, but I want access
 created_at: Mon, 10 Nov 2008 20:19:00 +0000
 kind: article
-tags: africa, development, India
+tags:
+  - africa
+  - development
+  - India
 ---
 
 Through

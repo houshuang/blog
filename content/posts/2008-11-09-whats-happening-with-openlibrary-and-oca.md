@@ -2,7 +2,8 @@
 title: "What28099s happening with OpenLibrary and OCA"
 created_at: Sun, 09 Nov 2008 19:38:00 +0000
 kind: article
-tags: libraries
+tags:
+  - libraries
 ---
 
 [![\$100 Laptop

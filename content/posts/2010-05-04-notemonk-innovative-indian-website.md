@@ -2,7 +2,17 @@
 title: Notemonk, innovative Indian website combining open textbooks and social learning
 created_at: Tue, 04 May 2010 16:14:47 +0000
 kind: article
-tags: books, Education, India, interview, ncert, notemonk, open textbooks, open-education, p2pU, prashanth ellina
+tags:
+  - books
+  - Education
+  - India
+  - interview
+  - ncert
+  - notemonk
+  - open textbooks
+  - open-education
+  - p2pU
+  - prashanth ellina
 ---
 
 There are lot's of exciting open projects coming out of India, and I was

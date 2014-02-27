@@ -2,7 +2,8 @@
 title: "2809CWhy I Deserve an OpenEd 2008 Scholarship.2809D"
 created_at: 2008-08-24 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 *Since I kind of “began” my journey in open education through David

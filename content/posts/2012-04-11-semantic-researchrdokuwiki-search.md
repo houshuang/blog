@@ -2,7 +2,11 @@
 title: "\"Semantic\" Researchr/DokuWiki search"
 created_at: Wed, 11 Apr 2012 23:25:59 +0000
 kind: article
-tags: academia/research, open access, Researchr, tech
+tags:
+  - academia/research
+  - open access
+  - Researchr
+  - tech
 ---
 
 I really intended to focus on my literature review these few weeks, and

@@ -2,7 +2,9 @@
 title: Amharic dance videos
 created_at: Mon, 10 Dec 2007 18:38:00 +0000
 kind: article
-tags: africa, media
+tags:
+  - africa
+  - media
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bete_Giyorgis_Lalibela_Ethiopia.jpg/300px-Bete_Giyorgis_Lalibela_Ethiopia.jpg)I

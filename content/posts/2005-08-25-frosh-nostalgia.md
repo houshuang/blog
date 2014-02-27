@@ -2,7 +2,9 @@
 title: Frosh nostalgia
 created_at: Thu, 25 Aug 2005 22:27:00 +0000
 kind: article
-tags: personal, US
+tags:
+  - personal
+  - US
 ---
 
 After having left my luggage safely in the hands of the kind populace of

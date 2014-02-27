@@ -2,7 +2,8 @@
 title: "OpenEd: Notes from reading week 2, Giving Knowledge for Free"
 created_at: 2007-09-23 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 I just finished reading through the three required readings for the last

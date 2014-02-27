@@ -2,7 +2,15 @@
 title: "EdFutures: First post"
 created_at: 2010-04-19 00:00:00 -0400
 kind: article
-tags: edfuture, edfutures, Education, ocw, oer, open learning, open-education, p2pU
+tags:
+  - edfuture
+  - edfutures
+  - Education
+  - ocw
+  - oer
+  - open learning
+  - open-education
+  - p2pU
 ---
 
 [![Trapped](http://farm3.static.flickr.com/2785/4534277631_52507b9367_m.jpg)](http://www.flickr.com/photos/56891569@N00/4534277631/ "Trapped")[](http://www.flickr.com/photos/43102195@N08/4074329103/ "U-g-g-B-o-y-(-Photograph-World-Sense-)")Although

@@ -2,7 +2,14 @@
 title: Case studies of OpenCourseWare in Japan, Taiwan and South Korea
 created_at: Thu, 02 Dec 2010 14:47:15 +0000
 kind: article
-tags: academia/research, asia, Education, MA thesis, open-education, p2pU, plenk2010
+tags:
+  - academia/research
+  - asia
+  - Education
+  - MA thesis
+  - open-education
+  - p2pU
+  - plenk2010
 ---
 
 *In this post, I will introduce the development of OpenCourseWare

@@ -2,7 +2,10 @@
 title: "CSCL-intro \"The Biweekly\" #1"
 created_at: 2011-04-27 00:00:00 -0400
 kind: article
-tags: academia/research, CSCL-intro, open-education
+tags:
+  - academia/research
+  - CSCL-intro
+  - open-education
 ---
 
 [caption id="" align="alignleft" width="233" caption="CC BY aussiegall @

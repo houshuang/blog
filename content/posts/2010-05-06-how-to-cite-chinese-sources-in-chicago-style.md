@@ -2,7 +2,13 @@
 title: How to cite Chinese sources in Chicago style
 created_at: 2010-05-06 00:00:00 -0400
 kind: article
-tags: academia/research, bookends, chicago style, china, chinese, languages
+tags:
+  - academia/research
+  - bookends
+  - chicago style
+  - china
+  - chinese
+  - languages
 ---
 
 I am always interested in improving my academic "workflow", new neat

@@ -2,7 +2,10 @@
 title: "OpenCourseWare around the world: China and India"
 created_at: 2008-04-06 00:00:00 -0400
 kind: article
-tags: asia, china, India
+tags:
+  - asia
+  - china
+  - India
 ---
 
 [![](http://farm2.static.flickr.com/1258/1279750389_8aa31cbafa_m.jpg)](http://www.flickr.com/photos/30201239@N00/1279750389/)The

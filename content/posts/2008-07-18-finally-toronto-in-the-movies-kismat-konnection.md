@@ -2,7 +2,10 @@
 title: Finally Toronto in the movies - Kismat Konnection
 created_at: 2008-07-18 00:00:00 -0400
 kind: article
-tags: India, movies, toronto
+tags:
+  - India
+  - movies
+  - toronto
 ---
 
 ![](http://www.timesnow.tv/ImageGallery/N11296.jpg)Yesterday while

@@ -2,7 +2,10 @@
 title: "Seeing Like a State, by James C. Scott"
 created_at: Mon, 10 Apr 2006 20:14:00 +0000
 kind: article
-tags: books, development, economics
+tags:
+  - books
+  - development
+  - economics
 ---
 
 *Note, this post is based on a book review I wrote for school. It’s a

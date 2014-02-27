@@ -2,7 +2,12 @@
 title: New Peer2Peer University Courses!
 created_at: Mon, 30 Aug 2010 23:47:58 +0000
 kind: article
-tags: academia/research, Education, open-education, p2pU, plenk2010
+tags:
+  - academia/research
+  - Education
+  - open-education
+  - p2pU
+  - plenk2010
 ---
 
 There is so much exciting going on at [P2PU](http://p2pu.org), that if I

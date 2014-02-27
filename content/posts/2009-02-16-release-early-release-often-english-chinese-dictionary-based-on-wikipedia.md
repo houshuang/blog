@@ -2,7 +2,23 @@
 title: "Release early, release often: English-Chinese dictionary based on Wikipedia"
 created_at: 2009-02-16 00:00:00 -0500
 kind: article
-tags: china, Chinese language, dictd, dictionary, languages, Linus Torvalds, open access, personal, Republic of China, sed, stardict, tech, Text editor, Text file, wenlin, XML
+tags:
+  - china
+  - Chinese language
+  - dictd
+  - dictionary
+  - languages
+  - Linus Torvalds
+  - open access
+  - personal
+  - Republic of China
+  - sed
+  - stardict
+  - tech
+  - Text editor
+  - Text file
+  - wenlin
+  - XML
 ---
 
 **Background** Although there are some great Chinese dictionaries out

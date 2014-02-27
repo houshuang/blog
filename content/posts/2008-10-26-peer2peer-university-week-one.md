@@ -2,7 +2,8 @@
 title: Peer2Peer University - week one
 created_at: 2008-10-26 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 ![](http://www.google.com/a/cpanel/peer2peeruniversity.org/images/logo.gif?service=jotspot)

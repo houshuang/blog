@@ -2,7 +2,9 @@
 title: Conservative America
 created_at: Tue, 27 Sep 2004 10:09:00 +0000
 kind: article
-tags: politics, US
+tags:
+  - politics
+  - US
 ---
 
 By way of [The Longbow

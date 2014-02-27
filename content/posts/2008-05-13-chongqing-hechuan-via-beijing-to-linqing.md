@@ -2,7 +2,10 @@
 title: Chongqing, Hechuan via Beijing to Linqing
 created_at: 2008-05-13 00:00:00 -0400
 kind: article
-tags: china, personal, travel
+tags:
+  - china
+  - personal
+  - travel
 ---
 
 I thought I’d write a little more about my last travels. The last time I

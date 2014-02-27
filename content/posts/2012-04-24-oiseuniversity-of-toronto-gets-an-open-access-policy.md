@@ -2,7 +2,11 @@
 title: OISE/University of Toronto gets an Open Access policy!
 created_at: 2012-04-24 00:00:00 -0400
 kind: article
-tags: academia/research, libraries, open access, personal
+tags:
+  - academia/research
+  - libraries
+  - open access
+  - personal
 ---
 
 ![OA

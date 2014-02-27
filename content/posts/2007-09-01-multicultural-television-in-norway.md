@@ -2,7 +2,10 @@
 title: Multicultural television in Norway
 created_at: 2007-09-01 00:00:00 -0400
 kind: article
-tags: India, media, movies
+tags:
+  - India
+  - media
+  - movies
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohabbatein.jpg/200px-Mohabbatein.jpg)This

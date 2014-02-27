@@ -2,7 +2,10 @@
 title: "Grading: evaluative or coercive?"
 created_at: Tue, 26 Apr 2011 12:02:00 +0000
 kind: article
-tags: Education, open-education, p2pU
+tags:
+  - Education
+  - open-education
+  - p2pU
 ---
 
 **Introduction**

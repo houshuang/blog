@@ -2,7 +2,8 @@
 title: "OpenEd: Notes from week 8 readings"
 created_at: 2007-10-19 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 Just sharing my personal notes taken while doing the readings. My answer

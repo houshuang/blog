@@ -2,7 +2,8 @@
 title: A career at the UN?
 created_at: Wed, 19 Oct 2004 11:05:00 +0000
 kind: article
-tags: development
+tags:
+  - development
 ---
 
 ![](http://as.wn.com/i/3a/1d3cc0f399e76e.jpg)In my endless search for

@@ -2,7 +2,11 @@
 title: GCCCE 2011 in Hangzhou
 created_at: Tue, 07 Jun 2011 10:36:02 +0000
 kind: article
-tags: academia/research, china, CSCL-intro, Education
+tags:
+  - academia/research
+  - china
+  - CSCL-intro
+  - Education
 ---
 
 ![](http://reganmian.net/blog/wp-content/uploads/2011/06/Screen-shot-2011-06-07-at-6.32.45-PM.png "Screen shot 2011-06-07 at 6.32.45 PM")Last

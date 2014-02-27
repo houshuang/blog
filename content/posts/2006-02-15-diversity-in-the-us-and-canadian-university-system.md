@@ -2,7 +2,9 @@
 title: Diversity in the US and Canadian university system
 created_at: Wed, 15 Feb 2006 16:17:00 +0000
 kind: article
-tags: canada, US
+tags:
+  - canada
+  - US
 ---
 
 ![](http://static.flickr.com/38/86505793_733b4e5d35_m.jpg)While

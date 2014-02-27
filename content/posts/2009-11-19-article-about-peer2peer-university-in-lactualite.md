@@ -2,7 +2,11 @@
 title: "Article about Peer2Peer University in L'Actualit39"
 created_at: Thu, 19 Nov 2009 22:31:34 +0000
 kind: article
-tags: Education, open-education, p2pU, personal
+tags:
+  - Education
+  - open-education
+  - p2pU
+  - personal
 ---
 
 [caption id="attachment\_426" align="alignleft" width="300"

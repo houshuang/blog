@@ -2,7 +2,8 @@
 title: Guess that language
 created_at: Thu, 31 Mar 2011 15:29:22 +0000
 kind: article
-tags: languages
+tags:
+  - languages
 ---
 
 ![](http://farm3.static.flickr.com/2610/3967470806_d3b2ac8e47_m.jpg)I

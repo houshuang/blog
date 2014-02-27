@@ -2,7 +2,10 @@
 title: Workshop on Scholarly Markdown in San Francisco
 created_at: 2013-05-21 19:26:02 -0400
 kind: article
-tags: force11, open access, markdown
+tags:
+  - force11
+  - open access
+  - markdown
 ---
 
 At [Beyond the PDF 2](http://www.force11.org/beyondthepdf2) in Amsterdam, the organizers announced a round of microgrants and asked us to use the hashtag #1k to apply for them. Inspired by [Martin Fenner's blog post](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/), and my own experiments with scholarly authoring, I posted the following:

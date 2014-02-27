@@ -2,7 +2,9 @@
 title: The Hungry Tide
 created_at: Thu, 25 May 2005 05:28:00 +0000
 kind: article
-tags: asia, books
+tags:
+  - asia
+  - books
 ---
 
 **[The Hungry

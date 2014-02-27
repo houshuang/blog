@@ -2,7 +2,9 @@
 title: "Harper Valley PTA/Fru Johnsen/Fr36ken Fredriksson"
 created_at: 2009-12-21 00:00:00 -0500
 kind: article
-tags: languages, media
+tags:
+  - languages
+  - media
 ---
 
 ![](http://www.skolebenken.no/photoalbum/view4/L3Rvb2xzL3Bob3RvYWxidW1fdmlldy9jdXN0b21lci9pbWcvMjgzNS9zbWFsbDFiLzI4MzU3NC5qcGcvQ3JvcC8_eD02Jnk9NyZ3aWR0aD0zNDAmaGVpZ2h0PTQwMw)

@@ -2,7 +2,15 @@
 title: Cathy Casserly to head new OER program at Carnegie Foundation
 created_at: 2009-01-20 00:00:00 -0500
 kind: article
-tags: Carnegie Foundation, David Wiley, Education, MIT Press, Open Content, Open Educational Resources, Open Knowledge, open-education
+tags:
+  - Carnegie Foundation
+  - David Wiley
+  - Education
+  - MIT Press
+  - Open Content
+  - Open Educational Resources
+  - Open Knowledge
+  - open-education
 ---
 
 ![](http://www.hewlett.org/NR/rdonlyres/56C38A4F-7BAB-4BB9-A95D-8F3490BBBAE0/1060/CathyCasserly_resized.jpg)I

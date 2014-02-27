@@ -2,7 +2,10 @@
 title: Comparative Education Review partially opens peer-review
 created_at: 2009-08-30 00:00:00 -0400
 kind: article
-tags: media, open access, personal
+tags:
+  - media
+  - open access
+  - personal
 ---
 
 The electronic publishing and the Open Access movement has led to many

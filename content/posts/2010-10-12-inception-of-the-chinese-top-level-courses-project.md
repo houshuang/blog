@@ -2,7 +2,13 @@
 title: Inception of the Chinese Top Level Courses Project
 created_at: Tue, 12 Oct 2010 17:45:42 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - The Top Level Courses Project
 ---
 
 After discussing the historical background for Chinese higher education

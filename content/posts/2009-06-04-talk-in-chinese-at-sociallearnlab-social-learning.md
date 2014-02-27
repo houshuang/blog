@@ -2,7 +2,13 @@
 title: "Talk in Chinese at SocialLearnlab: Social Learning"
 created_at: Thu, 04 Jun 2009 07:50:25 +0000
 kind: article
-tags: china, events, open access, open-education, p2pU, personal
+tags:
+  - china
+  - events
+  - open access
+  - open-education
+  - p2pU
+  - personal
 ---
 
 [SocialLearnLab](http://sociallearnlab.org/) (or 教育大发现, which is

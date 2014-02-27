@@ -2,7 +2,8 @@
 title: Bookmarklet for MyAccess, UofT libraries
 created_at: 2006-03-31 00:00:00 -0500
 kind: article
-tags: canada
+tags:
+  - canada
 ---
 
 I really should be studying, but I made my first bookmarklet. The

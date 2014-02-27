@@ -2,7 +2,8 @@
 title: Git, Gitorious.org and Zip-doc (offline Wikipedia)
 created_at: 2008-03-07 00:00:00 -0500
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 ![](http://lh3.google.com/shaklev/R9HuVyFSuWI/AAAAAAAABWA/7QkI1IQbt_w/8c09949d_overview)When

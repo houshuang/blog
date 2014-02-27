@@ -2,7 +2,17 @@
 title: Making Open Access articles much more visible, automatically
 created_at: 2013-01-25 00:00:00 -0500
 kind: article
-tags: academia/research, bibtex, FORCE11, metadata, open access, pdf, Researchr, semantic, tech, zotero
+tags:
+  - academia/research
+  - bibtex
+  - FORCE11
+  - metadata
+  - open access
+  - pdf
+  - Researchr
+  - semantic
+  - tech
+  - zotero
 ---
 
 [![OA-padlock\_oaig-pic1 ](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)](http://reganmian.net/blog/wp-content/uploads/2013/01/OA-padlock_oaig-pic11.jpg)In

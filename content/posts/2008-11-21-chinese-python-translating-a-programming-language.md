@@ -2,7 +2,8 @@
 title: "Chinese Python: Translating a programming language"
 created_at: 2008-11-21 00:00:00 -0500
 kind: article
-tags: china
+tags:
+  - china
 ---
 
 ![example of Python

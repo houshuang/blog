@@ -2,7 +2,9 @@
 title: Sore di Tugu Pancoran, Iwan Fals
 created_at: Tue, 01 Apr 2008 21:09:00 +0000
 kind: article
-tags: asia, personal
+tags:
+  - asia
+  - personal
 ---
 
 [This mp3](http://www.filestube.com/f5b70bd6cbc006a303ea/go.html)

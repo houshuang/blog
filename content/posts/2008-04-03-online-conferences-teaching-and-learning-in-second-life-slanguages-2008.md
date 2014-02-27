@@ -2,7 +2,8 @@
 title: Online conferences, teaching and learning in Second Life, SLanguages 2008
 created_at: Thu, 03 Apr 2008 20:17:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [![](http://farm1.static.flickr.com/71/154069085_df076ac35e_m.jpg)](http://www.flickr.com/photos/97303475@N00/154069085/)**Hybrid

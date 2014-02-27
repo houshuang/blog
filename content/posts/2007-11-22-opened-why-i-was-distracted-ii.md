@@ -2,7 +2,8 @@
 title: "OpenEd: Why I was distracted II"
 created_at: 2007-11-22 00:00:00 -0500
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 ![](http://farm1.static.flickr.com/79/241882694_52eb61059d_m.jpg)The

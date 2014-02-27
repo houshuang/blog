@@ -2,7 +2,10 @@
 title: Connectivism and transculturality -- notes from a talk by Stephen Downes
 created_at: 2010-05-16 00:00:00 -0400
 kind: article
-tags: Education, open-education, p2pU
+tags:
+  - Education
+  - open-education
+  - p2pU
 ---
 
 Stephen Downes recently gave a talk in Argentina (at the same time as I

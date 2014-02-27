@@ -2,7 +2,10 @@
 title: Online tools and the Burma protests
 created_at: 2007-09-30 00:00:00 -0400
 kind: article
-tags: asia, politics, tech
+tags:
+  - asia
+  - politics
+  - tech
 ---
 
 ![](http://farm2.static.flickr.com/1076/1459528678_beb7604333_m.jpg)I

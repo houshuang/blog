@@ -2,7 +2,8 @@
 title: Link-helper for Markdown, using Google Chrome history and other sources
 created_at: Thu, 28 Mar 2013 15:18:11 +0000
 kind: article
-tags: tech
+tags:
+  - tech
 ---
 
 [![ links-density](http://reganmian.net/blog/wp-content/uploads/2013/03/links-density.png)](http://reganmian.net/blog/wp-content/uploads/2013/03/links-density.png)

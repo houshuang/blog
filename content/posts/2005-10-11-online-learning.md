@@ -2,7 +2,8 @@
 title: Online learning
 created_at: Tue, 11 Oct 2005 18:12:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 Right now I am sitting in the library the University of Buffalo

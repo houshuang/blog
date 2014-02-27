@@ -2,7 +2,12 @@
 title: Effects of the Top Level Courses Project for institutions
 created_at: Fri, 29 Oct 2010 15:23:34 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - The Top Level Courses Project
 ---
 
 When discussing the effects of the Top Level Courses Project with

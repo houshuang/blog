@@ -2,7 +2,8 @@
 title: Is your course schedule full yet? Some great offerings (Wiley wikis)
 created_at: Sun, 20 Jul 2008 16:32:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 When I took Wiley’s course [Intro to Open

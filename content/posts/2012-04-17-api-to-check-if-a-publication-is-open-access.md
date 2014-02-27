@@ -2,7 +2,10 @@
 title: API to check if a publication is "Open Access"
 created_at: Tue, 17 Apr 2012 17:52:01 +0000
 kind: article
-tags: academia/research, open access, tech
+tags:
+  - academia/research
+  - open access
+  - tech
 ---
 
 **Two perspectives on Open Access promotion**

@@ -2,7 +2,12 @@
 title: "CC Bait and Switch Update: e-Century responds"
 created_at: 2010-05-03 00:00:00 -0400
 kind: article
-tags: cc, creative commons, e-century, open access, p2pU
+tags:
+  - cc
+  - creative commons
+  - e-century
+  - open access
+  - p2pU
 ---
 
 After I wrote my [last blog

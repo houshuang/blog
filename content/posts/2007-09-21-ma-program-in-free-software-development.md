@@ -2,7 +2,8 @@
 title: MA program in free software development
 created_at: 2007-09-21 00:00:00 -0400
 kind: article
-tags: India
+tags:
+  - India
 ---
 
 So, I am back in Toronto - have been for about two weeks, but am still

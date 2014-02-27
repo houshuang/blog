@@ -3,7 +3,10 @@ title: Likert-graphs in R, embedding metadata for easier plotting
 created_at: 2013-10-02 14:49:05 -0400
 kind: article
 location: Toronto, Canada
-tags: R, tech, statistics
+tags:
+  - R
+  - tech
+  - statistics
 ---
 I've been working a lot with questionnaire data in R lately. Some are large MOOC-questionnaires with up to 20,000 respondents, others are in-class surveys with 30-250 respondents, where we have to type or scan in the response sheets. However, once it comes to data cleanup and analysis, there is not much difference between 30 and 20,000 respondents. Here's an example of a section of a recent survey we distributed to around 600 undergraduates in history and religion:
 

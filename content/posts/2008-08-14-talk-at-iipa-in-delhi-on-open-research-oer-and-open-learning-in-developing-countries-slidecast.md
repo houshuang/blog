@@ -2,7 +2,9 @@
 title: Talk at IIPA in Delhi on open research, OER and open learning in developing countries (slidecast)
 created_at: Thu, 14 Aug 2008 14:24:00 +0000
 kind: article
-tags: china, India
+tags:
+  - china
+  - India
 ---
 
 I was lucky enough to be invited to give a talk at Indian Institute of

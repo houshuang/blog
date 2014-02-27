@@ -3,7 +3,9 @@ title: "Blogging with Nanoc: Easy workflow for embedding images"
 created_at: 2013-10-02 18:16:38 -0400
 kind: article
 location: Toronto, Canada
-tags: tech, nanoc
+tags:
+  - tech
+  - nanoc
 ---
 
 [![nanoc ](/blog/images/2013-10-02-blogging-with-nanoc-easy-workflow-for-embedding-images_-_half-02.png)](http://nanoc.ws/)

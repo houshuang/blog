@@ -2,7 +2,12 @@
 title: Case studies of applying for the Top Level Courses designation
 created_at: Wed, 27 Oct 2010 15:23:36 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - The Top Level Courses Project
 ---
 
 *In my [previous

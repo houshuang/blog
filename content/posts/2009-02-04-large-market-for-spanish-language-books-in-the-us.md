@@ -2,7 +2,20 @@
 title: Large market for Spanish-language books in the US
 created_at: Wed, 04 Feb 2009 22:15:19 +0000
 kind: article
-tags: books, canada, Da Vinci Code, Dan Brown, English language, languages, latin america, Latino, libraries, Spanish language, toronto, United States, US
+tags:
+  - books
+  - canada
+  - Da Vinci Code
+  - Dan Brown
+  - English language
+  - languages
+  - latin america
+  - Latino
+  - libraries
+  - Spanish language
+  - toronto
+  - United States
+  - US
 ---
 
 I love seeing material in multiple languages, even languages I don't

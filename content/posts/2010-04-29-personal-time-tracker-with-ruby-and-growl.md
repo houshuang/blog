@@ -2,7 +2,14 @@
 title: Personal time tracker with Ruby and Growl
 created_at: Thu, 29 Apr 2010 18:02:54 +0000
 kind: article
-tags: data driven, growl, personal, ruby, self-experimentation, tech, time tracker
+tags:
+  - data driven
+  - growl
+  - personal
+  - ruby
+  - self-experimentation
+  - tech
+  - time tracker
 ---
 
 **Introduction**

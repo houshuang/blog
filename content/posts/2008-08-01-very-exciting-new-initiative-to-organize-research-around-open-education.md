@@ -2,7 +2,8 @@
 title: "Very exciting new initiative to organize research around open education "
 created_at: Fri, 01 Aug 2008 22:24:13 +0000
 kind: article
-tags: open-education
+tags:
+  - open-education
 ---
 
 I came across an initiative that made me very excited last night. Linked

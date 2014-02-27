@@ -2,7 +2,9 @@
 title: "Mexico City, UNAM, Hunger, Butterflies"
 created_at: Thu, 25 May 2005 05:59:00 +0000
 kind: article
-tags: books, personal
+tags:
+  - books
+  - personal
 ---
 
 ***Some tidbits:***

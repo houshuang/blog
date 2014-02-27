@@ -2,7 +2,8 @@
 title: Mass tertiary education in the developing world
 created_at: Wed, 14 Nov 2007 19:56:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 I am currently preparing to give a lecture on open education and global

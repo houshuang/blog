@@ -2,7 +2,8 @@
 title: Learning languages, working abroad in international development
 created_at: Tue, 22 Jan 2008 18:41:00 +0000
 kind: article
-tags: languages
+tags:
+  - languages
 ---
 
 This is a hand-out that a friend and I put together for a retreat this

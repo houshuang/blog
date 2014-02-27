@@ -2,7 +2,14 @@
 title: Commercial ecosystem around Chinese Top Level Courses
 created_at: Fri, 26 Nov 2010 15:03:40 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, tech, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - tech
+  - The Top Level Courses Project
 ---
 
 Over the years since the Top Level Courses Project was launched in 2003,

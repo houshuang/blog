@@ -2,7 +2,11 @@
 title: The Virtual University of Pakistan has 6,000 hours of video lectures on Youtube
 created_at: Fri, 21 May 2010 15:05:38 +0000
 kind: article
-tags: Education, languages, open-education, p2pU
+tags:
+  - Education
+  - languages
+  - open-education
+  - p2pU
 ---
 
 I find distance universities very fascinating, and have learnt much from

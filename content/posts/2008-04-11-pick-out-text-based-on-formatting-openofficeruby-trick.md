@@ -2,7 +2,9 @@
 title: Pick out text based on formatting, OpenOffice/Ruby trick
 created_at: Fri, 11 Apr 2008 15:12:00 +0000
 kind: article
-tags: personal, tech
+tags:
+  - personal
+  - tech
 ---
 
 I am currently finishing up my research on community libraries in

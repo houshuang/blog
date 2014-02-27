@@ -2,7 +2,8 @@
 title: "OpenEd: Week 9, Wikinomics"
 created_at: 2007-10-28 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [![](http://ecx.images-amazon.com/images/I/51M9MTN5QFL._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_OU01_AA240_SH20_.jpg)](http://www.amazon.com/Wikinomics-Mass-Collaboration-Changes-Everything/dp/1591841380/ref=pd_bbs_sr_1/002-7721236-6845635?ie=UTF8&s=books&qid=1193626583&sr=8-1)It

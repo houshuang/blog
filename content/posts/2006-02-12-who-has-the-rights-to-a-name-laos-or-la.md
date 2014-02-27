@@ -2,7 +2,11 @@
 title: Who has the rights to a name? Laos or L.A.?
 created_at: 2006-02-12 00:00:00 -0500
 kind: article
-tags: asia, politics, tech, US
+tags:
+  - asia
+  - politics
+  - tech
+  - US
 ---
 
 ![](http://www.appliedlanguage.com/flags_of_the_world/medium_flag_of_laos.gif)This

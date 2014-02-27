@@ -2,7 +2,12 @@
 title: "All the raw notes from my MA thesis: Chinese National Top Level Courses"
 created_at: Wed, 18 May 2011 07:01:00 +0000
 kind: article
-tags: academia/research, Education, MA thesis, open access, The Top Level Courses Project
+tags:
+  - academia/research
+  - Education
+  - MA thesis
+  - open access
+  - The Top Level Courses Project
 ---
 
 I completed my MA thesis on the Chinese National Top Level Courses

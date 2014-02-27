@@ -2,7 +2,8 @@
 title: More thoughts on Indonesian project to buy copyrights
 created_at: Mon, 07 Apr 2008 18:01:00 +0000
 kind: article
-tags: books
+tags:
+  - books
 ---
 
 *(Background

@@ -2,7 +2,13 @@
 title: Tweets from OAI6 on Open Access in Geneva
 created_at: Fri, 19 Jun 2009 22:24:48 +0000
 kind: article
-tags: elpub09, events, oai6, open access, personal, twitter
+tags:
+  - elpub09
+  - events
+  - oai6
+  - open access
+  - personal
+  - twitter
 ---
 
 So my European travels are drawing towards an end. Lot's of new

@@ -2,7 +2,10 @@
 title: ePub version of MA thesis
 created_at: 2010-09-15 00:00:00 -0400
 kind: article
-tags: MA thesis, open access, tech
+tags:
+  - MA thesis
+  - open access
+  - tech
 ---
 
 I have been thinking a lot about what would be the ideal file format for

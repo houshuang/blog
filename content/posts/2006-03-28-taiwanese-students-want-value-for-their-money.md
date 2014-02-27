@@ -2,7 +2,8 @@
 title: Taiwanese students want value for their money
 created_at: Tue, 28 Mar 2006 17:24:00 +0000
 kind: article
-tags: asia
+tags:
+  - asia
 ---
 
 [![](http://houshuang.org/blog/files/pizzahutsalad.jpg)](http://www.start.com.my/blog/maximizing-your-roi-at-pizza-hut/#more-421)I

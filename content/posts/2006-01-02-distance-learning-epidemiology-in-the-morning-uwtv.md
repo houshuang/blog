@@ -2,7 +2,9 @@
 title: "Distance learning, epidemiology in the morning: UWTV"
 created_at: Mon, 02 Jan 2006 14:05:00 +0000
 kind: article
-tags: open-education, US
+tags:
+  - open-education
+  - US
 ---
 
 I have written before about access to education, distance learning and

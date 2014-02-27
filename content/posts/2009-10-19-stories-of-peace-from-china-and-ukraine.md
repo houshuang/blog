@@ -2,7 +2,9 @@
 title: Stories of peace, from China and Ukraine
 created_at: 2009-10-19 00:00:00 -0400
 kind: article
-tags: china, movies
+tags:
+  - china
+  - movies
 ---
 
 I think it is funny how people often laugh at Youtube and other video

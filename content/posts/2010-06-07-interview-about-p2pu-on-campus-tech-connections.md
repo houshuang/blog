@@ -2,7 +2,11 @@
 title: Interview about P2PU on Campus Tech Connections
 created_at: 2010-06-07 00:00:00 -0400
 kind: article
-tags: Education, open-education, p2pU, personal
+tags:
+  - Education
+  - open-education
+  - p2pU
+  - personal
 ---
 
 As I wrote

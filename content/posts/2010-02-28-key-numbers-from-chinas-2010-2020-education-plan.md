@@ -2,7 +2,12 @@
 title: Key numbers from China's 2010-2020 education plan
 created_at: 2010-02-28 00:00:00 -0500
 kind: article
-tags: china, chinese higher education, Education, "59B564899569C9F695998822694999D95928C58F915195878458892728681", "6959988228C 6959988229838"
+tags:
+  - china
+  - chinese higher education
+  - Education
+  - "59B564899569C9F695998822694999D95928C58F915195878458892728681"
+  - "6959988228C 6959988229838"
 ---
 
 In 2001, I spent a year teaching English in Wuhan University of Science

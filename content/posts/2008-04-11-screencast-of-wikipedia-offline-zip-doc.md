@@ -2,7 +2,8 @@
 title: Screencast of Wikipedia offline (zip-doc)
 created_at: Fri, 11 Apr 2008 16:33:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 I have mentioned my Wikipedia Offline project before

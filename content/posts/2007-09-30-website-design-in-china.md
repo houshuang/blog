@@ -2,7 +2,9 @@
 title: Website design in China
 created_at: 2007-09-30 00:00:00 -0400
 kind: article
-tags: china, tech
+tags:
+  - china
+  - tech
 ---
 
 ![image ](/blog/images/sina.png)

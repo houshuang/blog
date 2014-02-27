@@ -2,7 +2,8 @@
 title: "Call to anthropologists: Make positive proposals"
 created_at: 2006-03-15 00:00:00 -0500
 kind: article
-tags: development
+tags:
+  - development
 ---
 
 ![](http://static.flickr.com/37/79458714_8629b8e281_m.jpg)I have long

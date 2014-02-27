@@ -2,7 +2,12 @@
 title: Youtube lovefest
 created_at: Sat, 15 May 2010 07:06:40 +0000
 kind: article
-tags: media, movies, open access, personal, travel
+tags:
+  - media
+  - movies
+  - open access
+  - personal
+  - travel
 ---
 
 This weekend, I have three [couchsurfers](http://couchsurfing.org) from

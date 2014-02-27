@@ -2,7 +2,10 @@
 title: "Knowledge building: theory, pedagogy and technology"
 created_at: Tue, 17 May 2011 13:25:43 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
 ---
 
 ![](http://webkf.fse.ulaval.ca:8080/image/knowledge_forum_panel.jpg)In

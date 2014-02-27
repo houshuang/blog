@@ -2,7 +2,8 @@
 title: "Indonesian dictionary/mouseover: Terbang Dengan Bahasa Indonesia"
 created_at: Wed, 03 May 2006 14:03:00 +0000
 kind: article
-tags: asia
+tags:
+  - asia
 ---
 
 ![ bahasa](http://reganmian.net/files/uploads/Bahasa.png)

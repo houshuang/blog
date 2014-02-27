@@ -2,7 +2,9 @@
 title: Weekly review April 8, 2012
 created_at: 2012-04-08 00:00:00 -0400
 kind: article
-tags: academia/research, personal
+tags:
+  - academia/research
+  - personal
 ---
 
 I've been really inspired by Ryan Muller's ["weekly

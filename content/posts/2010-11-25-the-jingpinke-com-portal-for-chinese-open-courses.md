@@ -2,7 +2,15 @@
 title: The Jingpinke.com Portal for Chinese open courses
 created_at: 2010-11-25 00:00:00 -0500
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, plenk2010, tech, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - plenk2010
+  - tech
+  - The Top Level Courses Project
 ---
 
 Initially there were no easy ways of finding out about the Chinese open

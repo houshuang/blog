@@ -2,7 +2,8 @@
 title: Delete the Public Space
 created_at: 2005-06-30 00:00:00 -0400
 kind: article
-tags: europe
+tags:
+  - europe
 ---
 
 [![](http://typographi.com/art/articles/delete-th.jpg)](http://typographi.com/001013.php)A

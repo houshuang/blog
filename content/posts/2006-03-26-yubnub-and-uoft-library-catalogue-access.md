@@ -2,7 +2,8 @@
 title: YubNub and UofT library catalogue access
 created_at: 2006-03-26 00:00:00 -0500
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 ![](http://yubutils.sourceforge.net/images/logo.jpg)[YubNub](http://en.wikipedia.org/wiki/YubNub)

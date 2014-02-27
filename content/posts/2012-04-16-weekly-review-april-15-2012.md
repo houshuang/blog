@@ -2,7 +2,9 @@
 title: Weekly review April 15, 2012
 created_at: 2012-04-16 00:00:00 -0400
 kind: article
-tags: academia/research, personal
+tags:
+  - academia/research
+  - personal
 ---
 
 I began last week to do a "[weekly

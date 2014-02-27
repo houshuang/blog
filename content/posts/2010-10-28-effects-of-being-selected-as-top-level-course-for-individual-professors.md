@@ -2,7 +2,13 @@
 title: Effects of being selected as Top Level Course for individual professors
 created_at: Thu, 28 Oct 2010 15:44:13 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - The Top Level Courses Project
 ---
 
 *In my [previous

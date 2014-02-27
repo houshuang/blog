@@ -2,7 +2,14 @@
 title: Chinese translation of MA thesis on Top Level Courses available
 created_at: 2011-06-01 00:00:00 -0400
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, personal, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - personal
+  - The Top Level Courses Project
 ---
 
 I am really happy to finally announce that the full Chinese translation

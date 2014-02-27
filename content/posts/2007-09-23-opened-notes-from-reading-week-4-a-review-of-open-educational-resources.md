@@ -2,7 +2,8 @@
 title: "OpenEd: Notes from reading week 4, A Review of Open Educational Resources"
 created_at: 2007-09-23 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [A Review of the Open Educational Resources (OER) Movement:

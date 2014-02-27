@@ -2,7 +2,17 @@
 title: Textbooks for Virtual University of Pakistan / OER for International Understanding
 created_at: 2010-05-22 00:00:00 -0400
 kind: article
-tags: Education, international, islam, languages, ocw, oer, open access, open-education, p2pU, virtual university of pakistan
+tags:
+  - Education
+  - international
+  - islam
+  - languages
+  - ocw
+  - oer
+  - open access
+  - open-education
+  - p2pU
+  - virtual university of pakistan
 ---
 
 I am currently listening to the [Introduction to

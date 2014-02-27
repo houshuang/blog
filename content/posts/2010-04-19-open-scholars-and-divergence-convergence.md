@@ -2,7 +2,24 @@
 title: Open Scholars and Divergence/Convergence, Groups/Networks
 created_at: 2010-04-19 00:00:00 -0400
 kind: article
-tags: carl bereiter, connectivism, edfuture, edfutures, Education, george siemens, knowledge building, knowledge forum, marlene scardamalia, oer, oise, open-education, openlearn, openscholar, p2pU, personal, stephen downes
+tags:
+  - carl bereiter
+  - connectivism
+  - edfuture
+  - edfutures
+  - Education
+  - george siemens
+  - knowledge building
+  - knowledge forum
+  - marlene scardamalia
+  - oer
+  - oise
+  - open-education
+  - openlearn
+  - openscholar
+  - p2pU
+  - personal
+  - stephen downes
 ---
 
 **Preparing for a course** 

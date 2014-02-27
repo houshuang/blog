@@ -2,7 +2,12 @@
 title: Open Education - lecture in Chinese at South China Normal University
 created_at: Mon, 27 Apr 2009 08:15:43 +0000
 kind: article
-tags: china, events, open access, open-education, personal
+tags:
+  - china
+  - events
+  - open access
+  - open-education
+  - personal
 ---
 
 This summer, I am spending four months in China, and much of the time

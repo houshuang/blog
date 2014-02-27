@@ -2,7 +2,8 @@
 title: Abbrevations
 created_at: 2005-08-02 00:00:00 -0400
 kind: article
-tags: US
+tags:
+  - US
 ---
 
 Just a quickie:

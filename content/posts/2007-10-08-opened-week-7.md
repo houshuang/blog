@@ -2,7 +2,8 @@
 title: "OpenEd: Week 7"
 created_at: Mon, 08 Oct 2007 23:54:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 A friend is coming to visit me this week, so I will finish next week’s

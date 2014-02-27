@@ -2,7 +2,19 @@
 title: "Open Education Videos around the world: The Making Of"
 created_at: Mon, 16 Mar 2009 16:07:45 +0000
 kind: article
-tags: china, events, India, international, languages, movies, ocw, oer, open-education, personal, tech, video
+tags:
+  - china
+  - events
+  - India
+  - international
+  - languages
+  - movies
+  - ocw
+  - oer
+  - open-education
+  - personal
+  - tech
+  - video
 ---
 
 **Background**

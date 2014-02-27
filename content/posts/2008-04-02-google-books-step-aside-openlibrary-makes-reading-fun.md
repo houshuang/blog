@@ -2,7 +2,8 @@
 title: Google Books step aside - OpenLibrary makes reading fun
 created_at: Wed, 02 Apr 2008 18:31:00 +0000
 kind: article
-tags: books
+tags:
+  - books
 ---
 
 [![](http://farm1.static.flickr.com/134/352573802_8f202edf53_m.jpg)](http://www.flickr.com/photos/23341397@N00/352573802/)**Google

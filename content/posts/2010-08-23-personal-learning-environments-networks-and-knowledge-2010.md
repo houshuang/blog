@@ -2,7 +2,12 @@
 title: Personal Learning Environments Networks and Knowledge 2010
 created_at: Mon, 23 Aug 2010 21:44:03 +0000
 kind: article
-tags: academia/research, Education, open-education, p2pU, plenk2010
+tags:
+  - academia/research
+  - Education
+  - open-education
+  - p2pU
+  - plenk2010
 ---
 
 The untiring Stephen Downes has a new course coming up, ["Personal

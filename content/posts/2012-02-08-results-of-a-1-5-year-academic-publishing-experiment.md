@@ -2,7 +2,12 @@
 title: Results of a 1.5 year academic publishing experiment
 created_at: Wed, 08 Feb 2012 21:36:01 +0000
 kind: article
-tags: academia/research, china, libraries, MA thesis, tech
+tags:
+  - academia/research
+  - china
+  - libraries
+  - MA thesis
+  - tech
 ---
 
 ![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.01.521.png)I

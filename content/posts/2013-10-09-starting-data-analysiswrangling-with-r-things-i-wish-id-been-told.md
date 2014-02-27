@@ -4,7 +4,10 @@ created_at: 2013-10-09 18:17:31 -0400
 kind: article
 location: Toronto, Canada
 status: draft
-tags: tech, R, statistics
+tags:
+  - tech
+  - R
+  - statistics
 ---
 
 **Note: This is an unfinished draft, and wasn't intended to be published yet (I clearly need to play with my nanoc settings). I hope you still find it useful, but it will become longer/more complete, and will move to http://reganmian.net/blog/2013/10/09/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/ (without the /draft/).**

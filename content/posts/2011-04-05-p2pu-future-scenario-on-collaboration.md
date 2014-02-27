@@ -2,7 +2,11 @@
 title: P2PU Future Scenario on Collaboration
 created_at: Tue, 05 Apr 2011 20:54:06 +0000
 kind: article
-tags: academia/research, Education, open-education, p2pU
+tags:
+  - academia/research
+  - Education
+  - open-education
+  - p2pU
 ---
 
 This term, I took a [Knowledge Media and Design

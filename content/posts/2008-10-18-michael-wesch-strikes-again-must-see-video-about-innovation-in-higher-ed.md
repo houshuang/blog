@@ -2,7 +2,8 @@
 title: Michael Wesch strikes again - must see video about innovation in higher ed
 created_at: Sat, 18 Oct 2008 20:33:00 +0000
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 ![](http://andymee.files.wordpress.com/2008/08/michael_wesch.jpg)I’ve

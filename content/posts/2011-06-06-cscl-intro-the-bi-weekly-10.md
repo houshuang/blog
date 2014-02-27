@@ -2,7 +2,9 @@
 title: "CSCL-intro the Bi-Weekly #10"
 created_at: Mon, 06 Jun 2011 13:19:05 +0000
 kind: article
-tags: CSCL-intro, Education
+tags:
+  - CSCL-intro
+  - Education
 ---
 
 Welcome back. Sorry that we are slightly behind on the bi-weeklies, but

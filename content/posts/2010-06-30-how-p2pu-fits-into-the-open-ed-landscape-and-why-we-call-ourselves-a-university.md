@@ -2,7 +2,10 @@
 title: How P2PU fits into the open ed landscape, and why we call ourselves a university
 created_at: Wed, 30 Jun 2010 12:04:16 +0000
 kind: article
-tags: Education, open-education, p2pU
+tags:
+  - Education
+  - open-education
+  - p2pU
 ---
 
 ***Recently there was a discussion on a [P2PU](http://p2pu.org) mailing

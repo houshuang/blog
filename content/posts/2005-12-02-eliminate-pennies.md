@@ -2,7 +2,9 @@
 title: Eliminate pennies
 created_at: Fri, 02 Dec 2005 19:12:00 +0000
 kind: article
-tags: canada, economics
+tags:
+  - canada
+  - economics
 ---
 
 ![](http://www.discoversimcoe.com/images/tourism-misc/Canadian_Cent_rev.jpg)Ever

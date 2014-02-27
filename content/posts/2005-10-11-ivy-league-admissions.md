@@ -2,7 +2,9 @@
 title: Ivy League admissions
 created_at: Tue, 11 Oct 2005 17:43:00 +0000
 kind: article
-tags: economics, US
+tags:
+  - economics
+  - US
 ---
 
 In an [interesting article in the New

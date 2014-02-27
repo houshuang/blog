@@ -2,7 +2,11 @@
 title: Identity rap from Norwegian-Egyptian
 created_at: 2009-10-28 00:00:00 -0400
 kind: article
-tags: europe, media, personal, politics
+tags:
+  - europe
+  - media
+  - personal
+  - politics
 ---
 
 ![KarpeDiem](http://reganmian.net/blog/wp-content/uploads/2009/10/KarpeDiem.jpg "KarpeDiem")As

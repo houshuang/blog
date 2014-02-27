@@ -2,7 +2,11 @@
 title: "Ethiotube: you a tube, me a tube, everyone a tube-tube"
 created_at: 2008-04-10 00:00:00 -0400
 kind: article
-tags: africa, languages, media, tech
+tags:
+  - africa
+  - languages
+  - media
+  - tech
 ---
 
 I’ve posted some [great Amharic dance

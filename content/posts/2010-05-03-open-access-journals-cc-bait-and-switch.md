@@ -2,7 +2,13 @@
 title: "Open Access Journals: CC Bait and Switch?"
 created_at: Mon, 03 May 2010 14:58:32 +0000
 kind: article
-tags: cc, creative commons, open access, open access journals, open licenses, p2pU
+tags:
+  - cc
+  - creative commons
+  - open access
+  - open access journals
+  - open licenses
+  - p2pU
 ---
 
 I'm currently doing some surveying of the Open Access publishing

@@ -2,7 +2,9 @@
 title: "Taiwan: A Political History"
 created_at: Tue, 25 Apr 2005 07:13:00 +0000
 kind: article
-tags: asia, books
+tags:
+  - asia
+  - books
 ---
 
 ![Taiwan cover

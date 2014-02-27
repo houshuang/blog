@@ -2,7 +2,8 @@
 title: Reading MIT OCW Case Studies and Evaluation Report
 created_at: 2007-09-27 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 As noted in my OpenEd 4 submission, I really wanted to read the [MIT OCW

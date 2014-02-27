@@ -2,7 +2,9 @@
 title: GMaps, buses, open apis
 created_at: Thu, 30 Jun 2005 20:30:00 +0000
 kind: article
-tags: opensource, tech
+tags:
+  - opensource
+  - tech
 ---
 
 ItÂ´s already been noted by for exampel Google and Flickr that opening

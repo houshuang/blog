@@ -2,7 +2,12 @@
 title: OpenLibrary and Universal Library, guys work together!
 created_at: Sun, 03 Aug 2008 15:23:00 +0000
 kind: article
-tags: books, china, India, languages, libraries
+tags:
+  - books
+  - china
+  - India
+  - languages
+  - libraries
 ---
 
 ![](http://openlibrary.org/static/logos/logo-en.png)**The OpenLibrary\

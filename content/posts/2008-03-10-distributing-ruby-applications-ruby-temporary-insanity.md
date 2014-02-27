@@ -2,7 +2,9 @@
 title: Distributing Ruby applications, Ruby temporary insanity
 created_at: 2008-03-10 00:00:00 -0400
 kind: article
-tags: personal, tech
+tags:
+  - personal
+  - tech
 ---
 
 [![](http://farm1.static.flickr.com/108/314184695_ea6a1b6284_m.jpg)](http://www.flickr.com/photos/60648084@N00/314184695/)I

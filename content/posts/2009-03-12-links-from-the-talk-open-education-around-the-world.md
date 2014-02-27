@@ -2,7 +2,11 @@
 title: Links from the talk Open education around the world
 created_at: Thu, 12 Mar 2009 19:29:33 +0000
 kind: article
-tags: events, open-education, p2pU, personal
+tags:
+  - events
+  - open-education
+  - p2pU
+  - personal
 ---
 
 I gave a presentation at [OISE Education

@@ -2,7 +2,8 @@
 title: "OpenEd: Week 4"
 created_at: 2007-09-23 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 **![](http://lh5.google.com/shaklev/Re-GOWBMd2I/AAAAAAAAAj4/BQ43oXTDDEc/s288/P2220014.jpg)QUESTIONS:

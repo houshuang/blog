@@ -2,7 +2,10 @@
 title: Indian reactions to the Beijing Olympics Opening Ceremony
 created_at: 2008-08-10 00:00:00 -0400
 kind: article
-tags: china, India, media
+tags:
+  - china
+  - India
+  - media
 ---
 
 ![](http://farm4.static.flickr.com/3069/2747250382_1d21e64e30_m.jpg)I

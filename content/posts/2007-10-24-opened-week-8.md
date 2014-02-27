@@ -2,7 +2,8 @@
 title: "OpenEd: Week 8"
 created_at: 2007-10-24 00:00:00 -0400
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [Common Wisdom: Peer Production of Educational

@@ -2,7 +2,8 @@
 title: "From China: Rabbis, cheating cadres and Uyghur music videos"
 created_at: Sun, 09 Apr 2006 22:50:00 +0000
 kind: article
-tags: china
+tags:
+  - china
 ---
 
 A lot of tech talk lately, but here is some interesting stuff from

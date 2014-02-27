@@ -2,7 +2,12 @@
 title: How to restore your hacked WordPress database from Google Cache through Ruby
 created_at: 2009-01-11 00:00:00 -0500
 kind: article
-tags: Application programming interface, personal, tech, TextMate, WordPress
+tags:
+  - Application programming interface
+  - personal
+  - tech
+  - TextMate
+  - WordPress
 ---
 
 So my website [got

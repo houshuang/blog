@@ -2,7 +2,13 @@
 title: "Open Courses done right: Saylor Foundation"
 created_at: Fri, 25 Mar 2011 19:19:34 +0000
 kind: article
-tags: academia/research, Education, open access, open-education, p2pU, plenk2010
+tags:
+  - academia/research
+  - Education
+  - open access
+  - open-education
+  - p2pU
+  - plenk2010
 ---
 
 **[](http://reganmian.net/blog/wp-content/uploads/2011/03/Screen-shot-2011-03-25-at-2.46.49-PM.png)Existing

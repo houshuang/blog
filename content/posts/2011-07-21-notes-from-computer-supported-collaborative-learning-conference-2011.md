@@ -2,7 +2,12 @@
 title: Notes from Computer-Supported Collaborative Learning conference 2011
 created_at: 2011-07-21 00:00:00 -0400
 kind: article
-tags: academia/research, CSCL-intro, Education, open-education, p2pU
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
+  - open-education
+  - p2pU
 ---
 
 [![](http://reganmian.net/blog/wp-content/uploads/2011/07/Screen-Shot-2011-07-22-at-12.48.10-.png "Screen Shot 2011-07-22 at 12.48.10")](http://reganmian.net/blog/wp-content/uploads/2011/07/Screen-Shot-2011-07-22-at-12.48.10-.png)This

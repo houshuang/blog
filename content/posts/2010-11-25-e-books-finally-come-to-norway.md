@@ -2,7 +2,10 @@
 title: Ebooks finally come to Norway
 created_at: 2010-11-25 00:00:00 -0500
 kind: article
-tags: books, libraries, tech
+tags:
+  - books
+  - libraries
+  - tech
 ---
 
 I've been waiting for this moment for quite a long time. Living outside

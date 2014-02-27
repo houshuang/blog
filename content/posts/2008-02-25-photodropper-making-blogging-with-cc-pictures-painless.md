@@ -2,7 +2,8 @@
 title: PhotoDropper - making blogging with CC pictures painless
 created_at: 2008-02-25 00:00:00 -0500
 kind: article
-tags: []
+tags:
+  - []
 ---
 
 [![](http://farm3.static.flickr.com/2154/2292346266_6e36b36bbb_m.jpg)](http://www.flickr.com/photos/38729188@N00/2292346266/)This

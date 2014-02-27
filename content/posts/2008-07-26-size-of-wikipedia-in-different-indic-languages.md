@@ -2,7 +2,8 @@
 title: Size of Wikipedia in different Indic languages
 created_at: Sat, 26 Jul 2008 14:45:00 +0000
 kind: article
-tags: India
+tags:
+  - India
 ---
 
 ![ wikipedia-logo](http://bachodi.files.wordpress.com/2007/07/wikipedia.jpg)Preparing

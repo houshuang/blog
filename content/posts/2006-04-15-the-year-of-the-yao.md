@@ -2,7 +2,9 @@
 title: The Year of the Yao
 created_at: Sat, 15 Apr 2006 16:31:00 +0000
 kind: article
-tags: media, US
+tags:
+  - media
+  - US
 ---
 
 *Update: I removed the inline-link to the trailer, since it didn’t look

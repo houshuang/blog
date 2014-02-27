@@ -2,7 +2,18 @@
 title: "Tweets from Critical Point of View: WikiWars conference in Bangalore"
 created_at: Thu, 14 Jan 2010 14:27:28 +0000
 kind: article
-tags: bangalore, center for internet and society, cis, cpov, events, India, open access, tech, twitter, wikipedia, wikiwars
+tags:
+  - bangalore
+  - center for internet and society
+  - cis
+  - cpov
+  - events
+  - India
+  - open access
+  - tech
+  - twitter
+  - wikipedia
+  - wikiwars
 ---
 
 I am just back from Bangalore, where I had the good fortune to

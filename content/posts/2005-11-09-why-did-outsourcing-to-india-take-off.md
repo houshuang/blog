@@ -2,7 +2,11 @@
 title: "Why did outsourcing to India take off?"
 created_at: 2005-11-09 00:00:00 -0500
 kind: article
-tags: asia, economics, tech, US
+tags:
+  - asia
+  - economics
+  - tech
+  - US
 ---
 
 I just finished reading “The World is Flat” by Thomas Friedman. He makes

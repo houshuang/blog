@@ -2,7 +2,8 @@
 title: Microsoft gives you beautiful short films
 created_at: Fri, 07 Dec 2007 23:27:00 +0000
 kind: article
-tags: media
+tags:
+  - media
 ---
 
 Not one to normally promote Microsoft or the Zune, I came across [this

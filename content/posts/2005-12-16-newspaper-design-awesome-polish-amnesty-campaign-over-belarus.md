@@ -2,7 +2,9 @@
 title: "Newspaper Design: Awesome Polish Amnesty campaign over Belarus"
 created_at: Fri, 16 Dec 2005 15:52:00 +0000
 kind: article
-tags: europe, politics
+tags:
+  - europe
+  - politics
 ---
 
 ![](http://www.newsdesigner.com/blog/images/nov05/gazet1t.jpg)I am very

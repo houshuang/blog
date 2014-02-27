@@ -2,7 +2,12 @@
 title: Participation statistics of CSCL intro
 created_at: Mon, 20 Jun 2011 12:19:14 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education, open-education, p2pU
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
+  - open-education
+  - p2pU
 ---
 
 **The course**

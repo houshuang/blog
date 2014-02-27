@@ -2,7 +2,10 @@
 title: "CSCL-intro week 1: Constructivism"
 created_at: Tue, 26 Apr 2011 15:30:35 +0000
 kind: article
-tags: academia/research, CSCL-intro, Education
+tags:
+  - academia/research
+  - CSCL-intro
+  - Education
 ---
 
 It is very exciting to see the [CSCL-intro

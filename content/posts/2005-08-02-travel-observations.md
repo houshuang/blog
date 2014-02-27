@@ -2,7 +2,9 @@
 title: Travel observations
 created_at: 2005-08-02 00:00:00 -0400
 kind: article
-tags: personal, US
+tags:
+  - personal
+  - US
 ---
 
 Here are some quick notes on my travels so far:

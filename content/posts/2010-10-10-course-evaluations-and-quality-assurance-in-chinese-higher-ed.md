@@ -2,7 +2,11 @@
 title: Course evaluations and quality assurance in Chinese higher education
 created_at: Sun, 10 Oct 2010 18:28:08 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
 ---
 
 Since the beginning of formal course evaluations in 1985 with the

@@ -2,7 +2,13 @@
 title: "New talk in Chinese: Understanding the meaning of open education, expanding the definition of OER"
 created_at: Mon, 25 May 2009 08:11:00 +0000
 kind: article
-tags: china, events, open access, open-education, opensource, personal
+tags:
+  - china
+  - events
+  - open access
+  - open-education
+  - opensource
+  - personal
 ---
 
 I was kindly invited by Professor Chang to give a presentation to the

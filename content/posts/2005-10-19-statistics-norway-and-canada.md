@@ -2,7 +2,9 @@
 title: Statistics; Norway and Canada
 created_at: 2005-10-19 00:00:00 -0400
 kind: article
-tags: development, economics
+tags:
+  - development
+  - economics
 ---
 
 Last Thursday, I spent several hours reading up on Norwegian and

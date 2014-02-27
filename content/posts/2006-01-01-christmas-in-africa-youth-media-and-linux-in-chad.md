@@ -2,7 +2,8 @@
 title: "Christmas in Africa: Youth media and Linux in Chad"
 created_at: 2006-01-01 00:00:00 -0500
 kind: article
-tags: africa
+tags:
+  - africa
 ---
 
 ![](http://i2r.org/fmm/a13i/washing.jpg)

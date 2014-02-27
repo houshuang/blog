@@ -2,7 +2,9 @@
 title: Jian Ghomeshi on Media Literacy at York University
 created_at: Thu, 24 Jan 2008 22:02:00 +0000
 kind: article
-tags: events, media
+tags:
+  - events
+  - media
 ---
 
 *I have been thinking about trying “event blogging” for a while, since I

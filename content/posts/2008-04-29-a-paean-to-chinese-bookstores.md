@@ -2,7 +2,11 @@
 title: A paean to Chinese bookstores
 created_at: 2008-04-29 00:00:00 -0400
 kind: article
-tags: books, china, personal, travel
+tags:
+  - books
+  - china
+  - personal
+  - travel
 ---
 
 I absolutely love Chinese bookstores. They are often huge, and buzzing

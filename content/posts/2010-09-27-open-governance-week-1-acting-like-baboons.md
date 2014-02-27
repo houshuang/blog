@@ -2,7 +2,12 @@
 title: "Open Governance week 1: Acting like baboons"
 created_at: 2010-09-27 00:00:00 -0400
 kind: article
-tags: academia/research, open-education, open-governance, p2pU, P2PU Open Governance course
+tags:
+  - academia/research
+  - open-education
+  - open-governance
+  - p2pU
+  - P2PU Open Governance course
 ---
 
 I signed up for my first P2PU course this term, [Open

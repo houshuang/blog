@@ -2,7 +2,9 @@
 title: Thank you, Memphis!
 created_at: Thu, 25 Aug 2005 22:34:00 +0000
 kind: article
-tags: personal, US
+tags:
+  - personal
+  - US
 ---
 
 As some of you might know, I had very ambitious plans for yesterday. I

@@ -2,7 +2,8 @@
 title: Privilegied!
 created_at: 2005-07-08 00:00:00 -0400
 kind: article
-tags: personal
+tags:
+  - personal
 ---
 
 I wrote this in an email to a good friend of mine in Toronto, and after

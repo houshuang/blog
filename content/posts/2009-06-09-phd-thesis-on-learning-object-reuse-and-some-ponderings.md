@@ -2,7 +2,8 @@
 title: PhD thesis on learning object reuse, and some ponderings
 created_at: Tue, 09 Jun 2009 08:31:46 +0000
 kind: article
-tags: open-education
+tags:
+  - open-education
 ---
 
 I'm stuck at Dubai airport for 12 hours, coming from Beijing, and

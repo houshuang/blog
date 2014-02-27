@@ -2,7 +2,13 @@
 title: How the world misunderstood the Chinese Top Level Courses Project
 created_at: Fri, 03 Dec 2010 14:40:25 +0000
 kind: article
-tags: academia/research, china, Education, MA thesis, open-education, The Top Level Courses Project
+tags:
+  - academia/research
+  - china
+  - Education
+  - MA thesis
+  - open-education
+  - The Top Level Courses Project
 ---
 
 *When I attended the OpenCourseWare Consortium meeting in Dalian, China

@@ -2,7 +2,8 @@
 title: International TV channel?
 created_at: 2005-12-16 00:00:00 -0500
 kind: article
-tags: media
+tags:
+  - media
 ---
 
 ![](http://www.acig.org/artman/uploads/suaf_mig-29_loading_01.jpg)On the

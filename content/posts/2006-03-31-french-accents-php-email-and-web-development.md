@@ -2,7 +2,8 @@
 title: French accents, php, email and web development
 created_at: 2006-03-31 00:00:00 -0500
 kind: article
-tags: tech
+tags:
+  - tech
 ---
 
 (Geek alert). I have been working a lot on a website funded by CIDA,

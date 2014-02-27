@@ -2,7 +2,8 @@
 title: Reading list dump
 created_at: Mon, 07 Apr 2008 16:50:00 +0000
 kind: article
-tags: books
+tags:
+  - books
 ---
 
 I keep a list of books or articles to read. Sometimes I have kept it as
