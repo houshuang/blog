@@ -177,7 +177,11 @@ ul li {
 }
 ol li {
 	list-style-type: decimal;
-	list-style-position: inside;
+}
+
+ol {
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 dt { font-weight: bold;}
 dd { margin: 0 0 1.5em 0; text-align: justify; }
