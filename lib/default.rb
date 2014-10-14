@@ -64,13 +64,13 @@ module PostHelper
 def get_post_start(post)
   content = post.compiled_content
   if content =~ /<!-- more -->/
-    content = content.partition('<!-- more -->').first 
+    content = content.partition('<!-- more -->').first
   else
     a = content.index("</p>")
     while content[0..a-1].scan(" ").size < 200 do
       b = content.index("</p>", a+1)
       break unless b
-      a = b 
+      a = b
     end
     content = content[0..a-1]
   end
@@ -95,14 +95,22 @@ class Fast < Nanoc3::Filter
   end
 end
 
-
+# totally ugly to avoid [[]] being transformed inside <div> (code blocks)
 class Wiki < Nanoc3::Filter
   identifier :wiki
   def run(content, params={})
-    content.gsub(/ \[\[(.+?)\]\] /m) do |hit|
-      hit = hit[2..-3]
-      hit.index("|") ? (link, text = hit.split('|')) : (link, text = hit)
+    content.gsub(/\<pre\>.+?\<\/pre\>/m) do |hit|
+      hit.gsub(/\[\[(.+?)\]\]/m) do |spechit|
+        spechit = spechit[2..-3]
+        "&&&&#{spechit}&&&&"
+      end
+    end.gsub(/\[\[(.+?)\]\]/m) do |aphit|
+      aphit = aphit[2..-3]
+      aphit.index("|") ? (link, text = aphit.split('|')) : (link, text = [aphit, aphit])
       "<a href='http://reganmian.net/wiki/#{link.gsub(" ", "%20")}'>#{text}</a>"
+    end.gsub(/\&\&\&\&(.+?)\&\&\&\&/m) do |kohit|
+      kohit = kohit[4..-5]
+      "[[#{kohit}]]"
     end
   end
 end
