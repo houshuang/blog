@@ -106,7 +106,7 @@ end
 
 if ARGV[0] == 'new'
   `cp #{Blogpath}/post_template.txt /tmp/nanoc_draft.md`
-  `/usr/local/bin/subl /tmp/nanoc_draft.md`
+  `/usr/local/bin/sublime /tmp/nanoc_draft.md`
 end
 
 def current_window_sublime
@@ -118,7 +118,7 @@ def current_window_sublime
 end
 
 def nanoc_compile
-  `export LC_ALL=en_US.UTF-8;export LANG=en_US.UTF-8;cd '#{Blogpath}';/usr/local/Cellar/ruby/2.0.0-p0/bin/nanoc`
+  `export LC_ALL=en_US.UTF-8;export LANG=en_US.UTF-8;cd '#{Blogpath}';/usr/bin/nanoc`
 end
 
 if ARGV[0] == 'save'
@@ -130,7 +130,7 @@ if ARGV[0] == 'save'
   date = Time.now.strftime("%Y-%m-%d")
   path = Blogpath + "/content/posts/#{date}-#{slug}.md"
   File.open(path, 'w') {|f| f << a}
-  `/usr/local/bin/subl #{path}`
+  `/usr/local/bin/sublime #{path}`
 end
 
 if ARGV[0] == 'preview'

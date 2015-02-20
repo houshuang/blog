@@ -2,6 +2,7 @@
 title: Etherpad + small groups in Skype, a new way of doing P2PU meetings
 created_at: Mon, 23 May 2011 12:13:11 +0000
 kind: article
+location: Shanxi, China
 tags:
   - CSCL-intro
   - open-education
@@ -60,7 +61,7 @@ at all to be forgotten or ignored.
 **Technology and pedagogy**
 
 Given the use of synchronous meetings though, there are two key
-questions to be answered **"technology and pedagogy".**Not only what
+questions to be answered -- Not only what
 tools you will use, but also how you will organize the meeting to be
 most useful to whatever purpose you prioritize. There are quite a lot of
 writings on how to conduct effective classroom lectures, tools for
@@ -91,7 +92,7 @@ never be a group where everyone manages to remember headphones :)). It
 is possible to mute and unmute members, but in the end, this was so
 tiresome, that we ended up migrating naturally to Etherpad.
 
-[![](http://reganmian.net/blog/wp-content/uploads/2011/05/Screen-shot-2011-05-23-at-8.07.51-PM.png "Screen shot 2011-05-23 at 8.07.51 PM")](http://reganmian.net/blog/wp-content/uploads/2011/05/Screen-shot-2011-05-23-at-8.07.51-PM.png)
+[![](http://reganmian.net/blog/wp-content/uploads/2011/05/Screen-shot-2011-05-23-at-8.07.51-PM.png)](http://reganmian.net/blog/wp-content/uploads/2011/05/Screen-shot-2011-05-23-at-8.07.51-PM.png)
 
 Etherpad has a chat window, together with a large collaborative editing
 window. This is a nice combination - you can discuss in the chat, while
@@ -172,5 +173,3 @@ different people, bring it back to the big group, etc.
 Would love to hear from others who try this, refine the concept, or have
 other great ways of conducting synchronous online meetings or study
 groups!
-
-Stian

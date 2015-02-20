@@ -65,8 +65,10 @@ module PostHelper
 
   def get_post_start(post)
     content = post.compiled_content
-    if content =~ /<!-- more -->/
-      content = content.partition('<!-- more -->').first
+    if content =~ /<!—more—>|<!-- more -- >|\<p\>\&lt\;\!—more—\&gt\;<\/p>
+/
+      content = content.partition(/<!—more—>|<!-- more -->|\<p\>\&lt\;\!—more—\&gt\;<\/p>
+/).first
     else
       a = content.index("</p>")
       while content[0..a-1].scan(" ").size < 200 do
@@ -87,6 +89,9 @@ class Replacements < Nanoc3::Filter
   identifier :replacements
   def run(content, params={})
     content.gsub(/^```(.+?)$/, '```language-\1')  # easier to type ```ruby than ```language-ruby
+    content.gsub(/ *-- */, "—")
+    content.gsub(/<!—more—>|<!-- more -- >|\<p\>\&lt\;\!—more—\&gt\;<\/p>
+/,"")
   end
 end
 
@@ -95,17 +100,28 @@ class MyToc < Nanoc3::Filter
   def run(content, params={})
     c = 0
     headers = []
-    tmp = content.gsub(/\<h2\>(.+?)\<\/h2\>/) do |hit|
+    tmp = content.gsub(/\<h[12]\>(.+?)\<\/h[12]\>/) do |hit|
+      h12 = hit[2]
       hit = hit[4..-6]
-      headers += [hit]
+      headers += [[h12.to_i, hit]]
       c += 1
-      "<h2 id=#{c-1}>#{hit}</h2>"
+      "<h1 id=#{c-1}>#{hit}</h1>"
     end
-    out = "<ul>"
+
+    out = ""
+    cur = 0
     toc = headers.each_with_index do |header, i|
-      out += "<li><a href=##{i}>#{header}</a></li>"
+      if header[0] > cur
+        out += "<ul style=\"margin-top: 0em;margin-bottom: 1.5em;\">"
+      elsif header[0] < cur
+        out += "</ul>"
+      end
+      cur = header[0]
+
+      out += "<li><a href=##{i}>#{header[1]}</a></li>"
     end
-    "<div style=\"float:right;font-size:80%;margin:30px;\">" + out + "</ul></div>" + tmp
+    out += "</ul>" * cur
+    "<div style=\"float:right;font-size:80%;margin:30px;\">" + out + "</div>" + tmp
   end
 end
 

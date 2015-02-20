@@ -10,7 +10,7 @@ tags:
   - tech
 ---
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.01.521.png)I
+![left ](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.01.521.png)I
 [just wrote
 about](http://reganmian.net/blog/2012/02/08/two-articles-about-chinese-open-courses-published/)
 two articles published based on [my MA
@@ -29,7 +29,7 @@ but with my MA thesis, I wanted to go further.
 
 **Publishing formats**
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.131.png)
+![ right](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.131.png)
 
 My thesis is licensed under the [Creative Commons BY
 license](http://creativecommons.org/licenses/by/3.0/), which allows
@@ -40,31 +40,27 @@ case, I chose Word DOC, RTF and [Open Document
 Format](http://en.wikipedia.org/wiki/OpenDocument) (ODT) to cover all
 cases (it's trivial to generate several formats from the same program).
 
- 
-
 Some people like to print out long documents for ease of reading. The
 standard way of formatting an MA thesis, with double line space and
-generous margins, is great for editing and annotation, but not ideal for
-general reading. So I created another version, with two columns, wider
+generous margins, is great for editing and annotation, but not ideal for general reading. So I created another version, with two columns, wider
 margins, and single line spacing (this was also available in all the
 formats listed above).
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.26.png)
+![left ](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.26.png)
 
 E-book readers are also becoming more and more popular, and are
 especially well-suited to long form reading like theses. It is usually
 possible to shoe-horn a PDF into one of these, however it doesn't look
 pretty, and you loose certain features, such as table of contents.
 
-\
- I generated epub and mobi versions of the thesis, suitable for Kindle,
+I generated epub and mobi versions of the thesis, suitable for Kindle,
 iBooks and most other devices. I also tried to make the book available
 on Kindle as a self-published book, but Amazon will not allow free
 self-published books, and I didn't want to charge for one version, while
 others were free. (I did publish to SmashWords, but they messed up the
 Chinese characters).
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-15.36.381.png)
+![ right](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-15.36.381.png)
 
 Once I had the Chinese translation ready in July, 2011, I also posted
 several versions of this, including PDF, Word, RTF and ODT
@@ -80,8 +76,8 @@ information.
 
 The other point was to give each individual "piece" of the thesis an
 individual URL, so that people could link
-t![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-15.55.51.png)o
-it. In addition to making a main point, every thesis probably consists
+to it. In addition to making a main point, every thesis probably consists
+![right ](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-15.55.51.png)
 of a number of logical "pieces", which have some value in themselves.
 There is the overview of Chinese higher education history in the lit
 review, there is the section on a commercial ecosystem around open
@@ -90,8 +86,7 @@ to these pieces can link directly to them rather than saying "look up
 page 50 in this PDF". (Having individual URLs also makes it much easier
 to tweet and retweet links).
 
-\
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.52.png)
+![ right](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-14.02.52.png)
 
 So I posted the thesis on my blog progressively over a period of months,
 always tweeting out links as well. Some of the blog posts got a number
@@ -106,7 +101,7 @@ Books](http://books.google.ca/books/about/The_Chinese_National_Top_Level_Courses
 
 **Statistics**
 
-****So after almost 1.5 years, what do the numbers look like? I use both
+So after almost 1.5 years, what do the numbers look like? I use both
 AWStats and Google Analytics to analyze my traffic - neither is perfect.
 AWStats often overreport hits, because of all the referral spam, however
 Google Analytics does not capture PDF downloads at all. I also think the
@@ -116,45 +111,22 @@ files were most downloaded.
 
 In total, my thesis has been downloaded 2.600 times.
 
-Language
+| Language | Downloads |
+|----------|-----------|
+| English  | 2132      |
+| Chinese  | 458       |
 
-Downloads
 
-English
 
-2132
+| Format | Downloads |
+|--------|-----------|
+| PDF    | 2132      |
+| DOC    | 458       |
+| RTF    | 398       |
+| ODT    | 121       |
+| ebook  | 158       |
 
-Chinese
-
-458
-
- \
-
-Format
-
-Downloads
-
-PDF
-
-1291
-
-DOC
-
-622
-
-RTF
-
-398
-
-ODT
-
-121
-
-ebook
-
-158
-
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-16.20.27.png)In
+![ right](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-16.20.27.png)In
 addition, the thesis got downloaded 29 times from T-Space. This seems
 incredibly little, but in this particular case, it is not very
 surprising. First, it was only published several months later on
@@ -185,7 +157,7 @@ at conferences that I didn't even know who told me "I followed your
 thesis with interest". I even had an e-mail from a journal editor
 inviting me to turn my thesis into a paper for his journal.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-16.34.13.png)
+![left ](http://reganmian.net/blog/wp-content/uploads/2012/02/Screen-Shot-2012-02-08-at-16.34.13.png)
 
 I hope this post has inspired you to think about how you publish your
 own research, whether it's your MA or PhD thesis, or you are further in
@@ -196,5 +168,3 @@ a [system](http://reganmian.net/wiki/researchr:start) to enable me to
 take all my working notes [in the public](http://reganmian.net/wiki) and
 hopefully, when my thesis is released, every single citation will link
 back to the notes I took when I first read that paper.
-
-Stian

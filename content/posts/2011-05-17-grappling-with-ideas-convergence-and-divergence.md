@@ -84,7 +84,7 @@ it in, and I would love to hear ideas on how to take my thinking
 further, especially if you know about anyone who has been looking at all
 these different levels before - seems to me that most thinkers
 concentrate on one, whether it's [[Tony Buzan]] and his
-[[the\_mind\_map\_book|mind mapping]] (individual), or [[Marlene
+[[the_mind_map_book|mind mapping]] for individuals, or [[Marlene
 Scardamalia]] and her [[knowledge building]], etc.
 
 Stian PS: You'll notice a tiny little icon behind links to the

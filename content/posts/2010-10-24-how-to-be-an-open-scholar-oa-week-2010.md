@@ -10,7 +10,7 @@ tags:
   - plenk2010
 ---
 
-[](http://www.openaccessweek.org/)[![](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png "Screen shot 2010-10-24 at 4.42.18 PM")](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png)Open
+[](http://www.openaccessweek.org/)[![](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png)](http://reganmian.net/blog/wp-content/uploads/2010/10/Screen-shot-2010-10-24-at-4.42.18-PM.png)Open
 Access Week is a great idea - now in its fourth year, it really enables
 communities to come together across the world to promote the concept of
 Open Access. Last year, we had a number of very successful events at

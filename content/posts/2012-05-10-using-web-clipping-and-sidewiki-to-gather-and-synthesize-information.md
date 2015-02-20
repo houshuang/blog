@@ -18,18 +18,19 @@ it will just use the page URL), and hit a key combo (Ctrl+Alt+Cmd+I).
 The system then pops up a box asking me which page I want to add the
 clipping to.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.42.33.png "Screen Shot 2012-05-10 at 22.42.33")Above
+![ left](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.42.33.png)Above
 you see such a box - it automatically grabs the title from the web page
 to be used for the link, but allows me to edit it. I click OK, get a
 tiny [Growl](http://growl.info) acknowledgement, and I can continue on
 with no interruption.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.44.45.png "Screen Shot 2012-05-10 at 22.44.45")I
+I
 might find some more text that I want to clip, from the same page, or
 from a different page, and I can simply click Ctrl+Alt+Cmd+J for
 "clip-again", which will send the text to the same place I sent the last
 clipping, without bothering to ask (again I will only see a Growl
-acknowledgment). This is on the theory that often you are gathering
+acknowledgment).
+![right ](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.44.45.png)This is on the theory that often you are gathering
 information on the same topic from several sources.
 
 If the page doesn't already exist, it gets created with the proper
@@ -52,12 +53,12 @@ some results of my experimentation. During the clipping, [it looked
 quite
 messy](http://reganmian.net/wiki/fuzzy_text_matching?rev=1331575530).
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.57.031.png "Screen Shot 2012-05-10 at 22.57.03")
+![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.57.031.png)
 
-But the [[fuzzy text matching|the final version]] is a very useful
+But [[fuzzy text matching|the final version]] is a very useful
 reference for me, and might even be useful to others.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.56.29.png "Screen Shot 2012-05-10 at 22.56.29")
+![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-22.56.29.png)
 
 I recently came across an interesting [blog
 entry](http://steve-wheeler.blogspot.ca/2011/07/learning-is-learning.html)
@@ -80,7 +81,7 @@ here](http://reganmian.net/blog/2012/04/11/semantic-researchrdokuwiki-search/)),
 but the functionality is available on any webpage. You can even edit any
 wikipage "with itself".
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-23.09.04.png "Screen Shot 2012-05-10 at 23.09.04")
+![](http://reganmian.net/blog/wp-content/uploads/2012/05/Screen-Shot-2012-05-10-at-23.09.04.png)
 
 Using this approach, I was able to quickly gather information from a
 number of webpages, grab some pictures from a PDF, and organize it all
@@ -92,6 +93,6 @@ relevant or not.
 I made a quick screencast showing the tools in use, pretty much as I've
 narrated in this blog post.
 
-http://www.youtube.com/watch?v=vr2GH1efSHU
+[Screencast](http://www.youtube.com/watch?v=vr2GH1efSHU)
 
 Stian

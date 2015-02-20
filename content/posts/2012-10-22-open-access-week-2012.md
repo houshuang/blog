@@ -8,7 +8,7 @@ tags:
   - open-education
 ---
 
-[![](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg "OpenAccessWeek")](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg)This
+[![](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg)](http://reganmian.net/blog/wp-content/uploads/2012/10/OpenAccessWeek.jpg)This
 week is not only the last debate of the US Presidential election, but
 it's the international [Open Access
 Week](http://www.openaccessweek.org/), now in its sixth year (initially

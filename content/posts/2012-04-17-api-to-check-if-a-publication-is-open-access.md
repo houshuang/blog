@@ -81,7 +81,7 @@ article page on my wiki for an OA article, would look identical to that
 of a TA article, and users would have to copy the title into Google
 Scholar to locate the PDF.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-09.53.35.png "Screen Shot 2012-04-17 at 09.53.35")
+![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-09.53.35.png)
 
 I really wanted to change this, and thought about ways of automatically
 capturing the download URL when importing PDFs. It turns out there is a
@@ -113,20 +113,20 @@ the kind "PDF" (ie. it's not an HTML abstract page).
 If successful, it simply returns "true", and the URL is added to the
 file's metadata.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.18.22.png "Screen Shot 2012-04-17 at 10.18.22")
+![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.18.22.png)
 
 So far, I have not done anything specific to display this fact, although
 the citation template automatically displays the contents of the URL
 field in the citation.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.36.02.png "Screen Shot 2012-04-17 at 10.36.02")
+![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.36.02.png)
 
 Eventually, I want to make a big nice (green?) icon next to this
 metadata field saying "PDF Download" or something similar. However,
 since the URL field is also present in the hidden machine-readable
 metadata field below, we are able to do some fun stuff.
 
-![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.40.12.png "Screen Shot 2012-04-17 at 10.40.12")
+![](http://reganmian.net/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-10.40.12.png)
 
 I traditionally used Ctrl+Alt+Cmd+B as a shortcut to grab a citation
 from Google Scholar. I
