@@ -66,36 +66,35 @@ report, but there are some mentions from domestic media
 [2](http://www.bjreview.com.cn/headline/txt/2010-03/01/content_249096.htm),
 [3](http://english.cri.cn/4406/2009/03/04/2041s460407.htm)).
 
---- --- --- ---
-                                                    **2009**   **2015**   **2020**
-**Pre-school**                                                            
-kids in kindergarten                                26M        35M        40M
-three year pre-school participation rate            50.9%      62%        75%
-one year pre-school participation rate              74%        90%        95%
-**nine year obligatory schooling**                                        
-students                                            157M       161M       165M
-participation rate                                  90.8%      93%        95%
-high school
-students                                            46M        45M        47M
-participation rate                                  79.2%      87%        90%
-**vocational education**                                                  
-secondary vocational education students             21M        22M        23M
-higher vocational education students                13M        14M        15M
-**higher education**                                                      
-students                                            30M        33M        35M
-students on campus                                  28M        31M        33M
-of which: graduate students                         1.4M       1.7M       2M
-participation rate                                  24.2%      36%        40%
-**continuing education**
-employed persons in continuing education            166M       290M       350M
-**goals for developing human capital**
-population having attained higher education         98M        145M       195M
-average years of education for working population   9.5Y       10.5Y      11.2Y
-of which: received higher education                 9.9%       15%        20%
-average years of education for new work force       12.4Y      13.3Y      13.5Y
-of which: received high school degree               67%        87%        90%
---- --- --- ---
+|                                                   | **2009** | **2015** | **2020** |
+|---------------------------------------------------|----------|----------|----------|
+| **Pre-school**                                    |          |          |          |
+| kids in kindergarten                              | 26M      | 35M      | 40M      |
+| three year pre-school participation rate          | 50.9%    | 62%      | 75%      |
+| one year pre-school participation rate            | 74%      | 90%      | 95%      |
+| **nine year obligatory schooling**                |          |          |          |
+| students                                          | 157M     | 161M     | 165M     |
+| participation rate                                | 90.8%    | 93%      | 95%      |
+| high school students                              | 46M      | 45M      | 47M      |
+| participation rate                                | 79.2%    | 87%      | 90%      |
+| **vocational education**                          |          |          |          |
+| secondary vocational education students           | 21M      | 22M      | 23M      |
+| higher vocational education students              | 13M      | 14M      | 15M      |
+| **higher education**                              |          |          |          |
+| students                                          | 30M      | 33M      | 35M      |
+| students on campus                                | 28M      | 31M      | 33M      |
+| of which: graduate students                       | 1.4M     | 1.7M     | 2M       |
+| participation rate                                | 24.2%    | 36%      | 40%      |
+| **continuing education**                          |          |          |          |
+| employed persons in continuing education          | 166M     | 290M     | 350M     |
+| **goals for developing human capital**            |          |          |          |
+| population having attained higher education       | 98M      | 145M     | 195M     |
+| average years of education for working population | 9.5Y     | 10.5Y    | 11.2Y    |
+| of which: received higher education               | 9.9%     | 15%      | 20%      |
+| average years of education for new work force     | 12.4Y    | 13.3Y    | 13.5Y    |
+| of which: received high school degree             | 67%      | 87%      | 90%      |
 
+---
 A few things which I noticed. The participation rate of students goes up
 drastically (from 25% to 40%), but the number of students does not. This
 must mean that demographic predictions show a large decrease in cohort
@@ -140,5 +139,3 @@ from 2006 to 2020, which might talk more about this. These are the only
 numbers in the report (in a table format), the other parts seem to be
 much more oriented to ideals and directions, rather than measurable
 targets. But I will write more when I've read the whole thing.
-
-Stian
