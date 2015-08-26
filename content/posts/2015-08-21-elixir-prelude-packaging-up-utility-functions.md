@@ -2,8 +2,8 @@
 title: "Elixir Prelude: Packing up utility functions"
 created_at: 2015-08-21 11:41:48 -0500
 kind: article
-location: Toronto, China
-tags: tech, vim
+location: Toronto
+tags: tech, elixir
 ---
 
 

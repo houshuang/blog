@@ -1,8 +1,8 @@
 # encoding: utf-8
 
 # copies template to tmp, and opens it in sublime
-require 'Appscript'
-Blogpath = '/Users/Stian/src/blog'
+# require 'Appscript'
+Blogpath = '/Users/stian/src/blog'
 
 # given a start of a filename, and an end, looks if there are already any files existing with the filename (pre)01(post)
 # increments number with one and returns. used to generate filenames like picture01.png picture02.png etc
@@ -70,18 +70,6 @@ class File
 end
 
 
-def get_current_app
-  app = Appscript.app("System Events")
-  return app.application_processes[app.application_processes.frontmost.get.index(true)+1].name.get.strip
-end
-
-def get_current_url
-  chrome = Appscript.app('Google Chrome')
-  url = chrome.windows[1].active_tab.get.URL.get.strip
-  return url
-end
-
-
 # displays and error message and exits (could optionally log, not implemented right now)
 # mainly to enable one-liners instead of if...end
 def fail(message)
@@ -137,7 +125,7 @@ if ARGV[0] == 'preview'
   window = current_window_sublime
   datepath = window[0..9].gsub('-','/')
   slug = datepath + "/" + window[11..-4]
-  a=File.read("/Users/Stian/src/blog/content/posts/#{window}")
+  a=File.read("/Users/stian/src/blog/content/posts/#{window}")
   draft = a =~ /status: draft\n/ ? "draft/" : ""
   nanoc_compile
   `open 'http://localhost/blog/#{draft}#{slug}'`
@@ -163,11 +151,11 @@ if ARGV[0] == 'pic'
     width = 640
     suffix = "whole"
   end
-  
-  pic_path = "/Users/Stian/src/blog/content/images/"
-  window = current_window_sublime.gsub(".md","")
 
-  curfile =  File.last_added("/Users/Stian/Desktop/Screen*.png") # this might be different between different OSX versions
+  pic_path = "/Users/stian/src/blog/content/images/"
+  window = File.last_added("/Users/stian/src/blog/content/posts/*.md").split("/").last.gsub(".md", "")
+
+  curfile =  File.last_added("/Users/stian/Desktop/Screen*.png") # this might be different between different OSX versions
   fail "No screenshots available" if curfile == nil
 
   newfilename, pagenum = filename_in_series("#{pic_path+window}_-_#{suffix}-",".png")
@@ -178,12 +166,12 @@ if ARGV[0] == 'pic'
   end
 
   `cp "#{curfile.strip}" "#{newfilename}"`
-  
+
   # check if needs resizing
   picwidth = Integer(%x{sips --getProperty pixelWidth "#{newfilename}" 2>&1}.split(":")[1])
   if picwidth > width # only resize if pic is too large
     `cp "#{newfilename}" "#{newfilename.gsub(".png","")}-orig.png"` # keep original size
-    `sips --resampleWidth #{width} "#{newfilename}"` 
+    `sips --resampleWidth #{width} "#{newfilename}"`
   end
 
   `mv "#{curfile.strip}" /tmp/image.png`
