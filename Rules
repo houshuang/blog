@@ -46,7 +46,6 @@ compile '/posts/*', :rep => :default do
     :autolink => true, :strikethrough => true, :superscript => true, :with_toc_data => true}
   filter :colorize_syntax, :default_colorizer => :pygmentsrb
   filter :wiki
-  filter :fast
   filter :mytoc if item.attributes[:toc]
   layout 'post'
 end
@@ -58,7 +57,6 @@ compile '/pages/*', :rep => :default do
   filter :redcarpet, options: {:fenced_code_blocks => true, :tables => true, :no_intra_emphasis => true,
     :autolink => true, :strikethrough => true, :superscript => true, :with_toc_data => true}
   filter :colorize_syntax, :default_colorizer => :pygmentsrb
-  filter :fast
   filter :mytoc if item.attributes[:toc]
   layout 'page_category'
 end
@@ -77,7 +75,6 @@ compile '*' do
     # don’t filter binary items
   else
     filter :erb
-    filter :fast
     layout 'page'
   end
 end

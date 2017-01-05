@@ -5,7 +5,7 @@ kind: page
 
 **[![stian-scaled3](http://reganmian.net/blog/wp-content/uploads/2009/03/stian-scaled3-239x300.jpg)](http://reganmian.net/blog/wp-content/uploads/2009/03/stian-scaled3.jpg)**
 
-Hi, I'm Stian Håklev, a PhD student at University of Toronto. Welcome to
+Hi, I'm Stian Håklev, a post-doc at EPFL, Lausanne. Welcome to
 my blog.
 
 **Background/academic interests**I grew up in Norway, and have also
