@@ -1,12 +1,14 @@
 ---
-title: "A 2809CFair Trade2809D logo for academic research?"
+title: 'A "Fair Trade" logo for academic research?'
 created_at: 2008-03-07 00:00:00 -0500
 kind: article
 tags:
   - development
 ---
 
-[![](http://farm1.static.flickr.com/208/468843631_5cc9b31d54_m.jpg)](http://www.flickr.com/photos/55305480@N00/468843631/)It’s
+[![left ](http://farm1.static.flickr.com/208/468843631_5cc9b31d54_m.jpg)](http://www.flickr.com/photos/55305480@N00/468843631/)
+
+It’s
 hard to take any anthropology courses without hearing about research
 ethics from professors eager to deal with anthropology’s colonial past,
 and before we went on our field works we also discussed quite a bit
@@ -66,7 +68,7 @@ above-mentioned points, one should strive to
   accessible online so that they can participate in the international
   scholarly discourse.
 
-[![](http://farm1.static.flickr.com/133/354091619_1dbf98772c_m.jpg)](http://www.flickr.com/photos/69275268@N00/354091619/)\
+[![ right](http://farm1.static.flickr.com/133/354091619_1dbf98772c_m.jpg)](http://www.flickr.com/photos/69275268@N00/354091619/)
  The title of this blog post comes from the flippant idea I had this
 morning in conversation with my flat mates that perhaps some kind of a
 “Fair Research” designation should be developed, with a logo that could
@@ -78,8 +80,6 @@ stronger movement to force people to consider these ideas.
 
 Stian
 
-[![Creative Commons
-License](http://reganmian.net/blog/wp-content/plugins/photo_dropper/images/cc.png)](http://www.photodropper.com/creative-commons/ "creative commons")
-[photo](http://www.photodropper.com/photos/) credits:
+Photo credits:
 [volvidejapon](http://www.flickr.com/photos/55305480@N00/468843631/ "volvidejapon"),
 [](http://www.flickr.com/photos/55305480@N00/468843631/ "volvidejapon")[rosemanios](http://www.flickr.com/photos/69275268@N00/354091619/ "rosemanios")
