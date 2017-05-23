@@ -20,6 +20,9 @@ I still hope to come back to add more information, formats, details etc. But for
 
 - [The thesis itself](https://infoscience.epfl.ch/record/224081) ([PDF](https://infoscience.epfl.ch/record/224081/files/From%20seminar%20to%20lecture%20to%20MOOC%20-%20Ha%CC%8Aklev%202016.pdf))
 - [Poster I presented at EPFL MOOC camp](http://reganmian.net/files/INQ101%20poster%20MOOC%20camp.pdf)
+- [Slides from talk at EMOOCS 2017](https://www.slideshare.net/StianHklev/a-principled-approach-to-the-design-of-collaborative-mooc-curricula), May 22, 2017
+- [A principled approach to the design of collaborative MOOC curricula](https://infoscience.epfl.ch/record/226317/files/EMOOCs_2017_paper_54.pdf), paper for EMOOCS 2017
+- [Recording of talk given at UPF Barcelona on thesis, and current Orchestration Graph project](https://www.youtube.com/watch?v=DuLrm-9N3lQ), April 4, 2017
 - [Recording of talk given in French at TECFA, University of Geneva](https://mediaserver.unige.ch/play/97162), October 18, 2106
 - [Recording of talk given at Knowledge Media Design Institute in Toronto](https://www.youtube.com/watch?v=n31GfyfGyts), July 15, 2016
 - [Recording of online talk given to DANCE network](https://www.youtube.com/watch?v=Laf8WibtaGY), July 7, 2016
